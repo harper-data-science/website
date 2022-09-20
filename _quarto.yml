@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Harper Data Science"
+  sidebar:
+    logo: "img/hds-pad.png"
+    style: "docked"
+    search: true
+    contents: 
+      - section: "Information"
+        contents:
+          - index.qmd
+      - section: "HARUG!"
+        contents:
+          - test.qmd
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+editor: visual
+

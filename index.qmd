@@ -1,0 +1,29 @@
+---
+title: "About"
+---
+
+## Harper Data Science
+
+<center>
+
+![](img/hex-pad.png){width="400"}
+
+[(old website)](https://ha-data-science.github.io/)
+
+</center>
+
+This site is devoted to the R programming, Python, Statistics and Data Science community at Harper Adams University. We meet Wednesdays at 4pm UK time on Teams and via our Slack workspace anytime.
+
+**HARUG!** is the Harper Adams R User Group:
+
+-   Research methods in statistics and AI applications
+
+-   Build data analysis skills and capacity
+
+-   Group problem solving, live coding
+
+-   Tutorials and resource sharing
+
+-   Community
+
+This group is supported by the research and teaching community at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") and by students and alumnists of the [MSc in Data Science for Global Agriculture, Food, and Environment](https://www.harper-adams.ac.uk/courses/postgraduate/201194/data-science-for-global-agriculture-food-and-environment "MSc in Data Science"), and is led by [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page").

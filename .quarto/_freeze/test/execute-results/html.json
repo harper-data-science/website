@@ -1,0 +1,14 @@
+{
+  "hash": "6e87e82d51dd53e3d4707fe51fa64d5a",
+  "result": {
+    "markdown": "---\ntitle: \"2022-09-21\"\n---\n\n\n![](img/harug-hex.png){width=\"125\"}\n\n## Using R and python in Quarto\n\n\n::: {.cell}\n\n```{.python .cell-code}\n# Python in Quarto\nprint('hello world')\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nhello world\n```\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\n# R in Quarto\nprint(\"hello world\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"hello world\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,19 @@
+---
+title: "2022-09-21"
+---
+
+![](img/harug-hex.png){width="125"}
+
+## Using R and python in Quarto
+
+```{python}
+# Python in Quarto
+print('hello world')
+```
+```{r}
+# R in Quarto
+print("hello world")
+```
+
+
+

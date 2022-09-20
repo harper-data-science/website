@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "harug_2022_09_21.html#using-r-and-python-in-quarto",
+    "href": "harug_2022_09_21.html#using-r-and-python-in-quarto",
+    "title": "2022-09-21",
+    "section": "Using R and python in Quarto",
+    "text": "Using R and python in Quarto\n\n# Python in Quarto\nprint('hello world')\n\nhello world\n\n\n\n# R in Quarto\nprint(\"hello world\")\n\n[1] \"hello world\""
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "(old website)\n\nThis site is devoted to the R programming, Python, Statistics and Data Science community at Harper Adams University. We meet Wednesdays at 4pm UK time on Teams and via our Slack workspace anytime.\nHARUG! is the Harper Adams R User Group:\n\nResearch methods in statistics and AI applications\nBuild data analysis skills and capacity\nGroup problem solving, live coding\nTutorials and resource sharing\nCommunity\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+  },
+  {
+    "objectID": "test.html#using-r-and-python-in-quarto",
+    "href": "test.html#using-r-and-python-in-quarto",
+    "title": "2022-09-21",
+    "section": "Using R and python in Quarto",
+    "text": "Using R and python in Quarto\n\n# Python in Quarto\nprint('hello world')\n\nhello world\n\n\n\n# R in Quarto\nprint(\"hello world\")\n\n[1] \"hello world\""
+  }
+]
