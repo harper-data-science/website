@@ -1,0 +1,38 @@
+---
+title: "2022-09-21"
+---
+
+![](img/harug-hex.png){width="125"}
+
+## HARUG "Hello world" using Quarto
+
+**New HARUG! webpage using Quarto and Github Pages.**
+
+Quarto is a new(ish) markdown-style language that has a very simple workflow and can be use to make sophisticated webpages, slides, and reports.
+
+While it is probably easier and more modern than plain markdown or R Markdown, a big advantage is that it can be used to make documents with live code for a variety of languages, including both R and Python.
+
+[Quarto website](https://quarto.org/)
+
+[REALLY excellent documentation](https://quarto.org/docs/guide/)
+
+[Good blog post about setting a quarto website up](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
+
+
+
+## You can render and use both R and python in Quarto
+
+```{python}
+# Python in Quarto
+print('hello world')
+```
+
+```{r}
+# R in Quarto
+print("hello world")
+```
+
+
+<br><br>
+
+This group is supported by the research and teaching community at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") and by students and alumnists of the [MSc in Data Science for Global Agriculture, Food, and Environment](https://www.harper-adams.ac.uk/courses/postgraduate/201194/data-science-for-global-agriculture-food-and-environment "MSc in Data Science"), and is led by [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page").

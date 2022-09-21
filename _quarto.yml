@@ -12,9 +12,10 @@ website:
       - section: "Information"
         contents:
           - index.qmd
+          - schedule.qmd
       - section: "HARUG!"
         contents:
-          - dada.qmd
+          - d20220921.qmd
 
 format:
   html:

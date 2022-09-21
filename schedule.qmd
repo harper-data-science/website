@@ -1,0 +1,20 @@
+---
+title: "Schedule"
+---
+
+![](img/harug-hex.png){width="125"}
+
+## Schedule for The Future
+
+**2022-09-28 (meeting #99)** computer vision project / Python (Matt)
+
+**2022-10-05 (meeting #100)** (in person?) something fun to celebrate our 10^2 meeting (Ed)
+
+**2022-09-28 (meeting #101)** What Natural Language Processing (NLP) is good for (Magda)
+
+**2022-09-28 (meeting #102)** Analysis of spatial data (Joe)
+
+
+<br><br>
+
+This group is supported by the research and teaching community at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") and by students and alumnists of the [MSc in Data Science for Global Agriculture, Food, and Environment](https://www.harper-adams.ac.uk/courses/postgraduate/201194/data-science-for-global-agriculture-food-and-environment "MSc in Data Science"), and is led by [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page").
