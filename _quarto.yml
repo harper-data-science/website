@@ -14,7 +14,7 @@ website:
           - index.qmd
       - section: "HARUG!"
         contents:
-          - d20220901.qmd
+          - dada.qmd
 
 format:
   html:

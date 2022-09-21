@@ -26,5 +26,19 @@
     "title": "2022-09-21",
     "section": "You can render and use R and python in Quarto",
     "text": "You can render and use R and python in Quarto\n\n# Python in Quarto\nprint('hello world')\n\nhello world\n\n\n\n# R in Quarto\nprint(\"hello world\")\n\n[1] \"hello world\""
+  },
+  {
+    "objectID": "dada.html#quarto-an-easier-way-for-modern-markdown",
+    "href": "dada.html#quarto-an-easier-way-for-modern-markdown",
+    "title": "2022-09-21",
+    "section": "Quarto: an easier way for modern markdown…?",
+    "text": "Quarto: an easier way for modern markdown…?\nEd will expound upon the virtues of Quarto and do some live coding of setting up a new Quarto website using Github pages…\nQuarto website\nREALLY excellent documentation"
+  },
+  {
+    "objectID": "dada.html#you-can-render-and-use-r-and-python-in-quarto",
+    "href": "dada.html#you-can-render-and-use-r-and-python-in-quarto",
+    "title": "2022-09-21",
+    "section": "You can render and use R and python in Quarto",
+    "text": "You can render and use R and python in Quarto\n\n# Python in Quarto\nprint('hello world')\n\nhello world\n\n\n\n# R in Quarto\nprint(\"hello world\")\n\n[1] \"hello world\""
   }
 ]
