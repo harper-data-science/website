@@ -6,9 +6,16 @@ title: "2022-09-21"
 
 ## Quarto: an easier way for modern markdown...?
 
+Ed will expound upon the virtues of Quarto and do some live coding of setting up a new Quarto website using Github pages...
+
+
 [Quarto website](https://quarto.org/)
 
-## Using R and python in Quarto
+[REALLY excellent documentation](https://quarto.org/docs/guide/)
+
+
+
+## You can render and use R and python in Quarto
 
 
 ```{python}
