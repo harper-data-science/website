@@ -4,16 +4,19 @@ title: "2022-09-21"
 
 ![](img/harug-hex.png){width="125"}
 
+## Quarto: an easier way for modern markdown...?
+
+[Quarto website](https://quarto.org/)
+
 ## Using R and python in Quarto
+
 
 ```{python}
 # Python in Quarto
 print('hello world')
 ```
+
 ```{r}
 # R in Quarto
 print("hello world")
 ```
-
-
-
