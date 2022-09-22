@@ -4,7 +4,9 @@ title: "Schedule"
 
 ![](img/harug-hex.png){width="125"}
 
-## Schedule for The Future
+We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person.  [Join our Slack channel and introduce yourself](https://join.slack.com/t/harper-adams-rug/shared_invite/zt-azcm9z6s-WsY9JXvAs8DW1DLQuU3USg) for more information and to participate.
+
+## The Future
 
 **2022-09-28 (meeting #99)** computer vision project / Python (Matt)
 

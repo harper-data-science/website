@@ -19,7 +19,10 @@ website:
 
 format:
   html:
-    theme: sandstone
+    highlight-style: a11y
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
