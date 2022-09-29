@@ -18,8 +18,6 @@ While it is probably easier and more modern than plain markdown or R Markdown, a
 
 [Good blog post about setting a quarto website up](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
 
-
-
 ## You can render and use both R and python in Quarto
 
 ```{python}
@@ -31,7 +29,6 @@ print('hello world')
 # R in Quarto
 print("hello world")
 ```
-
 
 <br><br>
 

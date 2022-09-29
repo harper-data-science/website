@@ -67,13 +67,34 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. Join our Slack channel and introduce yourself for more information and to participate."
+    "text": "We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. Join our Slack channel and introduce yourself for more information and to participate (please join with your full real name, e.g. “Florence Nightingale”."
   },
   {
     "objectID": "schedule.html#the-future",
     "href": "schedule.html#the-future",
     "title": "Schedule",
     "section": "The Future",
-    "text": "The Future\n2022-09-28 (meeting #99) computer vision project / Python (Matt)\n2022-10-05 (meeting #100) (in person?) something fun to celebrate our 10^2 meeting (Ed)\n2022-09-28 (meeting #101) What Natural Language Processing (NLP) is good for (Magda)\n2022-09-28 (meeting #102) Analysis of spatial data (Joe)\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+    "text": "The Future\n2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? something fun to celebrate our \\(10^2\\) meeting (Ed) (in person & Teams)\n2022-10-12 (meeting #101) What Natural Language Processing (NLP) is good for (Magda)\n2022-10-19 (meeting #102) Analysis of spatial data (Joe C)\n\n\n 2022-09-28 (meeting #99) Computer vision project / Python (Matt)\n 2022-09-21 (meeting #98) New Quarto website (Ed)\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+  },
+  {
+    "objectID": "d20220928.html#harug-hello-world-using-quarto",
+    "href": "d20220928.html#harug-hello-world-using-quarto",
+    "title": "2022-09-28",
+    "section": "HARUG “Hello world” using Quarto",
+    "text": "HARUG “Hello world” using Quarto\nNew HARUG! webpage using Quarto and Github Pages.\nQuarto is a new(ish) markdown-style language that has a very simple workflow and can be use to make sophisticated webpages, slides, and reports.\nWhile it is probably easier and more modern than plain markdown or R Markdown, a big advantage is that it can be used to make documents with live code for a variety of languages, including both R and Python.\nQuarto website\nREALLY excellent documentation\nGood blog post about setting a quarto website up"
+  },
+  {
+    "objectID": "d20220928.html#you-can-render-and-use-both-r-and-python-in-quarto",
+    "href": "d20220928.html#you-can-render-and-use-both-r-and-python-in-quarto",
+    "title": "2022-09-28",
+    "section": "You can render and use both R and python in Quarto",
+    "text": "You can render and use both R and python in Quarto\n\n# Python in Quarto\nprint('hello world')\n\nhello world\n\n\n\n# R in Quarto\nprint(\"hello world\")\n\n[1] \"hello world\"\n\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+  },
+  {
+    "objectID": "d20220928.html#computer-vision-project-python-matt",
+    "href": "d20220928.html#computer-vision-project-python-matt",
+    "title": "2022-09-28",
+    "section": "Computer vision project / Python (Matt)",
+    "text": "Computer vision project / Python (Matt)\n\n\n\n\n\npptx\nweevilwatch github repo\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
   }
 ]

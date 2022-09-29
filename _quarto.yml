@@ -15,7 +15,8 @@ website:
           - schedule.qmd
       - section: "HARUG!"
         contents:
-          - d20220921.qmd
+         - d20220928.qmd
+         - d20220921.qmd
 
 format:
   html:

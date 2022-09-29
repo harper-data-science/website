@@ -18,7 +18,7 @@ This site is devoted to the R programming, Python, Statistics and Data Science c
 
 ![](img/slack.png){width="40"} [Slack workspace: Join us](https://join.slack.com/t/harper-adams-rug/shared_invite/zt-azcm9z6s-WsY9JXvAs8DW1DLQuU3USg) (kindly register with your real name, e.g. "Ronald Fisher")
 
-![](img/youtube.png){width="40"} [Youtube channel](https://www.youtube.com/channel/UCOEuOH6cY8yisodud25hb7w) 
+![](img/youtube.png){width="40"} [Youtube channel](https://www.youtube.com/channel/UCOEuOH6cY8yisodud25hb7w)
 
 -   Research methods in statistics and AI applications
 
