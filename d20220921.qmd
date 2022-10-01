@@ -14,7 +14,7 @@ While it is probably easier and more modern than plain markdown or R Markdown, a
 
 [Quarto website](https://quarto.org/)
 
-[REALLY excellent documentation](https://quarto.org/docs/guide/)
+[OFFICIAL documentation (excellent)](https://quarto.org/docs/guide/)
 
 [Good blog post about setting a quarto website up](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
 

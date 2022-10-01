@@ -1,16 +1,20 @@
 ---
-title: "2022-09-28"
+title: "2022-10-05"
 ---
 
-![](img/hap-e-hex.png){width="125"}
+![](img/harug-hex.png){width="125"} 
 
-## Computer vision project / Python (Matt)
+## Quarto: R Markdown's "new clothes"? Our $10^2$ meeting! (Ed)
 
-[![](img\thumb-2022-09-28.png){fig-align="left" width="125"}](https://youtu.be/YQFoD4gLxk4)
 
-[pptx](pages\2022-09-28\weevil-detection.pptx)
 
-[weevilwatch github repo](https://github.com/onthesofa/weevil-watch)
+## Resources
+
+[Quarto website](https://quarto.org/)
+
+[OFFICIAL documentation (excellent)](https://quarto.org/docs/guide/)
+
+[Good blog post about setting a quarto website up](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
 
 <br><br>
 

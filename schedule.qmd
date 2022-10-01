@@ -2,7 +2,7 @@
 title: "Schedule"
 ---
 
-![](img/harug-hex.png){width="125"} ![](img/hap-e-hex.png){width="125"} 
+![](img/harug-hex.png){width="125"} ![](img/hap-e-hex.png){width="125"}
 
 We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [Join our Slack channel and introduce yourself](https://join.slack.com/t/harper-adams-rug/shared_invite/zt-azcm9z6s-WsY9JXvAs8DW1DLQuU3USg) for more information and to participate (please join with your full real name, e.g. "Florence Nightingale".
 
@@ -10,7 +10,6 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 
 ## The Future
 
-**2022-10-05 (meeting #100)** Quarto: R Markdown's "new clothes"? something fun to celebrate our $10^2$ meeting (Ed) (in person & Teams)
 
 **2022-10-12 (meeting #101)** What Natural Language Processing (NLP) is good for (Magda)
 
@@ -20,10 +19,11 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 
 ------------------------------------------------------------------------
 
+![](img/harug-hex.png){width="25" height="30"} [**2022-10-05 (meeting #100)**]() Quarto: R Markdown's "new clothes"? Our $10^2$ meeting! (Ed) (in person & Teams)
+
 ![](img/hap-e-hex.png){width="25" height="30"} [**2022-09-28 (meeting #99)**](d20220928.html) Computer vision project / Python (Matt)
 
 ![](img/harug-hex.png){width="25" height="30"} [**2022-09-21 (meeting #98)**](d20220921.html) New Quarto website (Ed)
-
 
 <br><br>
 
