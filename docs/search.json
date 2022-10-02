@@ -116,7 +116,7 @@
     "href": "d20221005.html#quarto-r-markdowns-new-clothes-our-102-meeting-ed",
     "title": "2022-10-05",
     "section": "Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed)",
-    "text": "Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed)"
+    "text": "Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed)\nThe goal here is to make a Quarto website using RStudio, then deploy it to Github pages in an organization repository\nQuarto is a markdown language system used to generate websites and other documents (like pdf, word, html talk slides) that automatically generates all of the formatting framework for you. I.e. you can make a modern, sophisticated website without having to learn html, javascipt, css, etc. There are other tools that can let you do this, but here it is open source, reproducible, integrated into RStudio, and unreliant on third party solutions.\nPreparation\n\nLatest version of RStudio installed\nLatest version of Quarto for RStudio installed\nHave a free Github account\nLatest version of Github Desktop installed"
   },
   {
     "objectID": "d20221005.html#resources",
@@ -131,5 +131,54 @@
     "title": "2022-10-05",
     "section": "",
     "text": "## Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed)\nNew HARUG! webpage using Quarto and Github Pages.\nQuarto is a new(ish) markdown-style language that has a very simple workflow and can be use to make sophisticated webpages, slides, and reports.\nWhile it is probably easier and more modern than plain markdown or R Markdown, a big advantage is that it can be used to make documents with live code for a variety of languages, including both R and Python."
+  },
+  {
+    "objectID": "d20221005.html#github-organization",
+    "href": "d20221005.html#github-organization",
+    "title": "2022-10-05",
+    "section": "1 Github organization",
+    "text": "1 Github organization\nThe advantage of making a github organization here is that it can have a github pages repo, without using the one on your personal account. You can skip this step if you prefer to make this tutorial site using your personal github account github page.\n\n\n1.1 Create github organization\nCreate your organization (I recommend) using the account details matching you main github account. You can add the remaining details as you wish for your organization.\n\n\n\n\nChoose Create a free organization\nOrg. name, (main account) email\n\n\n\n\n\n\n1.2 Create repository\n\nCreate a new repository:\n\nChoose repo name (e.g. ‘website’)\nMake public\nClick Create Repository\n\n\n\n\n\n\n1.3 Local repo\n\n\nset up in Github Desktop (or other means you prefer)\n\n\n\n\nFrom Github Desktop, make a local path for the repo\n\n\n\n\n\nExamine your local directory"
+  },
+  {
+    "objectID": "d20221005.html#github-setup",
+    "href": "d20221005.html#github-setup",
+    "title": "2022-10-05",
+    "section": "1 Github setup",
+    "text": "1 Github setup\nYou can choose to use your personal account or make a free Github organization owned by your personal account.\nThe advantage of making a github organization here is that it can have a github pages repo, without using the one on your personal account. You can skip this step if you prefer to make this tutorial site using your personal github account github page.\n\n\n1.1 Create github organization\nCreate your organization (I recommend) using the account details matching you main github account. You can add the remaining details as you wish for your organization.\n\n\n\n\nChoose Create a free organization\nOrg. name, (main account) email\n\n\n\n\n\n\n1.2 Create repository\n\nCreate a new repository:\n\nChoose repo name (e.g. ‘website’)\nMake public\nClick Create Repository\n\n\n\n\n\n\n1.3 Local repo\n\n\nset up in Github Desktop (or other means you prefer)\n\n\n\n\nFrom Github Desktop, make a local path for the repo\n\n\n\n\n\nExamine your local directory"
+  },
+  {
+    "objectID": "d20221005.html#quarto-website",
+    "href": "d20221005.html#quarto-website",
+    "title": "2022-10-05",
+    "section": "2 Quarto website",
+    "text": "2 Quarto website\nHere we will use RStudio to set up a Quarto website and adjust a few settings\n\n2.1 New project\nIn RStudio:\n\nCreate a new project\nChoose Existing Directory\nbrowse to your local repo folder (/website, if you follow my example)\n\n\n\n\n\n2.2 Create Quarto website template\nNow in the RStudio Terminal tab (the Terminal tab, not the Console tab…), type:\n\nTerminal\n\nquarto create-project --type website\nTerminal output:\n\nFiles output:"
+  },
+  {
+    "objectID": "d20221005.html#basic-quarto-editing",
+    "href": "d20221005.html#basic-quarto-editing",
+    "title": "2022-10-05",
+    "section": "3 Basic quarto editing",
+    "text": "3 Basic quarto editing\nWe are going to set up the most basic quarto website that has two Sections, each with one webpage.\n\n3.1 _quarto.yaml\nYAML stands for “YAML Ain’t Markdown Language”\nMarkdown is a language designed to easily format plain text into modern HTML, which can get complicated\nHTML is HyperText Markup Language, which formats web content documents\nYour _quarto.yaml file allows you to control formatting on your website in a very terse way. There are many options, but they are easy to use and the documentation is very good (see Resources below).\nBasically we are going to:\n\nmake a website type document\nset the output directory for html\nmake sidebar navigation\nset the theme for our website\nenable the “visual” editor in RStudio (slightly buggy but useful)\n\n\n\n3.2 Default YAML\nOpen your _quarto.yaml file in the RStudio editor.\n    project:                << project type\n      type: website\n\n    website:                << website options\n      title: \"website\"      << title\n      navbar:               << navbar options\n        left:\n          - href: index.qmd\n            text: Home\n          - about.qmd\n\n    format:                 << themes and aesthetics\n      html:\n        theme: cosmo\n        css: styles.css\n        toc: true\nWe can quickly see visually how this default YAML file “renders” your website. RStudio will automatically generate .html pages based on code in your .qmd files (our default website has only one .qmd, but a website will typically have more). Then RStudio will launch a “local server” to “host” your rendered website on your local browser to preview it. Let’s do that now:\n\nOpen the index.qmd file in RStudio\nNotice the Quarto Render button\nClick Render!\n\n\n\nYour new website should look like this:\n\n\n\n3.3 Custom YAML\nCustomizing your .yaml file is The Way () to customize your website.\nCopy and past the new yaml below into your _quarto.yaml file. This will:\n\nDirect html outputs to a docs subfolder\nCustomize the website title (use your own)\nCreate a “docked” navigation system\nChange the html theme\nAdd a user-interactive theme button\n\nproject:\n  type: website\n  output-dir: docs\n\nwebsite:\n  title: \"R Stats Bootcamp\"\n  sidebar:\n#    logo: \n    style: \"docked\"\n    search: true\n    contents: \n      - section: \"Information\"\n        contents:\n          - index.qmd\nformat:\n  html:\n    highlight-style: a11y\n    theme:\n      light: flatly\n      dark: darkly\n    css: styles.css\n    toc: true\n\neditor: visual\nNow save it and hit render!\n A. The locally hosted address\nB. The site title\nC. The theme button (dark chosen here)\nD. The Section and page links\n\n\n3.4 .nojekyll\nA strength of Quarto is that is does all of the clever stuff for nice webpages and we can use this on Github. However, Github does some of this by default (far less cleverly). We want to turn this off. There is an easy way to do this by creating an empty placeholder document called .nojekyll in your repo root directory. The presence of this file tells github not to render the markdown by it’s own system (their system being called “Jekyll”).\nNote in the RStudio Terminal (which emulates Linux for [sic] Windoze users)\n\nIn your Terminal window:"
+  },
+  {
+    "objectID": "d20221005.html#quarto-r-markdowns-new-clothes",
+    "href": "d20221005.html#quarto-r-markdowns-new-clothes",
+    "title": "2022-10-05",
+    "section": "Quarto: R Markdown’s “new clothes”?",
+    "text": "Quarto: R Markdown’s “new clothes”?\nOur \\(10^2\\) meeting! (Ed)\nThe goal here is to make a Quarto website using RStudio, then deploy it to Github pages in an organization repository\nQuarto is a markdown language system used to generate websites and other documents (like pdf, word, html talk slides) that automatically generates all of the formatting framework for you. I.e. you can make a modern, sophisticated website without having to learn html, javascipt, css, etc. There are other tools that can let you do this, but here it is open source, reproducible, integrated into RStudio, and unreliant on third party solutions.\nPreparation\n\nLatest version of RStudio installed\nLatest version of Quarto for RStudio installed\nHave a free Github account\nLatest version of Github Desktop installed"
+  },
+  {
+    "objectID": "d20221005.html#configuring-github-pages",
+    "href": "d20221005.html#configuring-github-pages",
+    "title": "2022-10-05",
+    "section": "4 Configuring github pages",
+    "text": "4 Configuring github pages\nNow you have a test website you can experiment with and populate with content. First let’s see how the live version looks on the web.\n\n4.1 Push changes to Github\nBack to Github Desktop.\n There have been some changes!\nA. A list of your changed files\nB. Summary field you must provide (describe changes)\nC. Detail of the changes\nD. The Commit button\nFor now, enter a brief Summary (e.g., “site initialization”), and hit the commit button.\nThe repository will update and the Publish branch button will appear - hit it!\n\n\n\n4.2 Github account\nAfter a few minutes your Github repository will update to be identical to your local copy of the repo.\nNavigate to the repository on your organization account.\n A. Navigate to your repo\nB. Click the Settings tab\nC. Click the Pages option\nD. Choose main on the Branch dropdown\n\n A. Now select /docs on the Select folder dropdown (remember we set output to this folder…)\n\n\n4.3 View your site\nThe format of a Github pages wesite URL (i.e. web address) is like this:\n.github.io/\nE.g.: https://rstats-bootcamp.github.io/website/"
+  },
+  {
+    "objectID": "d20221005.html#develop-your-own-page",
+    "href": "d20221005.html#develop-your-own-page",
+    "title": "2022-10-05",
+    "section": "5 Develop your own page",
+    "text": "5 Develop your own page"
   }
 ]

@@ -152,7 +152,32 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#quarto-r-markdowns-new-clothes-our-102-meeting-ed" id="toc-quarto-r-markdowns-new-clothes-our-102-meeting-ed" class="nav-link active" data-scroll-target="#quarto-r-markdowns-new-clothes-our-102-meeting-ed">Quarto: R Markdown’s “new clothes”? Our <span class="math inline">\(10^2\)</span> meeting! (Ed)</a></li>
+  <li><a href="#quarto-r-markdowns-new-clothes" id="toc-quarto-r-markdowns-new-clothes" class="nav-link active" data-scroll-target="#quarto-r-markdowns-new-clothes">Quarto: R Markdown’s “new clothes”?</a></li>
+  <li><a href="#github-setup" id="toc-github-setup" class="nav-link" data-scroll-target="#github-setup">1 Github setup</a>
+  <ul class="collapse">
+  <li><a href="#create-github-organization" id="toc-create-github-organization" class="nav-link" data-scroll-target="#create-github-organization">1.1 Create github organization</a></li>
+  <li><a href="#create-repository" id="toc-create-repository" class="nav-link" data-scroll-target="#create-repository">1.2 Create repository</a></li>
+  <li><a href="#local-repo" id="toc-local-repo" class="nav-link" data-scroll-target="#local-repo">1.3 Local repo</a></li>
+  </ul></li>
+  <li><a href="#quarto-website" id="toc-quarto-website" class="nav-link" data-scroll-target="#quarto-website">2 Quarto website</a>
+  <ul class="collapse">
+  <li><a href="#new-project" id="toc-new-project" class="nav-link" data-scroll-target="#new-project">2.1 New project</a></li>
+  <li><a href="#create-quarto-website-template" id="toc-create-quarto-website-template" class="nav-link" data-scroll-target="#create-quarto-website-template">2.2 Create Quarto website template</a></li>
+  </ul></li>
+  <li><a href="#basic-quarto-editing" id="toc-basic-quarto-editing" class="nav-link" data-scroll-target="#basic-quarto-editing">3 Basic quarto editing</a>
+  <ul class="collapse">
+  <li><a href="#quarto.yaml" id="toc-quarto.yaml" class="nav-link" data-scroll-target="#quarto.yaml">3.1 <code>_quarto.yaml</code></a></li>
+  <li><a href="#default-yaml" id="toc-default-yaml" class="nav-link" data-scroll-target="#default-yaml">3.2 Default YAML</a></li>
+  <li><a href="#custom-yaml" id="toc-custom-yaml" class="nav-link" data-scroll-target="#custom-yaml">3.3 Custom YAML</a></li>
+  <li><a href="#nojekyll" id="toc-nojekyll" class="nav-link" data-scroll-target="#nojekyll">3.4 <code>.nojekyll</code></a></li>
+  </ul></li>
+  <li><a href="#configuring-github-pages" id="toc-configuring-github-pages" class="nav-link" data-scroll-target="#configuring-github-pages">4 Configuring github pages</a>
+  <ul class="collapse">
+  <li><a href="#push-changes-to-github" id="toc-push-changes-to-github" class="nav-link" data-scroll-target="#push-changes-to-github">4.1 Push changes to Github</a></li>
+  <li><a href="#github-account" id="toc-github-account" class="nav-link" data-scroll-target="#github-account">4.2 Github account</a></li>
+  <li><a href="#view-your-site" id="toc-view-your-site" class="nav-link" data-scroll-target="#view-your-site">4.3 View your site</a></li>
+  </ul></li>
+  <li><a href="#develop-your-own-page" id="toc-develop-your-own-page" class="nav-link" data-scroll-target="#develop-your-own-page">5 Develop your own page</a></li>
   <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
   </ul>
 </nav>
@@ -177,8 +202,234 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p><img src="img/harug-hex.png" class="img-fluid" width="125"></p>
-<section id="quarto-r-markdowns-new-clothes-our-102-meeting-ed" class="level2">
-<h2 class="anchored" data-anchor-id="quarto-r-markdowns-new-clothes-our-102-meeting-ed">Quarto: R Markdown’s “new clothes”? Our <span class="math inline">\(10^2\)</span> meeting! (Ed)</h2>
+<section id="quarto-r-markdowns-new-clothes" class="level2">
+<h2 class="anchored" data-anchor-id="quarto-r-markdowns-new-clothes">Quarto: R Markdown’s “new clothes”?</h2>
+<p><strong>Our</strong> <span class="math inline">\(10^2\)</span> meeting! (Ed)</p>
+<p>The goal here is to make a <strong>Quarto website</strong> using <strong>RStudio</strong>, then deploy it to <strong>Github pages</strong> in an <strong>organization repository</strong></p>
+<p>Quarto is a markdown language system used to generate websites and other documents (like pdf, word, html talk slides) that automatically generates all of the formatting framework for you. I.e. you can make a modern, sophisticated website without having to learn html, javascipt, css, etc. There are other tools that can let you do this, but here it is open source, reproducible, integrated into RStudio, and unreliant on third party solutions.</p>
+<p><strong>Preparation</strong></p>
+<ul>
+<li><p><a href="https://www.rstudio.com/products/rstudio/download/">Latest version of RStudio installed</a></p></li>
+<li><p><a href="https://quarto.org/docs/get-started/">Latest version of Quarto for RStudio installed</a></p></li>
+<li><p><a href="https://github.com/">Have a free Github account</a></p></li>
+<li><p><a href="https://desktop.github.com/">Latest version of Github Desktop installed</a></p></li>
+</ul>
+</section>
+<section id="github-setup" class="level2">
+<h2 class="anchored" data-anchor-id="github-setup">1 Github setup</h2>
+<p>You can choose to use your personal account or make a free Github organization owned by your personal account.</p>
+<p>The advantage of making a github organization here is that it can have a github pages repo, without using the one on your personal account. You can skip this step if you prefer to make this tutorial site using your personal github account github page.</p>
+<p><br></p>
+<section id="create-github-organization" class="level3">
+<h3 class="anchored" data-anchor-id="create-github-organization">1.1 Create github organization</h3>
+<p>Create your organization (I recommend) using the account details matching you main github account. You can add the remaining details as you wish for your organization.</p>
+<p><br></p>
+<p><img src="img/20221005-gitorg.png" class="img-fluid" width="200"></p>
+<p><br></p>
+<ul>
+<li><p>Choose <strong>Create a free organization</strong></p></li>
+<li><p>Org. <strong>name</strong>, (main account) <strong>email</strong></p></li>
+</ul>
+<p><br></p>
+<p><img src="img/20221005-org1.png" class="img-fluid" width="300"></p>
+<p><br></p>
+</section>
+<section id="create-repository" class="level3">
+<h3 class="anchored" data-anchor-id="create-repository">1.2 Create repository</h3>
+<p><br></p>
+<p>Create a new repository:</p>
+<ul>
+<li><p>Choose <strong>repo name</strong> (e.g.&nbsp;‘website’)</p></li>
+<li><p>Make <strong>public</strong></p></li>
+<li><p>Click <strong>Create Repository</strong></p></li>
+</ul>
+<hr>
+<p><img src="img/20221005-repo.png" class="img-fluid" width="500"></p>
+<p><br></p>
+</section>
+<section id="local-repo" class="level3">
+<h3 class="anchored" data-anchor-id="local-repo">1.3 Local repo</h3>
+<p><br></p>
+<ul>
+<li><strong>set up in Github Desktop</strong> (or other means you prefer)</li>
+</ul>
+<p><img src="img/20221005-desktop.png" class="img-fluid" width="300"></p>
+<p><br></p>
+<ul>
+<li>From Github Desktop, <strong>make a local path</strong> for the repo</li>
+</ul>
+<p><img src="img/20221005-desktop2.png" class="img-fluid" width="300"></p>
+<hr>
+<p><br></p>
+<ul>
+<li>Examine your <strong>local directory</strong></li>
+</ul>
+<p><img src="img/20221005-desktop3.png" class="img-fluid" width="300"></p>
+<p><br></p>
+</section>
+</section>
+<section id="quarto-website" class="level2">
+<h2 class="anchored" data-anchor-id="quarto-website">2 Quarto website</h2>
+<p>Here we will use RStudio to set up a Quarto website and adjust a few settings</p>
+<section id="new-project" class="level3">
+<h3 class="anchored" data-anchor-id="new-project">2.1 New project</h3>
+<p>In RStudio:</p>
+<ul>
+<li><p>Create a new project</p></li>
+<li><p>Choose Existing Directory</p></li>
+<li><p>browse to your local repo folder (/website, if you follow my example)</p></li>
+</ul>
+<p><img src="img/20221005-proj.png" class="img-fluid"></p>
+<hr>
+</section>
+<section id="create-quarto-website-template" class="level3">
+<h3 class="anchored" data-anchor-id="create-quarto-website-template">2.2 Create Quarto website template</h3>
+<p>Now in the RStudio <strong>Terminal tab</strong> (the Terminal tab, not the Console tab…), type:</p>
+<blockquote class="blockquote">
+<p>Terminal</p>
+</blockquote>
+<pre><code>quarto create-project --type website</code></pre>
+<p><strong>Terminal output:</strong></p>
+<p><img src="img/20221005-terminal.png" class="img-fluid"></p>
+<p><strong>Files output:</strong></p>
+<p><img src="img/20221005-terminal2.png" class="img-fluid"></p>
+</section>
+</section>
+<section id="basic-quarto-editing" class="level2">
+<h2 class="anchored" data-anchor-id="basic-quarto-editing">3 Basic quarto editing</h2>
+<p>We are going to set up the most basic quarto website that has <strong>two Sections, each with one webpage</strong>.</p>
+<section id="quarto.yaml" class="level3">
+<h3 class="anchored" data-anchor-id="quarto.yaml">3.1 <code>_quarto.yaml</code></h3>
+<p><strong>YAML</strong> stands for “YAML Ain’t Markdown Language”</p>
+<p><strong>Markdown</strong> is a language designed to easily format plain text into modern HTML, which can get complicated</p>
+<p><strong>HTML</strong> is HyperText Markup Language, which formats web content documents</p>
+<p>Your <code>_quarto.yaml</code> file allows you to control formatting on your website in a very terse way. There are many options, but they are easy to use and the documentation is very good (see Resources below).</p>
+<p>Basically we are going to:</p>
+<ul>
+<li><p>make a website type document</p></li>
+<li><p>set the output directory for html</p></li>
+<li><p>make sidebar navigation</p></li>
+<li><p>set the theme for our website</p></li>
+<li><p>enable the “visual” editor in RStudio (slightly buggy but useful)</p></li>
+</ul>
+</section>
+<section id="default-yaml" class="level3">
+<h3 class="anchored" data-anchor-id="default-yaml">3.2 Default YAML</h3>
+<p>Open your <strong>_quarto.yaml</strong> file in the RStudio editor.</p>
+<pre><code>    project:                &lt;&lt; project type
+      type: website
+
+    website:                &lt;&lt; website options
+      title: "website"      &lt;&lt; title
+      navbar:               &lt;&lt; navbar options
+        left:
+          - href: index.qmd
+            text: Home
+          - about.qmd
+
+    format:                 &lt;&lt; themes and aesthetics
+      html:
+        theme: cosmo
+        css: styles.css
+        toc: true</code></pre>
+<p>We can quickly see visually how this default YAML file “renders” your website. RStudio will automatically generate <strong>.html</strong> pages based on code in your <strong>.qmd</strong> files (our default website has only one .qmd, but a website will typically have more). Then RStudio will launch a “local server” to “host” your rendered website on your local browser to preview it. Let’s do that now:</p>
+<ul>
+<li><p>Open the <strong>index.qmd</strong> file in RStudio</p></li>
+<li><p>Notice the Quarto Render button</p></li>
+<li><p>Click Render!</p></li>
+</ul>
+<p><img src="img/20221005-render.png" class="img-fluid"></p>
+<hr>
+<p>Your new website should look like this:</p>
+<p><img src="img/20221005-web1.png" class="img-fluid"></p>
+</section>
+<section id="custom-yaml" class="level3">
+<h3 class="anchored" data-anchor-id="custom-yaml">3.3 Custom YAML</h3>
+<p>Customizing your <code>.yaml</code> file is The Way (<img src="img/icon-mandalorian.webp" class="img-fluid" width="20">) to customize your website.</p>
+<p>Copy and past the new yaml below into your <code>_quarto.yaml</code> file. This will:</p>
+<ul>
+<li><p>Direct html outputs to a <code>docs</code> subfolder</p></li>
+<li><p>Customize the website title (use your own)</p></li>
+<li><p>Create a “docked” navigation system</p></li>
+<li><p>Change the html theme</p></li>
+<li><p>Add a user-interactive theme button</p></li>
+</ul>
+<pre><code>project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "R Stats Bootcamp"
+  sidebar:
+#    logo: 
+    style: "docked"
+    search: true
+    contents: 
+      - section: "Information"
+        contents:
+          - index.qmd
+format:
+  html:
+    highlight-style: a11y
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual</code></pre>
+<p>Now save it and hit render!</p>
+<p><img src="img/20221005-web2.png" class="img-fluid"> A. The locally hosted address</p>
+<p>B. The site title</p>
+<p>C. The theme button (dark chosen here)</p>
+<p>D. The Section and page links</p>
+</section>
+<section id="nojekyll" class="level3">
+<h3 class="anchored" data-anchor-id="nojekyll">3.4 <code>.nojekyll</code></h3>
+<p>A strength of Quarto is that is does all of the clever stuff for nice webpages and we can use this on Github. However, Github does some of this by default (far less cleverly). We want to turn this off. There is an easy way to do this by creating an empty placeholder document called <code>.nojekyll</code> in your repo root directory. The presence of this file tells github not to render the markdown by it’s own system (their system being called “Jekyll”).</p>
+<p>Note in the RStudio Terminal (which emulates Linux for [<em>sic</em>] Windoze users)</p>
+<p><img src="img/20221005-nojekyll.png" class="img-fluid"></p>
+<p>In your <code>Terminal</code> window:</p>
+</section>
+</section>
+<section id="configuring-github-pages" class="level2">
+<h2 class="anchored" data-anchor-id="configuring-github-pages">4 Configuring github pages</h2>
+<p>Now you have a test website you can experiment with and populate with content. First let’s see how the live version looks on the web.</p>
+<section id="push-changes-to-github" class="level3">
+<h3 class="anchored" data-anchor-id="push-changes-to-github">4.1 Push changes to Github</h3>
+<p>Back to Github Desktop.</p>
+<p><img src="img/20221005-ghd1.png" class="img-fluid"> There have been some changes!</p>
+<p>A. A list of your changed files</p>
+<p>B. Summary field you must provide (describe changes)</p>
+<p>C. Detail of the changes</p>
+<p>D. The Commit button</p>
+<p>For now, enter a brief Summary (e.g., “site initialization”), and hit the commit button.</p>
+<p>The repository will update and the Publish branch button will appear - hit it!</p>
+<p><img src="img/20221005-ghd2.png" class="img-fluid"></p>
+</section>
+<section id="github-account" class="level3">
+<h3 class="anchored" data-anchor-id="github-account">4.2 Github account</h3>
+<p>After a few minutes your Github repository will update to be identical to your local copy of the repo.</p>
+<p>Navigate to the repository on your organization account.</p>
+<p><img src="img/20221005-pages.png" class="img-fluid"> A. Navigate to your repo</p>
+<p>B. Click the Settings tab</p>
+<p>C. Click the Pages option</p>
+<p>D. Choose <code>main</code> on the Branch dropdown</p>
+<hr>
+<p><img src="img/20221005-pages1.png" class="img-fluid"> A. Now select <code>/docs</code> on the Select folder dropdown (remember we set output to this folder…)</p>
+</section>
+<section id="view-your-site" class="level3">
+<h3 class="anchored" data-anchor-id="view-your-site">4.3 View your site</h3>
+<p>The format of a Github pages wesite URL (i.e.&nbsp;web address) is like this:</p>
+<p><account name="">.github.io/<github pages="" repo="" name=""></github></account></p>
+<p>E.g.: https://rstats-bootcamp.github.io/website/</p>
+</section>
+</section>
+<section id="develop-your-own-page" class="level2">
+<h2 class="anchored" data-anchor-id="develop-your-own-page">5 Develop your own page</h2>
+<center>
+<p><img src="img/inspiration.jpg" class="img-fluid"></p>
+</center>
 </section>
 <section id="resources" class="level2">
 <h2 class="anchored" data-anchor-id="resources">Resources</h2>
