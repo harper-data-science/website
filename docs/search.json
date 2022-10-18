@@ -11,7 +11,7 @@
     "href": "d20220921.html#you-can-render-and-use-both-r-and-python-in-quarto",
     "title": "2022-09-21",
     "section": "You can render and use both R and python in Quarto",
-    "text": "You can render and use both R and python in Quarto\n\n# Python in Quarto\nprint('hello world')\n\nhello world\n\n\n\n# R in Quarto\nprint(\"hello world\")\n\n[1] \"hello world\"\n\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+    "text": "You can render and use both R and python in Quarto\n\n# Python in Quarto\nprint('hello world')\n\nhello world\n\n\n\n# R in Quarto\nprint(\"hello world\")\n\n[1] \"hello world\"\n\n\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
   },
   {
     "objectID": "d20220928.html#computer-vision-project-python-matt",
@@ -67,14 +67,14 @@
     "href": "d20221005.html#resources",
     "title": "2022-10-05",
     "section": "Resources",
-    "text": "Resources\nQuarto website\nOFFICIAL documentation (excellent)\nGood blog post about setting a quarto website up\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+    "text": "Resources\nQuarto website\nOFFICIAL documentation (excellent)\nGood blog post about setting a quarto website up\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "(old website)\n\nHARUG! is the Harper Adams R User Group\nThis site is devoted to the R programming, Python, Statistics and Data Science community at Harper Adams University. We meet Wednesdays at 4pm UK time on Teams and via our Slack workspace anytime.\n Slack workspace: Join us (kindly register with your real name, e.g. “Ronald Fisher”)\n Youtube channel\n\nResearch methods in statistics and AI applications\nBuild data analysis skills and capacity\nGroup problem solving, live coding\nTutorials and resource sharing\nCommunity\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+    "text": "(old website)\n\nHARUG! is the Harper Adams R User Group\nThis site is devoted to the R programming, Python, Statistics and Data Science community at Harper Adams University. We meet Wednesdays at 4pm UK time on Teams and via our Slack workspace anytime.\n Slack workspace: Join us (kindly register with your real name, e.g. “Ronald Fisher”)\n Youtube channel\n\nResearch methods in statistics and AI applications\nBuild data analysis skills and capacity\nGroup problem solving, live coding\nTutorials and resource sharing\nCommunity\n\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
   },
   {
     "objectID": "ipynb/d20221005.html#quarto-r-markdowns-new-clothes",
@@ -123,6 +123,6 @@
     "href": "schedule.html#the-future",
     "title": "Schedule",
     "section": "The Future",
-    "text": "The Future\n2022-10-12 (meeting #101) What Natural Language Processing (NLP) is good for (Magda)\n2022-10-19 (meeting #102) Analysis of spatial data (Joe C)\n\n\n 2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed) (in person & Teams)\n 2022-09-28 (meeting #99) Computer vision project / Python (Matt)\n 2022-09-21 (meeting #98) New Quarto website (Ed)\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+    "text": "The Future\n2022-11-02 (meeting #104) Intro to the {mlr3} package in R (Ed)\n2022-11-09 (meeting #105) Volunteer needed (Ed is away)\n2022-11-16 (meeting #106) Test of DSSAT pipeline?\n2022-11-23 (meeting #107) Volunteer needed\n\n\n 2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed)\n::: Quarto Github webpage tutorial\n\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt)\n::: pptx ::: weevilwatch github repo\n\n 2022-09-21 (meeting #98) New Quarto website (Ed)\n::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
   }
 ]

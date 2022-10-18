@@ -10,20 +10,46 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 
 ## The Future
 
-**2022-10-12 (meeting #101)** What Natural Language Processing (NLP) is good for (Magda)
 
-**2022-10-19 (meeting #102)** Analysis of spatial data (Joe C)
+**2022-11-02 (meeting #104)** Intro to the {mlr3} package in R (Ed)
+
+**2022-11-09 (meeting #105)** Volunteer needed (Ed is away)
+
+**2022-11-16 (meeting #106)** Test of DSSAT pipeline?
+
+**2022-11-23 (meeting #107)** Volunteer needed 
+
 
 <br>
 
 ------------------------------------------------------------------------
 
-![](img/harug-hex.png){width="25" height="30"} [**2022-10-05 (meeting #100)**]() Quarto: R Markdown's "new clothes"? Our $10^2$ meeting! (Ed) (in person & Teams)
+![](img/harug-hex.png){width="25" height="30"} **2022-10-19 (meeting #102)** Natural Language Processing (NLP) What is it good for? (Magda)
 
-![](img/hap-e-hex.png){width="25" height="30"} [**2022-09-28 (meeting #99)**](d20220928.html) Computer vision project / Python (Matt)
+<br>
 
-![](img/harug-hex.png){width="25" height="30"} [**2022-09-21 (meeting #98)**](d20220921.html) New Quarto website (Ed)
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/SJU-eBBcw5o) **2022-10-12 (meeting #101)** Analysis of spatial data (Joe C)
+
+<br>
+
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/IVNrH5pJP0E) **2022-10-05 (meeting #100)** Quarto: R Markdown's "new clothes"? Our $10^2$ meeting! (Ed)
+
+::: [Quarto Github webpage tutorial](d20220921.html)
+
+<br>
+
+![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/YQFoD4gLxk4) **2022-09-28 (meeting #99)** Computer vision project / Python (Matt)
+
+::: [pptx](pages\2022-09-28\weevil-detection.pptx) ::: [weevilwatch github repo](https://github.com/onthesofa/weevil-watch)
+
+<br>
+
+![](img/harug-hex.png){width="25" height="30"} **2022-09-21 (meeting #98)** New Quarto website (Ed)
+
+::: [Quarto Hello, World](d20220921.html)
 
 <br><br>
+
+![](img/HDS.png){fig-alt="Harper Data Science" width="125"}
 
 This group is supported by the research and teaching community at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") and by students and alumnists of the [MSc in Data Science for Global Agriculture, Food, and Environment](https://www.harper-adams.ac.uk/courses/postgraduate/201194/data-science-for-global-agriculture-food-and-environment "MSc in Data Science"), and is led by [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page").

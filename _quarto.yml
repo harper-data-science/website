@@ -17,7 +17,6 @@ website:
       - section: "HARUG!"
         contents:
          - d20221005.qmd
-         - d20220928.qmd
          - d20220921.qmd
 
 format:

@@ -6,7 +6,7 @@ title: "2022-09-28"
 
 ## Computer vision project / Python (Matt)
 
-[![](img\thumb-2022-09-28.png){fig-align="left" width="125"}](https://youtu.be/YQFoD4gLxk4)
+[![](img%5Cthumb-2022-09-28.png){fig-align="left" width="125"}](https://youtu.be/YQFoD4gLxk4)
 
 [pptx](pages\2022-09-28\weevil-detection.pptx)
 

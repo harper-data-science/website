@@ -6,7 +6,7 @@ title: "About"
 
 <center>
 
-![](img/hex-pad.png){width="400"}
+![](img/hex-pad.png){width="200"}
 
 [(old website)](https://ha-data-science.github.io/)
 
@@ -18,7 +18,7 @@ This site is devoted to the R programming, Python, Statistics and Data Science c
 
 ![](img/slack.png){width="40"} [Slack workspace: Join us](https://join.slack.com/t/harper-adams-rug/shared_invite/zt-azcm9z6s-WsY9JXvAs8DW1DLQuU3USg) (kindly register with your real name, e.g. "Ronald Fisher")
 
-![](img/youtube.png){width="40"} [Youtube channel](https://www.youtube.com/channel/UCOEuOH6cY8yisodud25hb7w)
+![](img/youtube.png){width="35"} [Youtube channel](https://www.youtube.com/channel/UCOEuOH6cY8yisodud25hb7w)
 
 -   Research methods in statistics and AI applications
 
@@ -31,5 +31,7 @@ This site is devoted to the R programming, Python, Statistics and Data Science c
 -   Community
 
 <br><br>
+
+![](img/HDS.png){fig-alt="Harper Data Science" width="125"}
 
 This group is supported by the research and teaching community at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") and by students and alumnists of the [MSc in Data Science for Global Agriculture, Food, and Environment](https://www.harper-adams.ac.uk/courses/postgraduate/201194/data-science-for-global-agriculture-food-and-environment "MSc in Data Science"), and is led by [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page").
