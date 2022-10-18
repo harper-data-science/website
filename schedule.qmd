@@ -11,13 +11,13 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 ## The Future
 
 
-**2022-11-02 (meeting #104)** Intro to the {mlr3} package in R (Ed)
+**2022-10-26 (meeting #104)** Intro to the {mlr3} package in R (Ed)
 
-**2022-11-09 (meeting #105)** Volunteer needed (Ed is away)
+**2022-11-02 (meeting #105)** Volunteer needed
 
-**2022-11-16 (meeting #106)** Test of DSSAT pipeline?
+**2022-11-09 (meeting #106)** Volunteer needed (Ed is away)
 
-**2022-11-23 (meeting #107)** Volunteer needed 
+**2022-11-16 (meeting #107)** Volunteer needed 
 
 
 <br>
