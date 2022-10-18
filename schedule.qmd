@@ -10,7 +10,6 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 
 ## The Future
 
-
 **2022-10-12 (meeting #101)** What Natural Language Processing (NLP) is good for (Magda)
 
 **2022-10-19 (meeting #102)** Analysis of spatial data (Joe C)

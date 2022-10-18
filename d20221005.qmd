@@ -156,24 +156,22 @@ Basically we are going to:
 
 Open your **\_quarto.yaml** file in the RStudio editor.
 
-```{}
-    project:                << project type
-      type: website
+        project:                << project type
+          type: website
 
-    website:                << website options
-      title: "website"      << title
-      navbar:               << navbar options
-        left:
-          - href: index.qmd
-            text: Home
-          - about.qmd
+        website:                << website options
+          title: "website"      << title
+          navbar:               << navbar options
+            left:
+              - href: index.qmd
+                text: Home
+              - about.qmd
 
-    format:                 << themes and aesthetics
-      html:
-        theme: cosmo
-        css: styles.css
-        toc: true
-```
+        format:                 << themes and aesthetics
+          html:
+            theme: cosmo
+            css: styles.css
+            toc: true
 
 We can quickly see visually how this default YAML file "renders" your website. RStudio will automatically generate **.html** pages based on code in your **.qmd** files (our default website has only one .qmd, but a website will typically have more). Then RStudio will launch a "local server" to "host" your rendered website on your local browser to preview it. Let's do that now:
 
@@ -185,9 +183,7 @@ We can quickly see visually how this default YAML file "renders" your website. R
 
 ![](img/20221005-render.png)
 
-
-
----
+------------------------------------------------------------------------
 
 Your new website should look like this:
 
@@ -199,47 +195,47 @@ Customizing your `.yaml` file is The Way (![](img/icon-mandalorian.webp){width="
 
 Copy and past the new yaml below into your `_quarto.yaml` file. This will:
 
-- Direct html outputs to a `docs` subfolder
+-   Direct html outputs to a `docs` subfolder
 
-- Customize the website title (use your own)
+-   Customize the website title (use your own)
 
-- Create a "docked" navigation system
+-   Create a "docked" navigation system
 
-- Change the html theme
+-   Change the html theme
 
-- Add a user-interactive theme button
+-   Add a user-interactive theme button
 
-```{}
-project:
-  type: website
-  output-dir: docs
-
-website:
-  title: "R Stats Bootcamp"
-  sidebar:
-#    logo: 
-    style: "docked"
-    search: true
-    contents: 
-      - section: "Information"
-        contents:
-          - index.qmd
-format:
-  html:
-    highlight-style: a11y
-    theme:
-      light: flatly
-      dark: darkly
-    css: styles.css
-    toc: true
-
-editor: visual
+```{=html}
+<!-- -->
 ```
+    project:
+      type: website
+      output-dir: docs
+
+    website:
+      title: "R Stats Bootcamp"
+      sidebar:
+    #    logo: 
+        style: "docked"
+        search: true
+        contents: 
+          - section: "Information"
+            contents:
+              - index.qmd
+    format:
+      html:
+        highlight-style: a11y
+        theme:
+          light: flatly
+          dark: darkly
+        css: styles.css
+        toc: true
+
+    editor: visual
 
 Now save it and hit render!
 
-![](img/20221005-web2.png)
-A. The locally hosted address
+![](img/20221005-web2.png) A. The locally hosted address
 
 B. The site title
 
@@ -249,24 +245,23 @@ D. The Section and page links
 
 ### 3.4 `.nojekyll`
 
-A strength of Quarto is that is does all of the clever stuff for nice webpages and we can use this on Github.  However, Github does some of this by default (far less cleverly).  We want to turn this off. There is an easy way to do this by creating an empty placeholder document called `.nojekyll` in your repo root directory.  The presence of this file tells github not to render the markdown by it's own system (their system being called "Jekyll").
+A strength of Quarto is that is does all of the clever stuff for nice webpages and we can use this on Github. However, Github does some of this by default (far less cleverly). We want to turn this off. There is an easy way to do this by creating an empty placeholder document called `.nojekyll` in your repo root directory. The presence of this file tells github not to render the markdown by it's own system (their system being called "Jekyll").
 
-Note in the RStudio Terminal (which emulates Linux for [*sic*] Windoze users)
+Note in the RStudio Terminal (which emulates Linux for \[*sic*\] Windoze users)
 
 ![](img/20221005-nojekyll.png)
 
-In your `Terminal` window: 
+In your `Terminal` window:
 
 ## 4 Configuring github pages
 
-Now you have a test website you can experiment with and populate with content.  First let's see how the live version looks on the web.
+Now you have a test website you can experiment with and populate with content. First let's see how the live version looks on the web.
 
 ### 4.1 Push changes to Github
 
 Back to Github Desktop.
 
-![](img/20221005-ghd1.png)
-There have been some changes!
+![](img/20221005-ghd1.png) There have been some changes!
 
 A. A list of your changed files
 
@@ -276,7 +271,7 @@ C. Detail of the changes
 
 D. The Commit button
 
-For now, enter a brief Summary (e.g., "site initialization"), and hit the commit button. 
+For now, enter a brief Summary (e.g., "site initialization"), and hit the commit button.
 
 The repository will update and the Publish branch button will appear - hit it!
 
@@ -288,8 +283,7 @@ After a few minutes your Github repository will update to be identical to your l
 
 Navigate to the repository on your organization account.
 
-![](img/20221005-pages.png)
-A. Navigate to your repo
+![](img/20221005-pages.png) A. Navigate to your repo
 
 B. Click the Settings tab
 
@@ -297,10 +291,9 @@ C. Click the Pages option
 
 D. Choose `main` on the Branch dropdown
 
----
+------------------------------------------------------------------------
 
-![](img/20221005-pages1.png)
-A. Now select `/docs` on the Select folder dropdown (remember we set output to this folder...)
+![](img/20221005-pages1.png) A. Now select `/docs` on the Select folder dropdown (remember we set output to this folder...)
 
 ### 4.3 View your site
 
@@ -312,11 +305,7 @@ E.g.: https://rstats-bootcamp.github.io/website/
 
 ## 5 Develop your own page
 
-<center>
-
-![](img/inspiration.jpg)
-
-</center>
+<center>![](img/inspiration.jpg)</center>
 
 ## Resources
 
