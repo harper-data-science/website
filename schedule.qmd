@@ -11,20 +11,25 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 ## The Future
 
 
-**2022-10-26 (meeting #104)** Intro to the {mlr3} package in R (Ed)
+**2022-10-26 (meeting #103)** Intro to the {mlr3} package in R (Ed)
 
-**2022-11-02 (meeting #105)** Volunteer needed
+**2022-11-02 (meeting #104)** Tidy data and stats for a mysterious experiment (Eric S)? 
 
-**2022-11-09 (meeting #106)** Volunteer needed (Ed is away)
+**2022-11-09 (meeting #105)** No meeting this week
 
-**2022-11-16 (meeting #107)** Volunteer needed 
+**2022-11-16 (meeting #106)** Volunteer needed, or Hayden binomial lme? 
+
+**2022-11-23 (meeting #107)** Modelling example with {mlr3} (Ed)
+
+
 
 
 <br>
 
 ------------------------------------------------------------------------
 
-![](img/harug-hex.png){width="25" height="30"} **2022-10-19 (meeting #102)** Natural Language Processing (NLP) What is it good for? (Magda)
+![](img/harug-hex.png){width="25" height="30"} 
+[![](img/youtube.png){width="35"}](https://youtu.be/MgTKnHACaF4) **2022-10-19 (meeting #102)** Natural Language Processing (NLP) What is it good for? (Magda)
 
 <br>
 
