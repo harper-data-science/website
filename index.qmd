@@ -14,7 +14,8 @@ title: "About"
 
 **HARUG!** is the Harper Adams R User Group
 
-This site is devoted to the R programming, Python, Statistics and Data Science community at Harper Adams University. We meet Wednesdays at 4pm UK time on Teams and via our Slack workspace anytime.
+This site is devoted to the R programming, Python, Statistics and Data Science community at Harper Adams University. We meet Wednesdays at 4pm UK time on Teams and via our [Slack workspace anytime](https://join.slack.com/t/ha-eda-party/shared_invite/zt-w19od3dz-6bjo~dTC_GQeSUUv3B8XzQ) (please join with your full real name, e.g. "Florence Nightingale").
+
 
 ![](img/slack.png){width="40"} [Slack workspace: Join us](https://join.slack.com/t/harper-adams-rug/shared_invite/zt-azcm9z6s-WsY9JXvAs8DW1DLQuU3USg) (kindly register with your real name, e.g. "Ronald Fisher")
 
