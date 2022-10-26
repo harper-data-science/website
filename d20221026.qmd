@@ -1,0 +1,15 @@
+---
+title: "2022-10-05"
+---
+
+![](img/harug-hex.png){width="125"}
+
+## Quarto: R Markdown's "new clothes"?
+
+
+
+<br><br>
+
+![](img/HDS.png){fig-alt="Harper Data Science" width="125"}
+
+This group is supported by the research and teaching community at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") and by students and alumnists of the [MSc in Data Science for Global Agriculture, Food, and Environment](https://www.harper-adams.ac.uk/courses/postgraduate/201194/data-science-for-global-agriculture-food-and-environment "MSc in Data Science"), and is led by [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page").
