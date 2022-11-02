@@ -10,22 +10,22 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 
 ## The Future
 
+**2022-11-09 (meeting #xxx)** No meeting this week
 
-**2022-11-02 (meeting #104)** Tidy data and stats for a mysterious experiment (Eric S)?
+**2022-11-16 (meeting #105)** Volunteer needed, or Hayden binomial lme?
 
-**2022-11-09 (meeting #105)** No meeting this week
-
-**2022-11-16 (meeting #106)** Volunteer needed, or Hayden binomial lme?
-
-**2022-11-23 (meeting #107)** Modelling example with {mlr3} (Ed)
+**2022-11-23 (meeting #106)** Modelling example with {mlr3} (Ed)
 
 <br>
 
 ------------------------------------------------------------------------
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2022-10-26 (meeting #103)** Intro to the {mlr3} package in R (Ed)
-::: [pptx](ppt\2022-10-26.pptx) ::: [R script](scripts\2022-10-26.R) ::: [{mlr3} book site](https://mlr3book.mlr-org.com/)
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2022-11-02 (meeting #104)** Tidy data and stats for a mysterious experiment (Eric S) 
 
+<br>
+
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/KBRl9-qd3Os) 
+**2022-10-26 (meeting #103)** Intro to the {mlr3} package in R (Ed) ::: [pptx](ppt\2022-10-26.pptx) ::: [R script](scripts\2022-10-26.R) ::: [{mlr3} book site](https://mlr3book.mlr-org.com/)
 
 <br>
 
