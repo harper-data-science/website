@@ -23,7 +23,7 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 
 ------------------------------------------------------------------------
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2022-11-16 (meeting #105)** Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) 
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/UIs7rMhqg-w) **2022-11-16 (meeting #105)** Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: [talk pptx](files\2022-11-16\Presentation.pptx) ::: [R script](files\2022-11-16\R analysis 4.R) ::: [Raw data xlsx](files\2022-11-16\Raw data.xlsx) ::: [Count data xlsx](files\2022-11-16\Count data averages.xlsx)
 
 <br>
 
