@@ -10,8 +10,6 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 
 ## The Future
 
-**2022-11-23 (meeting #106)** Cheatsheet activity and future topics survey (Ed)
-
 **2022-11-30 (meeting #107)** Volunteer needed
 
 **2022-12-07 (meeting #108)** Mixed effects model on cattle behaviour data for new R users! (Olivia Bolton)
@@ -22,6 +20,9 @@ We meet most Wednesdays at 4pm UK time via Teams, and occasionally in person. [J
 <br>
 
 ------------------------------------------------------------------------
+
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2022-11-23 (meeting #106)** Future topics survey and cheatsheet activity (Ed) ::: [pptx](pages\2022-11-23-cheatsheets\topics.pptx) ::: [cheatsheet 1](pages\2022-11-23-cheatsheets\1-BaseGraphicsCheatsheet.pdf) :::  [cheatsheet 2](pages\2022-11-23-cheatsheets\2-Posit-data-visualization-1.pdf) ::: [cheatsheet 3](pages\2022-11-23-cheatsheets\3-jenzopr_ggplot2-scatterplots.pdf) ::: [cheatsheet 4](pages\2022-11-23-cheatsheets\4-Posit-purrr.pdf) 
+
 
 ![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/UIs7rMhqg-w) **2022-11-16 (meeting #105)** Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: [talk pptx](files\2022-11-16\Presentation.pptx) ::: [R script](files\2022-11-16\R analysis 4.R) ::: [Raw data xlsx](files\2022-11-16\Raw data.xlsx) ::: [Count data xlsx](files\2022-11-16\Count data averages.xlsx)
 
