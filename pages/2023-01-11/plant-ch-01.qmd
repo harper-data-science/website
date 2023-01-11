@@ -1,0 +1,189 @@
+---
+title: "Plant ch 01"
+subtitle: "HARUG! 2023-01-11"
+author: "Ed Harris"
+format: revealjs
+editor: visual
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Spatial Data in R
+
+<br>
+
+<center>![Plant 2019](img/cover.png){width="35%"}</center>
+
+## Outline
+
+<br>
+
+-   Ch 01:
+    -   Overview
+    -   The datasets
+
+## Spatial data advancements
+
+<br>
+
+-   Increase in sensors, increase in available data
+
+-   Statistical methods and software
+
+-   So-called `spatial data`
+
+-   subtleties, but basically geolocated, x and y coordinates
+
+-   CRS (Coordinate Reference System\[s\])
+
+## Sensors and satellites
+
+<center>![](img/fig01.png){width="60%"}</center>
+
+## Special problems
+
+<br>
+
+Statistical properties of spatial data
+
+1)  Spatial data has a lot of data points, so `power` is large even for `tiny effect sizes`, thus the Null is always rejected (even if practically meaningless)
+
+2)  Spatial data points near each other are almost never `independent`, violating the common assumption that they are (a/k/a `spatial autocorrelation`)
+
+## Special problems
+
+<br>
+
+Ecological properties of spatial data
+
+-   Low 'ecological resolution'
+
+-   High 'data resolution'
+
+-   Complex relationships
+
+(next slide shows **Soil moisture**, **Veg reflectance**, **Yield**...)
+
+## Special problems
+
+<center>![](img/fig02.png){width="45%"}
+
+</center>
+
+
+## Cressie's classification
+
+<br>
+
+1)  **Geo-statistical data** x-y point data with a continuous measure (like soil moisture). Extrapolation between measured points is a goal.
+
+2)  **Areal data** points or polygons representing a uniform unit of measure (like the crop planted within a field boundary)
+
+3)  **Point pattern data** what is the spatial pattern (like whether pest outbreaks are random or spatially explained by some feature)
+
+
+## Geostatistical versus Areal
+
+<center>
+
+![](img/fig03.png){width="60%"}
+
+</center>
+
+## Components of spatial data
+
+<br>
+
+1)  Spatial component (x-y)
+
+2)  Attribute component (something measured or classified)
+
+3)  Scale and sample size (for measuring earthworms, is 1m or 1000m better to sample?)
+
+4)  **Vector data** versus **Raster data**
+
+
+## Dataset 1
+
+Yellow billed cuckoo habitat
+
+<center>
+
+![](img/ybcuckoo.jpg){width=60%}
+
+
+
+</center>
+
+
+## Dataset 1
+
+What spatial featured are associated with presence in this species? (Data has shapes and attributes)
+
+<center>
+
+![](img/fig05.png){width=60%}
+
+</center>
+
+## Dataset 2
+
+Oak woodland habitat characteristics
+
+<center>
+
+![](img/ch01-oak-woodland.png){width=80%}
+
+</center>
+
+
+## Dataset 2 
+
+Why does young oak "recruitment" vary?
+
+Data are rows and columns with x-y coords
+
+Infer where habitat is suitable for oak population growth.
+
+## Dataset 3 
+
+Rice farming, flooding and crop rotation
+
+<center>
+
+![](img/ch01-rice.png){width=70%}
+
+</center>
+
+## Dataset 3 
+
+Spatial orientation of fields
+
+Yield, different farmers
+
+What factors affect yield (e.g. why do some farmers do better than others?)
+
+
+## Dataset 4
+
+Spatial comparison of yield in 2 fields with identical management and crop history
+
+Precision agriculture
+
+What factors affect within-field variation in yield?
+
+
+## Coding
+
+<center>
+
+![](img/hackercat.jpg){width=70%}
+
+</center>
+
+
+
+
+

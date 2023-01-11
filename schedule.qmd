@@ -14,7 +14,7 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 **2023-01-25 (meeting #109)** Bootcamp launch (Ed + HARUG!)
 
-**2023-02-01 (meeting #110)** Spatial statistics with R Read Chapter 03 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed)
+**2023-02-01 (meeting #110)** Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed)
 
 
 
@@ -23,10 +23,10 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 ------------------------------------------------------------------------
 
 ![](img/harug-2023.png){width="25" height="30"} 
-[![](img/youtube.png){width="35"}]() **2023-01-11 (meeting #107)** Spatial statistics with R Read Chapters 01/02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: 
+[![](img/youtube.png){width="35"}]() **2023-01-11 (meeting #107)** Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: 
 
   
-![](pages/2023-01-11/cover.png){width="50" height="75"} ::: [Plant ch01](pages/2023-01-11/ch-01.pdf) ::: [Plant ch02](pages/2023-01-11/ch-02.pdf)
+![](pages/2023-01-11/cover.png){width="50" height="75"} ::: [Plant ch01](pages/2023-01-11/ch-01.pdf) ::: [html slides](pages/2023-01-11/plant-ch-01.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch01 code](pages/2023-01-11/plant-ch01.R) 
 
 
 <br>

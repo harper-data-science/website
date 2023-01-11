@@ -133,6 +133,132 @@
     "text": "Column\n\nChart B\n\n\n\n\n\nChart C"
   },
   {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#spatial-data-in-r",
+    "href": "pages/2023-01-11/plant-ch-01.html#spatial-data-in-r",
+    "title": "Plant ch 01",
+    "section": "Spatial Data in R",
+    "text": "Spatial Data in R\n\n\n\n\n\nPlant 2019"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#outline",
+    "href": "pages/2023-01-11/plant-ch-01.html#outline",
+    "title": "Plant ch 01",
+    "section": "Outline",
+    "text": "Outline\n\n\nCh 01:\n\nOverview\nThe datasets"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#spatial-data-advancements",
+    "href": "pages/2023-01-11/plant-ch-01.html#spatial-data-advancements",
+    "title": "Plant ch 01",
+    "section": "Spatial data advancements",
+    "text": "Spatial data advancements\n\n\nIncrease in sensors, increase in available data\nStatistical methods and software\nSo-called spatial data\nsubtleties, but basically geolocated, x and y coordinates\nCRS (Coordinate Reference System[s])"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#sensors-and-satellites",
+    "href": "pages/2023-01-11/plant-ch-01.html#sensors-and-satellites",
+    "title": "Plant ch 01",
+    "section": "Sensors and satellites",
+    "text": "Sensors and satellites"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#special-problems",
+    "href": "pages/2023-01-11/plant-ch-01.html#special-problems",
+    "title": "Plant ch 01",
+    "section": "Special problems",
+    "text": "Special problems\n\nStatistical properties of spatial data\n\nSpatial data has a lot of data points, so power is large even for tiny effect sizes, thus the Null is always rejected (even if practically meaningless)\nSpatial data points near each other are almost never independent, violating the common assumption that they are (a/k/a spatial autocorrelation)"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#special-problems-1",
+    "href": "pages/2023-01-11/plant-ch-01.html#special-problems-1",
+    "title": "Plant ch 01",
+    "section": "Special problems",
+    "text": "Special problems\n\nEcological properties of spatial data\n\nLow ‘ecological resolution’\nHigh ‘data resolution’\nComplex relationships\n\n(next slide shows Soil moisture, Veg reflectance, Yield…)"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#special-problems-2",
+    "href": "pages/2023-01-11/plant-ch-01.html#special-problems-2",
+    "title": "Plant ch 01",
+    "section": "Special problems",
+    "text": "Special problems"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#cressies-classification",
+    "href": "pages/2023-01-11/plant-ch-01.html#cressies-classification",
+    "title": "Plant ch 01",
+    "section": "Cressie’s classification",
+    "text": "Cressie’s classification\n\n\nGeo-statistical data x-y point data with a continuous measure (like soil moisture). Extrapolation between measured points is a goal.\nAreal data points or polygons representing a uniform unit of measure (like the crop planted within a field boundary)\nPoint pattern data what is the spatial pattern (like whether pest outbreaks are random or spatially explained by some feature)"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#geostatistical-versus-areal",
+    "href": "pages/2023-01-11/plant-ch-01.html#geostatistical-versus-areal",
+    "title": "Plant ch 01",
+    "section": "Geostatistical versus Areal",
+    "text": "Geostatistical versus Areal"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#components-of-spatial-data",
+    "href": "pages/2023-01-11/plant-ch-01.html#components-of-spatial-data",
+    "title": "Plant ch 01",
+    "section": "Components of spatial data",
+    "text": "Components of spatial data\n\n\nSpatial component (x-y)\nAttribute component (something measured or classified)\nScale and sample size (for measuring earthworms, is 1m or 1000m better to sample?)\nVector data versus Raster data"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#dataset-1",
+    "href": "pages/2023-01-11/plant-ch-01.html#dataset-1",
+    "title": "Plant ch 01",
+    "section": "Dataset 1",
+    "text": "Dataset 1\nYellow billed cuckoo habitat"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#dataset-1-1",
+    "href": "pages/2023-01-11/plant-ch-01.html#dataset-1-1",
+    "title": "Plant ch 01",
+    "section": "Dataset 1",
+    "text": "Dataset 1\nWhat spatial featured are associated with presence in this species? (Data has shapes and attributes)"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#dataset-2",
+    "href": "pages/2023-01-11/plant-ch-01.html#dataset-2",
+    "title": "Plant ch 01",
+    "section": "Dataset 2",
+    "text": "Dataset 2\nOak woodland habitat characteristics"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#dataset-2-1",
+    "href": "pages/2023-01-11/plant-ch-01.html#dataset-2-1",
+    "title": "Plant ch 01",
+    "section": "Dataset 2",
+    "text": "Dataset 2\nWhy does young oak “recruitment” vary?\nData are rows and columns with x-y coords\nInfer where habitat is suitable for oak population growth."
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#dataset-3",
+    "href": "pages/2023-01-11/plant-ch-01.html#dataset-3",
+    "title": "Plant ch 01",
+    "section": "Dataset 3",
+    "text": "Dataset 3\nRice farming, flooding and crop rotation"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#dataset-3-1",
+    "href": "pages/2023-01-11/plant-ch-01.html#dataset-3-1",
+    "title": "Plant ch 01",
+    "section": "Dataset 3",
+    "text": "Dataset 3\nSpatial orientation of fields\nYield, different farmers\nWhat factors affect yield (e.g. why do some farmers do better than others?)"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#dataset-4",
+    "href": "pages/2023-01-11/plant-ch-01.html#dataset-4",
+    "title": "Plant ch 01",
+    "section": "Dataset 4",
+    "text": "Dataset 4\nSpatial comparison of yield in 2 fields with identical management and crop history\nPrecision agriculture\nWhat factors affect within-field variation in yield?"
+  },
+  {
+    "objectID": "pages/2023-01-11/plant-ch-01.html#coding",
+    "href": "pages/2023-01-11/plant-ch-01.html#coding",
+    "title": "Plant ch 01",
+    "section": "Coding",
+    "text": "Coding"
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
@@ -144,6 +270,6 @@
     "href": "schedule.html#the-future",
     "title": "Schedule",
     "section": "The Future",
-    "text": "The Future\n2023-01-18 (meeting #108) Natural Language Processing #1 (Ed)\n2023-01-25 (meeting #109) Bootcamp launch (Ed + HARUG!)\n2023-02-01 (meeting #110) Spatial statistics with R Read Chapter 03 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed)\n\n\n  2023-01-11 (meeting #107) Spatial statistics with R Read Chapters 01/02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) :::\n ::: Plant ch01 ::: Plant ch02\n\n  2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: pptx\n\n no video this week 2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed) ::: pptx ::: cheatsheet 1 ::: cheatsheet 2 ::: cheatsheet 3 ::: cheatsheet 4\n\n  2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: talk pptx ::: R script ::: Raw data xlsx ::: Count data xlsx\n\n  2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)\n\n  2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed) ::: pptx ::: R script ::: {mlr3} book site\n\n  2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed)\n::: Quarto Github webpage tutorial\n\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt)\n::: pptx ::: weevilwatch github repo\n\n 2022-09-21 (meeting #98) New Quarto website (Ed)\n::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+    "text": "The Future\n2023-01-18 (meeting #108) Natural Language Processing #1 (Ed)\n2023-01-25 (meeting #109) Bootcamp launch (Ed + HARUG!)\n2023-02-01 (meeting #110) Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed)\n\n\n  2023-01-11 (meeting #107) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) :::\n ::: Plant ch01 ::: html slides ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch01 code\n\n  2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: pptx\n\n no video this week 2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed) ::: pptx ::: cheatsheet 1 ::: cheatsheet 2 ::: cheatsheet 3 ::: cheatsheet 4\n\n  2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: talk pptx ::: R script ::: Raw data xlsx ::: Count data xlsx\n\n  2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)\n\n  2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed) ::: pptx ::: R script ::: {mlr3} book site\n\n  2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed)\n::: Quarto Github webpage tutorial\n\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt)\n::: pptx ::: weevilwatch github repo\n\n 2022-09-21 (meeting #98) New Quarto website (Ed)\n::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
   }
 ]
