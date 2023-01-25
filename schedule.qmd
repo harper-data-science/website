@@ -23,9 +23,10 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 <br>
 
-------------------------------------------------------------------------
+## Meeting topics
 
-![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-01-25 (meeting #110)** Bootcamp launch S02E01 (Ed + HARUG!) ::: 
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-01-25 (meeting #110)** Bootcamp launch S02E01 (Ed + HARUG!) ::: [Bootcamp1](https://rstats-bootcamp.github.io/website/1-setup.html) ::: [slides overview](pages/2023-01-25-RSB-01/slides-overview.html) ::: [slides Setup 01](pages/2023-01-25-RSB-01/slides-01-setup-intro.html)
 
 <br>
 
