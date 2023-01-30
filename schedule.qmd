@@ -10,8 +10,6 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## The Future
 
-**2023-02-01 (meeting #111)** Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed)
-
 **2023-02-08 (no meeting this week)**
 
 **2023-02-15 (meeting #112)** Natural Language Processing session #02 (Ed)
@@ -20,13 +18,17 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 **2023-03-01 (no meeting this week)**
 
-
 <br>
 
 ## Meeting topics
 
+[](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-02-01 (meeting #111)** Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) :::
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-01-25 (meeting #110)** Bootcamp launch S02E01 (Ed + HARUG!) ::: [Bootcamp1](https://rstats-bootcamp.github.io/website/1-setup.html) ::: [slides overview](pages/2023-01-25-RSB-01/slides-overview.html) ::: [slides Setup 01](pages/2023-01-25-RSB-01/slides-01-setup-intro.html)
+![](pages/2023-01-11/cover.png){width="50" height="75"} ::: [Plant ch02](pages/2023-02-01/ch-02.pdf) ::: [html slides ch 02]() ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch02 code]()
+
+<br>
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/K5b3LaqlZ2g) **2023-01-25 (meeting #110)** Bootcamp launch S02E01 (Ed + HARUG!) ::: [Bootcamp1](https://rstats-bootcamp.github.io/website/1-setup.html) ::: [slides overview](pages/2023-01-25-RSB-01/slides-overview.html) ::: [slides Setup 01](pages/2023-01-25-RSB-01/slides-01-setup-intro.html)
 
 <br>
 
