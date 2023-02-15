@@ -10,10 +10,6 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## The Future
 
-**2023-02-08 (no meeting this week)**
-
-**2023-02-15 (meeting #112)** Natural Language Processing session #02 (Ed)
-
 **2023-02-22 (no meeting this week)**
 
 **2023-03-01 (no meeting this week)**
@@ -21,6 +17,10 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 <br>
 
 ## Meeting topics
+
+![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-02-15 (meeting #112)** Natural Language Processing session #02 (Ed) ::: [NLP2 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-2.pptx?raw=1) ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb
+
+<br>
 
 [](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-02-01 (meeting #111)** Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) :::
 
