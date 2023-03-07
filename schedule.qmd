@@ -10,13 +10,20 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## The Future
 
-**2023-02-22 (no meeting this week)**
+**2023-03-15 (meeting #114)** Plant Spatial Statistics Ch 03 (Przemek...?)
 
-**2023-03-01 (no meeting this week)**
+**2023-03-22 (no meeting this week)**
+
+**2023-03-29 (no meeting this week)**
+
 
 <br>
 
 ## Meeting topics
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-03-08 (meeting #113)** Bootcamp launch S02E02 (George W.) ::: [Bootcamp 2](https://rstats-bootcamp.github.io/website/2-r-lang.html) 
+
+<br>
 
 ![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-02-15 (meeting #112)** Natural Language Processing session #02 (Ed) ::: [NLP2 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-2.pptx?raw=1) ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb
 
