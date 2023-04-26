@@ -10,46 +10,53 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## The Future
 
-**2023-03-15 (meeting #114)** Plant Spatial Statistics Ch 03 (Przemek...?)
-
-**2023-03-22 (no meeting this week)**
-
-**2023-03-29 (no meeting this week)**
+**2023-05-03 (meeting #118) My_Tidy_Data %<% Web scraping data with R and tools like readLines() and grep() (Ed H)**
+**2023-05-10 (TBA Volunteer needed)**
+...
+**2023-06-07 (meeting #xxx) "You've heard of ChatGPT, but have you heard of birdNet...?" (Sophie C)**
 
 
 <br>
 
 ## Meeting topics
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-03-08 (meeting #113)** Bootcamp launch S02E02 (George W.) ::: [Bootcamp 2](https://rstats-bootcamp.github.io/website/2-r-lang.html) 
+**2023-04-26 (meeting #117) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)**
+
+**2023-04-19 (meeting #116) Continuation of Plant 2019 Spatial statistics (Przemek D)**
+
+**2023-04-12 (meeting #115) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)**
+
+**2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 (Przemek...?)**
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-03-08 (meeting #113)** Bootcamp launch S02E02 (George W.) ::: [Bootcamp 2](https://rstats-bootcamp.github.io/website/2-r-lang.html) 
 
 <br>
 
-![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-02-15 (meeting #112)** Natural Language Processing session #02 (Ed) ::: [NLP2 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-2.pptx?raw=1) ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb
+![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-02-15 (meeting #112)** Natural Language Processing session #02 (Ed) ::: [NLP2 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-2.pptx?raw=1) ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb
 
 <br>
 
-[](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2023-02-01 (meeting #111)** Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) :::
+[](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-02-01 (meeting #111)** Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) :::
 
-![](pages/2023-01-11/cover.png){width="50" height="75"} ::: [Plant ch02](pages/2023-02-01/ch-02.pdf) ::: [html slides ch 02](https://rawcdn.githack.com/harper-data-science/plant-spatial/3a1a0a5a334f90e19ad022ba5f5dfba6618afce2/slides/plant-ch-02.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch02 code](https://raw.githubusercontent.com/harper-data-science/plant-spatial/main/code-and-data/plant-ch02.R)
-
-<br>
-
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/K5b3LaqlZ2g) **2023-01-25 (meeting #110)** Bootcamp launch S02E01 (Ed + HARUG!) ::: [Bootcamp1](https://rstats-bootcamp.github.io/website/1-setup.html) ::: [slides overview](pages/2023-01-25-RSB-01/slides-overview.html) ::: [slides Setup 01](pages/2023-01-25-RSB-01/slides-01-setup-intro.html)
+![](pages/2023-01-11/cover.png){width="25" height="37"} ::: [Plant ch02](pages/2023-02-01/ch-02.pdf) ::: [html slides ch 02](https://rawcdn.githack.com/harper-data-science/plant-spatial/3a1a0a5a334f90e19ad022ba5f5dfba6618afce2/slides/plant-ch-02.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch02 code](https://raw.githubusercontent.com/harper-data-science/plant-spatial/main/code-and-data/plant-ch02.R)
 
 <br>
 
-![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/pQ8hi1JFxX8) **2023-01-18 (meeting #109)** Natural Language Processing session #01 (Ed) ::: [NLP1 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-1.pptx?raw=1) ::: [NLP1 notbook](https://colab.research.google.com/github/harper-data-science/aws-nlp/blob/main/notebooks/NLP1.ipynb?raw=1)
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/K5b3LaqlZ2g) **2023-01-25 (meeting #110)** Bootcamp launch S02E01 (Ed + HARUG!) ::: [Bootcamp1](https://rstats-bootcamp.github.io/website/1-setup.html) ::: [slides overview](pages/2023-01-25-RSB-01/slides-overview.html) ::: [slides Setup 01](pages/2023-01-25-RSB-01/slides-01-setup-intro.html)
 
 <br>
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/IERTOvn_sLU) **2023-01-11 (meeting #108)** Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) :::
-
-![](pages/2023-01-11/cover.png){width="50" height="75"} ::: [Plant ch01](pages/2023-01-11/ch-01.pdf) ::: [html slides](pages/2023-01-11/plant-ch-01.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch01 code](pages/2023-01-11/plant-ch01.R)
+![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/pQ8hi1JFxX8) **2023-01-18 (meeting #109)** Natural Language Processing session #01 (Ed) ::: [NLP1 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-1.pptx?raw=1) ::: [NLP1 notbook](https://colab.research.google.com/github/harper-data-science/aws-nlp/blob/main/notebooks/NLP1.ipynb?raw=1)
 
 <br>
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}]() **2022-12-07 (meeting #107)** Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: [pptx](pages\2022-12-07-flexdashboard\2022-12-07.pptx)
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/IERTOvn_sLU) **2023-01-11 (meeting #108)** Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) :::
+
+![](pages/2023-01-11/cover.png){width="25" height="37"} ::: [Plant ch01](pages/2023-01-11/ch-01.pdf) ::: [html slides](pages/2023-01-11/plant-ch-01.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch01 code](pages/2023-01-11/plant-ch01.R)
+
+<br>
+
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2022-12-07 (meeting #107)** Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: [pptx](pages\2022-12-07-flexdashboard\2022-12-07.pptx)
 
 <br>
 
@@ -57,33 +64,33 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 <br>
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/UIs7rMhqg-w) **2022-11-16 (meeting #105)** Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: [talk pptx](files\2022-11-16\Presentation.pptx) ::: [R script](files\2022-11-16\R%20analysis%204.R) ::: [Raw data xlsx](files\2022-11-16\Raw%20data.xlsx) ::: [Count data xlsx](files\2022-11-16\Count%20data%20averages.xlsx)
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/UIs7rMhqg-w) **2022-11-16 (meeting #105)** Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: [talk pptx](files\2022-11-16\Presentation.pptx) ::: [R script](files\2022-11-16\R%20analysis%204.R) ::: [Raw data xlsx](files\2022-11-16\Raw%20data.xlsx) ::: [Count data xlsx](files\2022-11-16\Count%20data%20averages.xlsx)
 
 <br>
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/h1Csh4KUeeo) **2022-11-02 (meeting #104)** Tidy data and stats for a mysterious experiment (Eric S)
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/h1Csh4KUeeo) **2022-11-02 (meeting #104)** Tidy data and stats for a mysterious experiment (Eric S)
 
 <br>
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/KBRl9-qd3Os) **2022-10-26 (meeting #103)** Intro to the {mlr3} package in R (Ed) ::: [pptx](ppt\2022-10-26.pptx) ::: [R script](scripts\2022-10-26.R) ::: [{mlr3} book site](https://mlr3book.mlr-org.com/)
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/KBRl9-qd3Os) **2022-10-26 (meeting #103)** Intro to the {mlr3} package in R (Ed) ::: [pptx](ppt\2022-10-26.pptx) ::: [R script](scripts\2022-10-26.R) ::: [{mlr3} book site](https://mlr3book.mlr-org.com/)
 
 <br>
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/MgTKnHACaF4) **2022-10-19 (meeting #102)** Natural Language Processing (NLP) What is it good for? (Magda)
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/MgTKnHACaF4) **2022-10-19 (meeting #102)** Natural Language Processing (NLP) What is it good for? (Magda)
 
 <br>
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/SJU-eBBcw5o) **2022-10-12 (meeting #101)** Analysis of spatial data (Joe C)
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/SJU-eBBcw5o) **2022-10-12 (meeting #101)** Analysis of spatial data (Joe C)
 
 <br>
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/IVNrH5pJP0E) **2022-10-05 (meeting #100)** Quarto: R Markdown's "new clothes"? Our $10^2$ meeting! (Ed)
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/IVNrH5pJP0E) **2022-10-05 (meeting #100)** Quarto: R Markdown's "new clothes"? Our $10^2$ meeting! (Ed)
 
 ::: [Quarto Github webpage tutorial](d20220921.html)
 
 <br>
 
-![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="35"}](https://youtu.be/YQFoD4gLxk4) **2022-09-28 (meeting #99)** Computer vision project / Python (Matt)
+![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/YQFoD4gLxk4) **2022-09-28 (meeting #99)** Computer vision project / Python (Matt)
 
 ::: [pptx](pages\2022-09-28\weevil-detection.pptx) ::: [weevilwatch github repo](https://github.com/onthesofa/weevil-watch)
 
