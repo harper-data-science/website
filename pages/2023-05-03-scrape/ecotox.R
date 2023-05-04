@@ -21,10 +21,13 @@ url <- "https://sitem.herts.ac.uk/aeru/ppdb/en/Reports/373.htm"
 
 response <- httr::GET(url)
 
-html_content <- as.character(page)
 
 # Parse the HTML content
 page <- read_html(response$content)
+
+html_content <- as.character(page)
+
+
 
 # Extract the Terrestrial ecotoxicology table
 ecotoxicology_table1 <- page %>%

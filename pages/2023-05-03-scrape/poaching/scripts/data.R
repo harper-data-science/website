@@ -19,7 +19,8 @@ for(i in 1:length(folders)) {
 }
 
 ## Make a holder for the raw data
-names <- c('caseid','date','event','comment','country1','country2','species', 'order')
+names <- c('caseid','date','event','comment','country1',
+           'country2','species', 'order')
 masterdata <- data.frame(matrix(nrow=0, ncol = length(names)))
 colnames(masterdata) <- names
 

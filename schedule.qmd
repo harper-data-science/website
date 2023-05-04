@@ -24,7 +24,7 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug-2023.png){width="25" height="30"} **2023-05-03 (meeting #119) My_Tidy_Data %\<% Web scraping data with R and tools like readLines() and grep() (Ed H)** [Manual scrape project files](data/2023-05-03-scrape/poaching.zip) ::: ["Autoscrape" example script](data/2023-05-03-scrape/ecotox.R)
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/Whxin4tv8xk) **2023-05-03 (meeting #119) My_Tidy_Data %\<% Web scraping data with R and tools like readLines() and grep() (Ed H)** [Manual scrape project files](data/2023-05-03-scrape/poaching.zip) ::: ["Autoscrape" example script](data/2023-05-03-scrape/ecotox.R)
 
 ![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/8dtJLB16dyY) **2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)**::: [DeepLabCut website](http://www.mackenziemathislab.org/deeplabcut) ::: [George W ppt](pages/2023-04-05-DLC1/deepcutlabs-powerpoint.pptx)
 
