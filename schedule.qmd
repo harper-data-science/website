@@ -10,21 +10,20 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## The Future
 
-**2023-05-10 No meeting this week**
-
-**2023-05-17 Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H)**
-
-**2023-05-24 Using ChatGPT to support data analysis - some experimental results (Ed H)**
-
-...
-
-**2023-06-07 "You've heard of ChatGPT, but have you heard of birdNet...?" (Sophie C)**
+**2023-05-31 Progress update on DeepLabCut (George W)**
+**2023-06-07 “You’ve heard of ChatGPT, but have you heard of birdNet…?” (Sophie C)**
+**2023-06-14 Docker-related session? (Matt B)**
+**2023-06-21 subject TBD (Ed H)**
 
 <br>
 
 ## Meeting topics
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/Whxin4tv8xk) **2023-05-03 (meeting #119) My_Tidy_Data %\<% Web scraping data with R and tools like readLines() and grep() (Ed H)** [Manual scrape project files](data/2023-05-03-scrape/poaching.zip) ::: ["Autoscrape" example script](data/2023-05-03-scrape/ecotox.R)
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H)** [chatGPT experiments slides](pages/2023-05-24-chatGPT/chatGPT.pptx) ::: [chatGPT prompts](pages/2023-05-24-chatGPT/prompts.docx) ::: [milkers project zip](pages/2023-05-24-chatGPT/milkers.zip)
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/pDhFHeQP6Vo) **2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H)** [chatGPT slides](pages/2023-05-17-chatGPT/chatGPT.pptx) ::: [chatGPT prompts](pages/2023-05-17-chatGPT/prompts.docx)
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/Whxin4tv8xk) **2023-05-03 (meeting #119) My_Tidy_Data %\<% Web scraping data with R and tools like readLines() and grep() (Ed H)** [Manual scrape project files](pages/2023-05-03-scrape/poaching.zip) ::: ["Autoscrape" example script](pages/2023-05-03-scrape/ecotox.R)
 
 ![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/8dtJLB16dyY) **2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)**::: [DeepLabCut website](http://www.mackenziemathislab.org/deeplabcut) ::: [George W ppt](pages/2023-04-05-DLC1/deepcutlabs-powerpoint.pptx)
 
@@ -46,7 +45,7 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/pQ8hi1JFxX8) **2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed)** ::: [NLP1 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-1.pptx?raw=1) ::: [NLP1 notbook](https://colab.research.google.com/github/harper-data-science/aws-nlp/blob/main/notebooks/NLP1.ipynb?raw=1)
 
-![](pages/2023-01-11/cover.png){width="25" height="37"}  [![](img/youtube.png){width="30"}](https://youtu.be/IERTOvn_sLU) **2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed)** ::: [Plant ch01](pages/2023-01-11/ch-01.pdf) ::: [html slides](pages/2023-01-11/plant-ch-01.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch01 code](pages/2023-01-11/plant-ch01.R)
+![](pages/2023-01-11/cover.png){width="25" height="37"} [![](img/youtube.png){width="30"}](https://youtu.be/IERTOvn_sLU) **2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed)** ::: [Plant ch01](pages/2023-01-11/ch-01.pdf) ::: [html slides](pages/2023-01-11/plant-ch-01.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch01 code](pages/2023-01-11/plant-ch01.R)
 
 ![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed)** ::: [pptx](pages\2022-12-07-flexdashboard\2022-12-07.pptx)
 
@@ -62,7 +61,7 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/SJU-eBBcw5o) **2022-10-12 (meeting #101) Analysis of spatial data (Joe C)**
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/IVNrH5pJP0E) **2022-10-05 (meeting #100) Quarto: R Markdown's "new clothes"? Our $10^2$ meeting! (Ed)** ::: [Quarto Github webpage tutorial](d20220921.html)
+![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/IVNrH5pJP0E) **2022-10-05 (meeting #100) Quarto: R Markdown's "new clothes"? Our** $10^2$ meeting! (Ed) ::: [Quarto Github webpage tutorial](d20220921.html)
 
 ![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/YQFoD4gLxk4) **2022-09-28 (meeting #99) Computer vision project / Python (Matt)** ::: [pptx](pages\2022-09-28\weevil-detection.pptx) ::: [weevilwatch github repo](https://github.com/onthesofa/weevil-watch)
 
