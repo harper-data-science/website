@@ -10,19 +10,27 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## The Future
 
-**2023-05-31 Progress update on DeepLabCut (George W)**
+**2023-07-12 (meeting #126) Docker web app demo (Matt B and possibly Harry)**
 
-**2023-06-07 “You’ve heard of ChatGPT, but have you heard of birdNet…?” (Sophie C)**
+**2023-07-19 (meeting #127) TBA (volunteer needed)**
 
-**2023-06-14 Docker-related session? (Matt B)**
+**2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B)**
 
-**2023-06-21 subject TBD (Ed H)**
+**2023-08-02 (meeting #129) TBA (Ed H)**
 
 <br>
 
 ## Meeting topics
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H)** [chatGPT experiments slides](pages/2023-05-24-chatGPT/chatGPT.pptx) ::: [chatGPT prompts](pages/2023-05-24-chatGPT/prompts.docx) ::: [milkers project zip](pages/2023-05-24-chatGPT/milkers.zip)
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]( ) **2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H)** ::: [R proj files zip](pages/2023-07-05-pwr-sim/data.zip)
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]( https://youtu.be/007ysMYsKdw) **2023-06-14 (meeting #124) Docker-related session? (Matt B)**
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/x9LV_GEkWYU) **2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)**  
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/kPhWt0ASHbk) **2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)** 
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/kPhWt0ASHbk) **2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H)** [chatGPT experiments slides](pages/2023-05-24-chatGPT/chatGPT.pptx) ::: [chatGPT prompts](pages/2023-05-24-chatGPT/prompts.docx) ::: [milkers project zip](pages/2023-05-24-chatGPT/milkers.zip)
 
 ![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/pDhFHeQP6Vo) **2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H)** [chatGPT slides](pages/2023-05-17-chatGPT/chatGPT.pptx) ::: [chatGPT prompts](pages/2023-05-17-chatGPT/prompts.docx)
 
