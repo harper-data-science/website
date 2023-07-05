@@ -22,7 +22,7 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]( ) **2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H)** ::: [R proj files zip](pages/2023-07-05-pwr-sim/data.zip)
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]( ) **2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H)** ::: [R proj files zip](pages/2023-07-05-pwr-sim/data.zip) ::: [slides](pages/2023-07-05-pwr-sim/2023-07-05-pwr-sim.pptx)
 
 ![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]( https://youtu.be/007ysMYsKdw) **2023-06-14 (meeting #124) Docker-related session? (Matt B)**
 
