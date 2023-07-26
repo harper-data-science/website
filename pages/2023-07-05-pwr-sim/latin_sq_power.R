@@ -7,7 +7,7 @@ library(ggeffects)
 library(readxl)
 library(lubridate)
 
-data <- read_excel('dummy_dat.xlsx')
+data <- read_excel('data/dummy_dat.xlsx')
 
 aggregate(data$pH~data$Diet, FUN = mean)
 sd(data$pH)
@@ -35,7 +35,7 @@ anova(myfit)
 data1 <- data[data$Cow !='Freya',]
 
 library(lme4)
-myfit <- lmer(pH ~ Diet * Time+ (1|Cow), data)
+myfit <- lmer(pH ~ Diet * Time + (1|Cow), data)
 summary(myfit)
 anova(myfit)
 
@@ -54,3 +54,4 @@ sample(unique(data$Cow), 5)
 library(lattice)
 xyplot(pH ~ factor(Diet) + Time|Cow, groups = Cow, data = data, 
        pch=19, lwd=2, type=c('p','r'))
+

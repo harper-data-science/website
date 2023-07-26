@@ -37,5 +37,11 @@
   },
   "pages/2023-01-11/plant-ch-01.qmd": {
     "plant-ch-01.html": "2f16e83a"
+  },
+  "pages/2023-07-05-pwr-sim/pwr_report.knit.md": {
+    "pwr_report.knit.html": "63414e95"
+  },
+  "pages/2023-07-05-pwr-sim/pwr_report.Rmd": {
+    "pwr_report.html": "d5350631"
   }
 }

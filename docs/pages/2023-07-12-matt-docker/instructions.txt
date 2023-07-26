@@ -1,0 +1,14 @@
+Pplease give this link for those who may want to install docker desktop to try stuff out:
+
+https://www.docker.com/products/docker-desktop/
+
+For those who are super keen and manage to download and install it they can open a cmd window and run the following cryptic command to get a sneak preview:
+
+docker run -ti -v c:\harug:/home/rstudio/shared -e PASSWORD=harper -p 8787:8787 -p 5900:5901 onthesofa/harug-workspace
+Once they do that they can go to 'localhost:8787' in their browser or just 'localhost' in a vnc viewer.
+
+Thanks,
+
+Matt
+
+P.S. If something else is planned I'm happy to do it another time.

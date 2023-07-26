@@ -10,19 +10,27 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## The Future
 
-**2023-07-12 (meeting #126) Docker web app demo (Matt B and possibly Harry)**
-
-**2023-07-19 (meeting #127) TBA (volunteer needed)**
-
 **2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B)**
 
-**2023-08-02 (meeting #129) TBA (Ed H)**
+**2023-08-02 (meeting #129) Python resources for the curious + a recent project... (Ed H)**
+
+**2023-08-09 summer pause**
+
+...
+
+**2023-09-06 (meeting #130) Topic TBA (Ed H)**
+
+
 
 <br>
 
 ## Meeting topics
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]( ) **2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H)** ::: [R proj files zip](pages/2023-07-05-pwr-sim/data.zip) ::: [slides](pages/2023-07-05-pwr-sim/2023-07-05-pwr-sim.pptx)
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/-hEhJXeIxUU) **2023-07-19 chatGPT + code interpreter for data analysis (Joe R)** ::: [R proj files zip](pages/2023-07-05-pwr-sim/data.zip) ::: [slides](pages/2023-07-05-pwr-sim/2023-07-05-pwr-sim.pptx)
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/UaX8dkaW5MI) **2023-07-12 (meeting #126) Docker web app demo (Matt B)** ::: [instructions](pages/2023-07-12-matt-docker/instructions.txt) ::: [slides](pages/2023-07-12-matt-docker/Docker_2.pptx)
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/i2eKByT6vls) **2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H)** ::: [R proj files zip](pages/2023-07-05-pwr-sim/data.zip) ::: [slides](pages/2023-07-05-pwr-sim/2023-07-05-pwr-sim.pptx)
 
 ![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]( https://youtu.be/007ysMYsKdw) **2023-06-14 (meeting #124) Docker-related session? (Matt B)**
 
