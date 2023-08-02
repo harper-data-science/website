@@ -270,14 +270,14 @@
     "href": "schedule.html#the-future",
     "title": "Schedule",
     "section": "The Future",
-    "text": "The Future\n\n2023-08-02 (meeting #129) Python resources for the curious + a recent project… (Ed H)\n2023-08-09 summer pause\n…\n2023-09-06 (meeting #130) Topic TBA (Ed H)"
+    "text": "The Future\n\n2023-08-09 summer pause\n…\n2023-09-06 (meeting #130) Topic TBA (Ed H)"
   },
   {
     "objectID": "schedule.html#meeting-topics",
     "href": "schedule.html#meeting-topics",
     "title": "Schedule",
     "section": "Meeting topics",
-    "text": "Meeting topics\n  2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B) ::: slides\n  2023-07-19 (meeting #127) chatGPT + code interpreter for data analysis (Joe R)\n  2023-07-12 (meeting #126) Docker web app demo (Matt B) ::: instructions ::: slides\n  2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H) ::: R proj files zip ::: slides\n  2023-06-14 (meeting #124) Docker-related session? (Matt B)\n  2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)\n  2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)\n  2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H) chatGPT experiments slides ::: chatGPT prompts ::: milkers project zip\n  2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H) chatGPT slides ::: chatGPT prompts\n  2023-05-03 (meeting #119) My_Tidy_Data %<% Web scraping data with R and tools like readLines() and grep() (Ed H) Manual scrape project files ::: “Autoscrape” example script\n  2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-19 (meeting #117) Plant Spatial Statistics Ch 03 Part 2 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-04-12 (meeting #116) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-05 (meeting #115) Part 1: Animal pose and behaviour detection in Deeplabcut (George W) ::: DeepLabCut website ::: George W ppt\n  2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 Part 1 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-03-08 (meeting #113) Bootcamp launch S02E02 (George W.) ::: Bootcamp 2\n 2023-02-15 (meeting #112) Natural Language Processing session #02 (Ed) ::: NLP2 slides ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb\n 2023-02-01 (meeting #111) Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch02 ::: html slides ch 02 ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch02 code\n  2023-01-25 (meeting #110) Bootcamp launch S02E01 (Ed + HARUG!) ::: Bootcamp1 ::: slides overview ::: slides Setup 01\n  2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed) ::: NLP1 slides ::: NLP1 notbook\n  2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch01 ::: html slides ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch01 code\n  2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: pptx\n 2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed) ::: pptx ::: cheatsheet 1 ::: cheatsheet 2 ::: cheatsheet 3 ::: cheatsheet 4\n  2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: talk pptx ::: R script ::: Raw data xlsx ::: Count data xlsx\n  2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)\n  2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed) ::: pptx ::: R script ::: {mlr3} book site\n  2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed) ::: Quarto Github webpage tutorial\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt) ::: pptx ::: weevilwatch github repo\n 2022-09-21 (meeting #98) New Quarto website (Ed) ::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+    "text": "Meeting topics\n  2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H) ::: slides ::: data ::: colab notebook\n  2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B) ::: slides\n  2023-07-19 (meeting #127) chatGPT + code interpreter for data analysis (Joe R)\n  2023-07-12 (meeting #126) Docker web app demo (Matt B) ::: instructions ::: slides\n  2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H) ::: R proj files zip ::: slides\n  2023-06-14 (meeting #124) Docker-related session? (Matt B)\n  2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)\n  2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)\n  2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H) chatGPT experiments slides ::: chatGPT prompts ::: milkers project zip\n  2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H) chatGPT slides ::: chatGPT prompts\n  2023-05-03 (meeting #119) My_Tidy_Data %<% Web scraping data with R and tools like readLines() and grep() (Ed H) Manual scrape project files ::: “Autoscrape” example script\n  2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-19 (meeting #117) Plant Spatial Statistics Ch 03 Part 2 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-04-12 (meeting #116) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-05 (meeting #115) Part 1: Animal pose and behaviour detection in Deeplabcut (George W) ::: DeepLabCut website ::: George W ppt\n  2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 Part 1 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-03-08 (meeting #113) Bootcamp launch S02E02 (George W.) ::: Bootcamp 2\n 2023-02-15 (meeting #112) Natural Language Processing session #02 (Ed) ::: NLP2 slides ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb\n 2023-02-01 (meeting #111) Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch02 ::: html slides ch 02 ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch02 code\n  2023-01-25 (meeting #110) Bootcamp launch S02E01 (Ed + HARUG!) ::: Bootcamp1 ::: slides overview ::: slides Setup 01\n  2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed) ::: NLP1 slides ::: NLP1 notbook\n  2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch01 ::: html slides ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch01 code\n  2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: pptx\n 2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed) ::: pptx ::: cheatsheet 1 ::: cheatsheet 2 ::: cheatsheet 3 ::: cheatsheet 4\n  2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: talk pptx ::: R script ::: Raw data xlsx ::: Count data xlsx\n  2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)\n  2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed) ::: pptx ::: R script ::: {mlr3} book site\n  2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed) ::: Quarto Github webpage tutorial\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt) ::: pptx ::: weevilwatch github repo\n 2022-09-21 (meeting #98) New Quarto website (Ed) ::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
   },
   {
     "objectID": "pages/2023-07-05-pwr-sim/pwr_report.html",
@@ -299,5 +299,103 @@
     "title": "Power sim for cow nutrition",
     "section": "References",
     "text": "References\nBates, D., Maechler, M., Bolker, B., Walker, S. 2015. Fitting Linear Mixed-Effects Models Using lme4. Journal of Statistical Software, 67(1), 1-48. doi:10.18637/jss.v067.i01.\nKumle, L., Võ, M.L.-H., Draschkow, D., 2021. Estimating power in (generalized) linear mixed models: An open introduction and tutorial in R. Behav Res 53, 2528–2543. https://doi.org/10.3758/s13428-021-01546-0\nR Core Team 2023. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org/."
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html",
+    "title": "Harper Data Science",
+    "section": "",
+    "text": "(Some thoughts on elements of a friendly Python Stats Bootcamp)\nHARUG!\n2023-08-02"
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#arithmetic-operations",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#arithmetic-operations",
+    "title": "Harper Data Science",
+    "section": "Arithmetic operations",
+    "text": "Arithmetic operations\nPython supports the usual arithmetic operators: + (addition), * (multiplication), / (division), ** (power), // (integer division)."
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#lists",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#lists",
+    "title": "Harper Data Science",
+    "section": "Lists",
+    "text": "Lists\nLists are a container type for ordered sequences of elements. Lists can be initialized empty\n\nmy_list = []\n\nor with some initial elements\n\nmy_list = [1, 2, 3]\n\nLists have a dynamic size and elements can be added (appended) to them\n\nmy_list.append(4)\nmy_list\n\nWe can access individual elements of a list (indexing starts from 0)\n\nmy_list[2]\n\nWe can access “slices” of a list using my_list[i:j] where i is the start of the slice (again, indexing starts from 0) and j the end of the slice. For instance:\n\nmy_list[1:3]\n\nOmitting the second index means that the slice should run until the end of the list\n\nmy_list[1:]\n\nWe can check if an element is in the list using in\n\n5 in my_list\n\nThe length of a list can be obtained using the len function\n\nlen(my_list)"
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#strings",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#strings",
+    "title": "Harper Data Science",
+    "section": "Strings",
+    "text": "Strings\nStrings are used to store text. They can be delimited using either single quotes or double quotes\n\nstring1 = \"some text\"\nstring2 = 'some other text'\n\nStrings behave similarly to lists. As such we can access individual elements in exactly the same way\n\nstring1[3]\n\nand similarly for slices\n\nstring1[5:]\n\nString concatenation is performed using the + operator\n\nstring1 + \" \" + string2"
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#conditionals",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#conditionals",
+    "title": "Harper Data Science",
+    "section": "Conditionals",
+    "text": "Conditionals\nAs their name indicates, conditionals are a way to execute code depending on whether a condition is True or False. As in other languages, Python supports if and else but else if is contracted into elif, as the example below demonstrates.\n\nmy_variable = 5\nif my_variable < 0:\n  print(\"negative\")\nelif my_variable == 0:\n  print(\"null\")\nelse: # my_variable > 0\n  print(\"positive\")\n\nHere < and > are the strict less and greater than operators, while == is the equality operator (not to be confused with =, the variable assignment operator). The operators <= and >= can be used for less (resp. greater) than or equal comparisons.\nContrary to other languages, blocks of code are delimited using indentation. Here, we use 2-space indentation but many programmers also use 4-space indentation. Any one is fine as long as you are consistent throughout your code."
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#loops",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#loops",
+    "title": "Harper Data Science",
+    "section": "Loops",
+    "text": "Loops\nLoops are a way to execute a block of code multiple times. There are two main types of loops: while loops and for loops.\nWhile loop\n\ni = 0\nwhile i < len(my_list):\n  print(my_list[i])\n  i += 1 # equivalent to i = i + 1\n\nFor loop\n\nfor i in range(len(my_list)):\n  print(my_list[i])\n\nIf the goal is simply to iterate over a list, we can do so directly as follows\n\nfor element in my_list:\n  print(element)"
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#functions",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#functions",
+    "title": "Harper Data Science",
+    "section": "Functions",
+    "text": "Functions\nTo improve code readability, it is common to separate the code into different blocks, responsible for performing precise actions: functions. A function takes some inputs and process them to return some outputs.\n\ndef square(x):\n  return x ** 2\n\ndef multiply(a, b):\n  return a * b\n\n# Functions can be composed.\nsquare(x = multiply(a = 3, b = 2))\n\n36\n\n\nTo improve code readability, it is sometimes useful to explicitly name the arguments\n\nsquare(multiply(a=3, b=2))"
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#try-this-exercise-1",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#try-this-exercise-1",
+    "title": "Harper Data Science",
+    "section": "Try this (exercise)!",
+    "text": "Try this (exercise)!\nExercise 1. Using a conditional, write the relu function defined as follows\n\\(\\text{relu}(x) = \\left\\{  \\begin{array}{rl}  x, & \\text{if } x \\ge 0 \\\\  0, & \\text{otherwise }.  \\end{array}\\right.\\)\n\ndef relu(x):\n  # Write your function here\n  return\n\nrelu(-3)\n\nExercise 2. Using a for loop, write a function that computes the Euclidean norm of a vector, represented as a list.\n\ndef euclidean_norm(vector):\n  # Write your function here\n  return\n\nmy_vector = [0.5, -1.2, 3.3, 4.5]\n# The result should be roughly 5.729746940310715\neuclidean_norm(my_vector)\n\nExercise 3. Using a for loop and a conditional, write a function that returns the maximum value in a vector.\n\ndef vector_maximum(vector):\n  # Write your function here\n  return\n\nBonus exercise. if time permits, write a function that sorts a list in ascending order (from smaller to bigger) using the bubble sort algorithm.\n\ndef bubble_sort(my_list):\n  # Write your function here\n  return\n\nmy_list = [1, -3, 3, 2]\n# Should return [-3, 1, 2, 3]\nbubble_sort(my_list)\n\n\nList of Python tutorials\nFour-hour course on Youtube"
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#array-creation",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#array-creation",
+    "title": "Harper Data Science",
+    "section": "Array creation",
+    "text": "Array creation\nNumPy arrays can be created from Python lists\n\nmy_array = np.array([1, 2, 3])\nmy_array\n\nNumPy supports array of arbitrary dimension. For example, we can create two-dimensional arrays (e.g. to store a matrix) as follows\n\nmy_2d_array = np.array([[1, 2, 3], [4, 5, 6]])\nmy_2d_array\n\nWe can access individual elements of a 2d-array using two indices\n\nmy_2d_array[1, 2]\n\nWe can also access rows\n\nmy_2d_array[1]\n\nand columns\n\nmy_2d_array[:, 2]\n\nArrays have a shape attribute\n\nprint(my_array.shape)\nprint(my_2d_array.shape)\n\nContrary to Python lists, NumPy arrays must have a type and all elements of the array must have the same type.\n\nmy_array.dtype\n\nThe main types are int32 (32-bit integers), int64 (64-bit integers), float32 (32-bit real values) and float64 (64-bit real values).\nThe dtype can be specified when creating the array\n\nmy_array = np.array([1, 2, 3], dtype=np.float64)\nmy_array.dtype\n\nWe can create arrays of all zeros using\n\nzero_array = np.zeros((2, 3))\nzero_array\n\nand similarly for all ones using ones instead of zeros.\nWe can create a range of values using\n\nnp.arange(5)\n\nor specifying the starting point\n\nnp.arange(3, 5)\n\nAnother useful routine is linspace for creating linearly spaced values in an interval. For instance, to create 10 values in [0, 1], we can use\n\nnp.linspace(0, 1, 10)\n\nAnother important operation is reshape, for changing the shape of an array\n\nmy_array = np.array([1, 2, 3, 4, 5, 6])\nmy_array.reshape(3, 2)\n\nPlay with these operations and make sure you understand them well."
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#basic-operations",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#basic-operations",
+    "title": "Harper Data Science",
+    "section": "Basic operations",
+    "text": "Basic operations\nIn NumPy, we express computations directly over arrays. This makes the code much more succinct.\nArithmetic operations can be performed directly over arrays. For instance, assuming two arrays have a compatible shape, we can add them as follows\n\narray_a = np.array([1, 2, 3])\narray_b = np.array([4, 5, 6])\narray_a + array_b\n\nCompare this with the equivalent computation using a for loop\n\narray_out = np.zeros_like(array_a)\nfor i in range(len(array_a)):\n  array_out[i] = array_a[i] + array_b[i]\narray_out\n\nNot only this code is more verbose, it will also run much more slowly.\nIn NumPy, functions that operates on arrays in an element-wise fashion are called universal functions. For instance, this is the case of np.sin\n\nnp.sin(array_a)\n\nVector inner product can be performed using np.dot\n\nnp.dot(array_a, array_b)\n\nWhen the two arguments to np.dot are both 2d arrays, np.dot becomes matrix multiplication\n\narray_A = np.random.rand(5, 3)\narray_B = np.random.randn(3, 4)\nnp.dot(array_A, array_B)\n\nMatrix transpose can be done using .transpose() or .T for short\n\narray_A.T"
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#slicing-and-masking",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#slicing-and-masking",
+    "title": "Harper Data Science",
+    "section": "Slicing and masking",
+    "text": "Slicing and masking\nLike Python lists, NumPy arrays support slicing\n\nnp.arange(10)[5:]\n\nWe can also select only certain elements from the array\n\nx = np.arange(10)\nmask = x >= 5\nx[mask]\n\n\nTry this (exercise)!\nExercise 1. Create a 3d array of shape (2, 2, 2), containing 8 values. Access individual elements and slices.\nExercise 2. Rewrite the relu function (see Python section) using np.maximum. Check that it works on both a single value and on an array of values.\n\ndef relu_numpy(x):\n  return\n\nrelu_numpy(np.array([1, -3, 2.5]))\n\nExercise 3. Rewrite the Euclidean norm of a vector (1d array) using NumPy (without for loop)\n\ndef euclidean_norm_numpy(x):\n  return\n\nmy_vector = np.array([0.5, -1.2, 3.3, 4.5])\neuclidean_norm_numpy(my_vector)\n\nExercise 4. Write a function that computes the Euclidean norms of a matrix (2d array) in a row-wise fashion. Hint: use the axis argument of np.sum.\n\ndef euclidean_norm_2d(X):\n  return\n\nmy_matrix = np.array([[0.5, -1.2, 4.5],\n                      [-3.2, 1.9, 2.7]])\n# Should return an array of size 2.\neuclidean_norm_2d(my_matrix)\n\nExercise 5. Compute the mean value of the features in the iris dataset. Hint: use the axis argument on np.mean.\n\nfrom sklearn.datasets import load_iris\nX, y = load_iris(return_X_y=True)\n\n# Result should be an array of size 4."
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#going-further",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#going-further",
+    "title": "Harper Data Science",
+    "section": "Going further",
+    "text": "Going further\n\nNumPy reference\nSciPy lectures\nOne-hour tutorial on Youtube"
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#basic-plots",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#basic-plots",
+    "title": "Harper Data Science",
+    "section": "Basic plots",
+    "text": "Basic plots\nMatplotlib is a plotting library for Python.\nWe start with a rudimentary plotting example.\n\nimport numpy as np\nfrom matplotlib import pyplot as plt\n\nx_values = np.linspace(-3, 3, 100)\n\nplt.figure()\nplt.plot(x_values, np.sin(x_values), label=\"Sinusoid\")\nplt.xlabel(\"x\")\nplt.ylabel(\"sin(x)\")\nplt.title(\"Matplotlib example\")\nplt.legend(loc=\"upper left\")\nplt.show()\n\n\n\n\nWe continue with a rudimentary scatter plot example. This example displays samples from the iris dataset using the first two features. Colors indicate class membership (there are 3 classes).\n\nfrom sklearn.datasets import load_iris\nX, y = load_iris(return_X_y=True)\n\nX_class0 = X[y == 0]\nX_class1 = X[y == 1]\nX_class2 = X[y == 2]\n\nplt.figure()\nplt.scatter(X_class0[:, 0], X_class0[:, 1], label=\"Class 0\", color=\"C0\")\nplt.scatter(X_class1[:, 0], X_class1[:, 1], label=\"Class 1\", color=\"C1\")\nplt.scatter(X_class2[:, 0], X_class2[:, 1], label=\"Class 2\", color=\"C2\")\nplt.show()\n\n\n\n\nWe see that samples belonging to class 0 can be linearly separated from the rest using only the first two features."
+  },
+  {
+    "objectID": "pages/2023-08-02-Ed-Python/Python_basics.html#exercises",
+    "href": "pages/2023-08-02-Ed-Python/Python_basics.html#exercises",
+    "title": "Harper Data Science",
+    "section": "Exercises",
+    "text": "Exercises\nExercise 1. Plot the relu and the softplus functions on the same graph.\nWhat is the main difference between the two functions?\nExercise 2. Repeat the same scatter plot but using the digits dataset instead.\n\nfrom sklearn.datasets import load_digits\nX, y = load_digits(return_X_y=True)\n\nAre pixel values good features for classifying samples?"
   }
 ]
