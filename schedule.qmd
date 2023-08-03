@@ -24,7 +24,7 @@ Our current meeting schedule Wednesdays at 1pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H)** :::  [slides](pages/2023-08-02-Ed-Python/Python.pptx) ::: [data](pages/2023-08-02-Ed-Python/tuber_50.xlsx) ::: [colab notebook](https://colab.research.google.com/github/harper-data-science/website/blob/main/pages/2023-08-02-Ed-Python/Python_basics.ipynb) ::: [Python Resources](pages/2023-08-02-Ed-Python/Python_resources.docx)
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/e6_rgCvpVEE) **2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H)** :::  [slides](pages/2023-08-02-Ed-Python/Python.pptx) ::: [data](pages/2023-08-02-Ed-Python/tuber_50.xlsx) ::: [colab notebook](https://colab.research.google.com/github/harper-data-science/website/blob/main/pages/2023-08-02-Ed-Python/Python_basics.ipynb) ::: [Python Resources](pages/2023-08-02-Ed-Python/Python_resources.docx)
 
 ![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/yLpfpskJg3k) **2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B)** :::  [slides](pages/2023-07-26-sotiria-bioinf/Bioinformatics_harug.pptx)
 
