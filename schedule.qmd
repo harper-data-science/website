@@ -10,22 +10,22 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2023-11-22 (Meeting #131, room TBA) Basics of effect size and power for experimental design in R (Ed H)
+2023-11-29 (Meeting #132) Train a custom Yolo model in Python (Ed H)
 
-2023-11-29 (Meeting #132, room TBA) Train a custom Yolo model in Python (Ed H)
+2023-12-06 (Meeting #133) Example experimental design and power considerations (Ronald M)
 
-2023-12-06 (Meeting #133, room TBA) Example experimental design and power considerations (Ronald M)
+2023-12-13 (Meeting #134) Topic TBA (volunteers?)
 
-2023-12-13 (Meeting #134, room TBA) Topic TBA (volunteers?)
-
-2023-12-20 (Meeting #135, room TBA) Topic TBA (volunteers?)
+2023-12-20 (Meeting #135) Topic TBA (volunteers?)
 
 
 <br>
 
 ## Meeting topics
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-11-15 (meeting #130) Cattle welfare data science project (Tom C)** :::  [stressed cows](pages/2023-11-15-Tom/Dairy Cow Heat Stress Precision Dairy Farming Conf Aug22.pdf)
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/AN7y3whaH5s) **2023-11-22 (Meeting #131) Basics of effect size and power for experimental design in R (Ed H + Charlotte C)** :::  [Power ppt](pages/2023-11-22/2023.11.22-Ed-power.pptx) :::  [Cow experiment ppt](pages/2023-11-22/Charlotte_cows.pptx) :::  [f^2 Effect size reading Selya 2012](pages/2023-11-22/Selya_2012.pdf)
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/VI4Fi2bDYqM) **2023-11-15 (meeting #130) Cattle welfare data science project (Tom C)** :::  [stressed cows](pages/2023-11-15-Tom/Dairy Cow Heat Stress Precision Dairy Farming Conf Aug22.pdf)
 
 ![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/e6_rgCvpVEE) **2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H)** :::  [slides](pages/2023-08-02-Ed-Python/Python.pptx) ::: [data](pages/2023-08-02-Ed-Python/tuber_50.xlsx) ::: [colab notebook](https://colab.research.google.com/github/harper-data-science/website/blob/main/pages/2023-08-02-Ed-Python/Python_basics.ipynb) ::: [Python Resources](pages/2023-08-02-Ed-Python/Python_resources.docx)
 
