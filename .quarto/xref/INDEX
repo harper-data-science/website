@@ -46,5 +46,11 @@
   },
   "pages/2023-08-02-Ed-Python/Python_basics.ipynb": {
     "Python_basics.html": "eaf08414"
+  },
+  "files/2023-11-20-yolo/yolo.qmd": {
+    "yolo.html": "579f16a4"
+  },
+  "files/2023-11-20-yolo/yolo_intro.ipynb": {
+    "yolo_intro.html": "ceac3a2b"
   }
 }
