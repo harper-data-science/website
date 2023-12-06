@@ -22,7 +22,7 @@ Winter break
 
 ## Meeting topics
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-12-06 (Meeting #133) Example experimental design and power (Ronald M)** :::  [slide files](files/2023-12-06-ronaldM-power/Chitin experiment.pptx) ::: 
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-12-06 (Meeting #133) Example experimental design and power (Ronald M)** :::  [slide files](files/2023-12-06-ronaldM-power/Chitin experiment.pptx) ::: [Ed pwr](files/2023-12-06-ronaldM-power/ed_test.R)
 
 ![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/M5zRo6ukHZo) **2023-11-29 (Meeting #132) Train a custom Yolo model in Python (Ed H)** :::  [slide files](files/2023-11-20-yolo/yolo_slides.zip) ::: [ed owl pic](files/2023-11-20-yolo/edowl.png) :::  [slide files](files/2023-11-20-yolo/yolo_slides.zip) ::: [Python notebook html](files/2023-11-20-yolo/yolo_intro.ipynb) ::: [link to Python notebook repo](https://github.com/harper-data-science/yolo_harug)
 
