@@ -4,48 +4,49 @@ author: "Ed Harris"
 date: "2023-11-29"
 format: revealjs
 ---
-![Image Classification and Detection](pics/0.boxes.webp)
 
+![Image Classification and Detection](pics/0.boxes.webp)
 
 # Overview
 
-- **Definition** Assigning a label to an entire image or photograph.
-- **Purpose** Used to categorize various objects in images.
-- **Process** Involves training models on a dataset of images with known categories.
-- **Techniques** Mention popular techniques like CNNs (Convolutional Neural Networks).
+-   **Definition** Assigning a label to an entire image or photograph.
+-   **Purpose** Used to categorize various objects in images.
+-   **Process** Involves training models on a dataset of images with known categories.
+-   **Techniques** Mention popular techniques like CNNs (Convolutional Neural Networks).
 
-![](pics/kitten.webp)
----
+## ![](pics/kitten.webp)
 
 ![Venn Diagram of AI and Deep Learning](pics/venn_diagram.png)
 
 # Introduction to YOLO (You Only Look Once)
 
-- **What is YOLO?**: Fast det. and class. model (built on foundation model)
-- **Key Features**: Speed, accuracy, etc.
-- **Evolution**: Different versions of YOLO.
+-   **What is YOLO?**: Fast det. and class. model (built on foundation model)
+-   **Key Features**: Speed, accuracy, etc.
+-   **Evolution**: Different versions of YOLO.
 
----
+------------------------------------------------------------------------
 
 ![YOLO Overview](pics/yolo-comparison-plots.png)
 
 # How YOLO Works
 
-- **Architecture**: Brief description of YOLO's architecture.
-- **Process**: How YOLO processes an image for object detection.
-- **Advantages**: Highlight the advantages of using YOLO.
----
+-   **Architecture**: Brief description of YOLO's architecture.
+
+-   **Process**: How YOLO processes an image for object detection.
+
+-   
+
+    ## **Advantages**: Highlight the advantages of using YOLO.
 
 ![YOLO Architecture](pics/yolo-architecture.jpg)
 
 # Applications
 
-- **Diverse Fields**: healthcare, automotive, agriculture
-- **Real-World Examples**: pest detection for IPM (EFOS trap)
+-   **Diverse Fields**: healthcare, automotive, agriculture
+-   **Real-World Examples**: pest detection for IPM (EFOS trap)
 
 ![Applications](pics/EFOStrap.png)
 
 # Code-a-long
 
 ![](pics/scriptkitty.webp)
-
