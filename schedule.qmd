@@ -10,8 +10,6 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2023-12-13 (Meeting #134, room TBA) Beginning R and stats: what training do you want and need? (group discussion led by Ed H)
-
 2023-12-20 (Meeting #135) Holidays data viz activity (Ed H +...?)
 
 Winter break
@@ -21,6 +19,8 @@ Winter break
 <br>
 
 ## Meeting topics
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/vNNQRBYTTbc) **2023-12-13 (Meeting #134) Beginning R and stats: what training do you want and need? (group discussion led by Ed H)** ::: [slides](ppt/2023-12-13-skills.pptx) ::: [R Stats Bootcamp](https://rstats-bootcamp.github.io/website/)  ::: [Harper MSc teaching schedule](https://cdn.harper-adams.ac.uk/document/course/postgraduate/2024/Timetable%202023-24.xlsx)
 
 ![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-12-06 (Meeting #133) Example experimental design and power (Ronald M)** :::  [slide files](files/2023-12-06-ronaldM-power/Chitin experiment.pptx) ::: [Ed pwr](files/2023-12-06-ronaldM-power/ed_test.R)
 
