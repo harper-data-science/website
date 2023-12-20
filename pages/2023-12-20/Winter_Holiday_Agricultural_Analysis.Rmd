@@ -1,0 +1,50 @@
+
+---
+title: "Winter Wonderland of Data: Agricultural Analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+```
+
+# Introduction
+
+This report demonstrates a basic statistical analysis in R, focusing on the relationship between fertilizer amount and crop yield.
+
+# Data
+
+```{r data-loading}
+# Read the dataset
+data <- read.csv('winter_holiday_agriculture_data.csv')
+
+# Display the first few rows of the dataset
+head(data)
+```
+
+# Analysis
+
+## Linear Regression
+
+```{r regression}
+# Simple Linear Regression: Crop Yield vs. Fertilizer Amount
+model <- lm(Crop_Yield ~ Fertilizer_Amount, data = data)
+
+# Display the summary of the linear model
+summary(model)
+```
+
+## Plot
+
+```{r plot}
+# Creating a scatter plot with a regression line
+ggplot(data, aes(x = Fertilizer_Amount, y = Crop_Yield)) +
+  geom_point(aes(color = Fertilizer_Amount)) +  # Colored points by fertilizer amount
+  geom_smooth(method = "lm", se = FALSE) +      # Linear model line without standard error
+  scale_color_gradient(low = "red", high = "darkgreen") + # Red to green color ramp
+  labs(title = "Effect of Fertilizer on Crop Yield",
+       x = "Fertilizer Amount (kg)",
+       y = "Crop Yield (quintals)") +
+  theme_minimal()
+```
