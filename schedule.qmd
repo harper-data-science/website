@@ -2,7 +2,7 @@
 title: "Schedule"
 ---
 
-![](img/harug-2023.png){width="125"} ![](img/hap-e-hex.png){width="125"}
+![](img/harug_2024_tp.png){width="125"} ![](img/hap-e-hex.png){width="125"}
 
 Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasionally in person. [Join our Slack channel and introduce yourself](https://join.slack.com/t/ha-eda-party/shared_invite/zt-w19od3dz-6bjo~dTC_GQeSUUv3B8XzQ) for more information and to participate (please join with your full real name, e.g. "Florence Nightingale".
 
@@ -10,16 +10,20 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
+2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed)
 
+2024-01-31 (Meeting #138) R Stats Bootcamp Session 3 (Ed)
 
-Winter break
+2024-02-07 (Meeting #139) R Stats Bootcamp Session 4 (Ed)
 
-2024-01-17 Resume for spring term…
+2024-02-14 (Meeting #140) R Stats Bootcamp Session 5 (Ed)
 
 <br>
 
 ## Meeting topics
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-12-20 (Meeting #135) Holidays data viz activity (Ed H)** ::: [slides](pages/2023-12-20/winter.pptx) ::: [files](pages/2023-12-20/Winter_Holiday_Agricultural_Analysis.zip)
+![](img/harug_2024_tp.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2024-01-17 (Meeting #136) Resume HARUG! for spring term: R Stats Bootcamp (Ed)** ::: [slides](pages/2024-01-17-RSB01/RSB01.pptx) ::: [Bootcamp 01 link](https://rstats-bootcamp.github.io/website/1-setup.html)
+
+![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/DgyUH-wjA6E) **2023-12-20 (Meeting #135) Holidays data viz activity (Ed H)** ::: [slides](pages/2023-12-20/winter.pptx) ::: [files](pages/2023-12-20/Winter_Holiday_Agricultural_Analysis.zip)
 
 ![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/vNNQRBYTTbc) **2023-12-13 (Meeting #134) Beginning R and stats: what training do you want and need? (group discussion led by Ed H)** ::: [slides](ppt/2023-12-13-skills.pptx) ::: [R Stats Bootcamp](https://rstats-bootcamp.github.io/website/)  ::: [Harper MSc teaching schedule](https://cdn.harper-adams.ac.uk/document/course/postgraduate/2024/Timetable%202023-24.xlsx)
 

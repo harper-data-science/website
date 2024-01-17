@@ -1,0 +1,176 @@
+---
+title: "R Stats Bootcamp"
+format: pptx
+reference-doc: template.pptx
+author: Ed Harris
+date: 2023-01-17
+date-format: iso
+center: true
+---
+
+## {background-image="pics/Bootcamp_2024.png"}
+
+ 
+
+## R Stats Bootcamp 01 {.center}
+
+"Setup & Intro"
+
+[https://rstats-bootcamp.github.io/website](https://rstats-bootcamp.github.io/website)
+
+## Objectives
+
+- How the R Stats Bootcamp works
+
+- R motivation
+
+- Install R and RStudio or set up RStudio Cloud
+
+- RStudio components and setup
+
+- Workflow for scripts in R
+
+- Practice exercises
+
+## How the R Stats Bootcamp works
+
+- Practical, open instructional materials for learning R
+
+- Simple statistics in R
+
+- Reproducible research and collaboration tools
+
+- Self-guided learning and self-assessment
+
+- Friendly community
+
+## R motivation: why R?
+
+- R is objectively the best statistical software available
+
+- R is designed for people with no programming experience to perform sophisticated statistical analysis with minimum effort
+
+- In wide use at universities, companies: job demand
+
+- Very large community of users
+
+- Free and open source
+
+- Works well on all computers and OSes, old and new
+
+- R is easy to learn (as you will see)
+
+## Option for using R
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Install R and R Studio locally
+
+- [Help for Windows](https://www.google.com/search?q=how+do+I+install+R+for+windows)
+
+- [Help for Macs](https://www.google.com/search?q=how+do+I+install+R+for+mac)
+
+:::
+
+::: {.column width="50%"}
+Other options
+
+- [Posit Cloud](https://rstudio.cloud/) 
+
+(limited free account)
+
+- [Google colab](https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497) 
+
+:::
+
+::::
+
+## RStudio components and setup
+
+![](pics/0.1-rstudio.png)
+
+## Workflow for R scripts
+
+- An R script is a plain text file 
+
+- Ends in “dot R” (.R) by default
+
+- Interface between your commands and R software
+
+- Documents your analysis
+
+- Interface between your commands and R software
+
+- Organized and logical, has meaning for other people
+
+## Workflow for R scripts
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](pics/Fisher.jfif)
+
+:::
+
+::: {.column width="50%"}
+
+```
+Your R script should be good enough to show a friend (like a supervisor, or even your future self), a friend you respect.
+```
+
+:::
+
+::::
+
+## R script organisation
+
+![](pics/header.png)
+
+## R script organisation
+
+![](pics/contents.png)
+
+## R script organisation
+
+```
+# 01 First line of a CODE CHUNK ####
+```
+
+- Code chunks start with a hash sign `#`
+
+- Title descriptive of contents
+
+- End with (at least) four hash signs `####`
+
+- Numbered titles optional
+
+- Visual + navigation function
+
+## R script comments
+
+```
+# Vector of numbers << a comment
+my_variable <- c(2,5,3,6,3,4,7)
+
+# Calculate the mean << another comment
+mean(my_variable)
+
+```
+Comments explain your code
+
+## R script "submitting" commands
+
+- Run whole line of code your cursor rests on Ctrl+Enter (`Cmd+Return` in Macs)
+
+- Run code you have selected `Ctrl+Enter` (`Cmd+Return` in Macs)
+
+- Use the “Run” menu above the Script window
+
+- Use the Code > Run dropdown menu
+
+## Practice Exercises
+
+
+ ![](pics/Laptop_duck.webp)
