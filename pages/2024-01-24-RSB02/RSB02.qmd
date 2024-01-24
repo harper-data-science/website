@@ -1,0 +1,263 @@
+---
+title: "R Stats Bootcamp 02"
+subtitle: "The R Language"
+format: pptx
+reference-doc: template.pptx
+author: Ed Harris
+date: 2023-01-24
+date-format: iso
+center: true
+---
+
+##  {background-image="pics/Bootcamp_2024.png"}
+
+## R Stats Bootcamp 02 {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/ButlerAlfred1.jpg)
+:::
+
+::: {.column width="50%"}
+
+[R Stats Bootcamp 02](https://rstats-bootcamp.github.io/website/2-r-lang.html)
+
+<br>
+
+The R Language
+
+`(R as a passive-aggressive butler)`
+
+:::
+:::
+
+## Objectives
+
+- Example script, comments, help, pseudocode
+
+- Math operators
+
+- Logical Boolean operators
+
+- Regarding “base R” and the Tidyverse
+
+- Practice exercises
+
+
+## Example script, comments, help, pseudocode
+
+- Demo: The concept and purpose of a `script`
+
+<br>
+
+Tips:
+
+- Work through bootcamp by coding
+
+- Type your own code
+
+- Document code with comments
+
+## Example script
+
+Download and open this in RStudio:
+
+[Example script](https://rstats-bootcamp.github.io/website/scripts/script-2.R)
+
+<br>
+
+```r
+## HEADER ####
+## Who: <YOUR NAME>
+## What: 2 R language basics
+## Last edited: <yyyy-mm-dd format)
+####
+```
+
+## Contents > organisation
+
+```r
+## CONTENTS ####
+## 2 Example script, help, pseudocode  
+## 3 Math operators  
+## ...
+```
+## Code chunks
+
+NB syntax of comment
+
+<br>
+
+```r
+## 2 Example script... pseudocode  ####
+
+```
+<br>
+
+- The `##` and `####` make it a chunk!
+
+- Also navigation
+
+
+## Help
+
+<br>
+
+```r
+# Display help page for the function mean
+help(mean)
+```
+<br>
+
+## Help
+
+::: columns
+::: {.column width="50%"}
+
+![](pics/help-page.png)
+:::
+
+::: {.column width="50%"}
+
+Anatomy of help pages
+
+<br>
+
+```r
+# Help for mean()
+help(mean)
+```
+
+:::
+:::
+
+## Pseudocode
+
+::: columns
+::: {.column width="50%"}
+
+![](pics/duckhand.png)
+:::
+
+::: {.column width="50%"}
+
+Tell it to the duck!
+
+<br>
+
+- Break problem down into smaller chunks
+
+- Helps with understanding
+
+- Give example
+
+:::
+:::
+
+## Math operators
+
+R math "syntax" works like any calculator
+
+`+, -, *, /, ^, etc.`
+
+<br>
+
+```r
+# Add with "+"
+2 + 5
+
+# Subtract with "-"
+10 - 15
+
+```
+## Order of operation
+
+```r
+# Try this
+4 + 2 * 3
+
+# Order control - same
+4 + (2 * 3)
+
+# Order control - different...
+(4 + 2) * 3
+```
+
+## Use of spaces
+
+Spaces don't matter, but style...
+
+<br>
+
+```r
+# Try this
+6+10                # no spaces
+7     -5            # uneven spaces
+1.6  /         2.3  # large spaces
+16 * 3              # exactly 1 space
+# exactly 1 space probably best...
+```
+
+
+
+## Logical Boolean operators
+
+`TRUE` and `FALSE`
+
+<br>
+
+```r
+# Try this
+3 > 5 # True, yes?
+
+# 3 is compared to each element
+3 < c(1, 2, 3, 4, 5, 6) 
+```
+## Logical Boolean operators
+
+Useful booleans
+
+<br>
+
+```r
+# Try this
+x <- c(21, 3, 5, 6, 22)
+x
+x[x > 20]
+```
+
+## Regarding “base R” and Tidyverse
+
+::: columns
+
+::: {.column width="50%"}
+
+`"R is rapidly devolving into two mutually unintelligible dialects..."`
+
+<br>
+
+`"I, as a seasoned R programmer, cannot read Tidy code..."`
+
+
+
+:::
+
+::: {.column width="50%"}
+
+[Base R versus Tidyverse](https://community.rstudio.com/t/r-vs-python-for-data-science-by-norm-matloff/33603)
+(Norm Matloff)
+
+<br>
+
+- Each has merits
+
+- Existence of both makes Googling help harder
+
+:::
+
+:::
+
+
+## Practice Exercises
+
+![](pics/Laptop_duck.webp)

@@ -6,11 +6,9 @@ title: "Schedule"
 
 Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasionally in person. [Join our Slack channel and introduce yourself](https://join.slack.com/t/ha-eda-party/shared_invite/zt-w19od3dz-6bjo~dTC_GQeSUUv3B8XzQ) for more information and to participate (please join with your full real name, e.g. "Florence Nightingale".
 
-------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## The Future
-
-2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed)
 
 2024-01-31 (Meeting #138) R Stats Bootcamp Session 3 (Ed)
 
@@ -18,86 +16,95 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 2024-02-14 (Meeting #140) R Stats Bootcamp Session 5 (Ed)
 
+2024-02-21 no meeting
+
+2024-02-28 no meeting
+
+2024-03-06 (Meeting #141) R Stats Bootcamp Session 6 (Ed)
+
 <br>
 
 ## Meeting topics
-![](img/harug_2024_tp.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2024-01-17 (Meeting #136) Resume HARUG! for spring term: R Stats Bootcamp (Ed)** ::: [slides](pages/2024-01-17-RSB01/RSB01.pptx) ::: [Bootcamp 01 link](https://rstats-bootcamp.github.io/website/1-setup.html)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/DgyUH-wjA6E) **2023-12-20 (Meeting #135) Holidays data viz activity (Ed H)** ::: [slides](pages/2023-12-20/winter.pptx) ::: [files](pages/2023-12-20/Winter_Holiday_Agricultural_Analysis.zip)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed)** ::: [slides](pages/2024-01-24-RSB02/RSB02.pptx) ::: [Bootcamp 02 link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/vNNQRBYTTbc) **2023-12-13 (Meeting #134) Beginning R and stats: what training do you want and need? (group discussion led by Ed H)** ::: [slides](ppt/2023-12-13-skills.pptx) ::: [R Stats Bootcamp](https://rstats-bootcamp.github.io/website/)  ::: [Harper MSc teaching schedule](https://cdn.harper-adams.ac.uk/document/course/postgraduate/2024/Timetable%202023-24.xlsx)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/CaktME4w32I) **2024-01-17 (Meeting #136) Resume HARUG! for spring term: R Stats Bootcamp (Ed)** ::: [slides](pages/2024-01-17-RSB01/RSB01.pptx) ::: [Bootcamp 01 link](https://rstats-bootcamp.github.io/website/1-setup.html)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2023-12-06 (Meeting #133) Example experimental design and power (Ronald M)** :::  [slide files](files/2023-12-06-ronaldM-power/Chitin experiment.pptx) ::: [Ed pwr](files/2023-12-06-ronaldM-power/ed_test.R)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/DgyUH-wjA6E) **2023-12-20 (Meeting #135) Holidays data viz activity (Ed H)** ::: [slides](pages/2023-12-20/winter.pptx) ::: [files](pages/2023-12-20/Winter_Holiday_Agricultural_Analysis.zip)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/M5zRo6ukHZo) **2023-11-29 (Meeting #132) Train a custom Yolo model in Python (Ed H)** :::  [slide files](files/2023-11-20-yolo/yolo_slides.zip) ::: [ed owl pic](files/2023-11-20-yolo/edowl.png) :::  [slide files](files/2023-11-20-yolo/yolo_slides.zip) ::: [Python notebook html](files/2023-11-20-yolo/yolo_intro.ipynb) ::: [link to Python notebook repo](https://github.com/harper-data-science/yolo_harug)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/vNNQRBYTTbc) **2023-12-13 (Meeting #134) Beginning R and stats: what training do you want and need? (group discussion led by Ed H)** ::: [slides](ppt/2023-12-13-skills.pptx) ::: [R Stats Bootcamp](https://rstats-bootcamp.github.io/website/) ::: [Harper MSc teaching schedule](https://cdn.harper-adams.ac.uk/document/course/postgraduate/2024/Timetable%202023-24.xlsx)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/AN7y3whaH5s) **2023-11-22 (Meeting #131) Basics of effect size and power for experimental design in R (Ed H + Charlotte C)** :::  [Power ppt](pages/2023-11-22/2023.11.22-Ed-power.pptx) :::  [Cow experiment ppt](pages/2023-11-22/Charlotte_cows.pptx) :::  [f^2 Effect size reading Selya 2012](pages/2023-11-22/Selya_2012.pdf)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2023-12-06 (Meeting #133) Example experimental design and power (Ronald M)** ::: [slide files](files/2023-12-06-ronaldM-power/Chitin%20experiment.pptx) ::: [Ed pwr](files/2023-12-06-ronaldM-power/ed_test.R)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/VI4Fi2bDYqM) **2023-11-15 (meeting #130) Cattle welfare data science project (Tom C)** :::  [stressed cows](pages/2023-11-15-Tom/Dairy Cow Heat Stress Precision Dairy Farming Conf Aug22.pdf)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/M5zRo6ukHZo) **2023-11-29 (Meeting #132) Train a custom Yolo model in Python (Ed H)** ::: [slide files](files/2023-11-20-yolo/yolo_slides.zip) ::: [ed owl pic](files/2023-11-20-yolo/edowl.png) ::: [slide files](files/2023-11-20-yolo/yolo_slides.zip) ::: [Python notebook html](files/2023-11-20-yolo/yolo_intro.ipynb) ::: [link to Python notebook repo](https://github.com/harper-data-science/yolo_harug)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/e6_rgCvpVEE) **2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H)** :::  [slides](pages/2023-08-02-Ed-Python/Python.pptx) ::: [data](pages/2023-08-02-Ed-Python/tuber_50.xlsx) ::: [colab notebook](https://colab.research.google.com/github/harper-data-science/website/blob/main/pages/2023-08-02-Ed-Python/Python_basics.ipynb) ::: [Python Resources](pages/2023-08-02-Ed-Python/Python_resources.docx)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/AN7y3whaH5s) **2023-11-22 (Meeting #131) Basics of effect size and power for experimental design in R (Ed H + Charlotte C)** ::: [Power ppt](pages/2023-11-22/2023.11.22-Ed-power.pptx) ::: [Cow experiment ppt](pages/2023-11-22/Charlotte_cows.pptx) ::: [f\^2 Effect size reading Selya 2012](pages/2023-11-22/Selya_2012.pdf)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/yLpfpskJg3k) **2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B)** :::  [slides](pages/2023-07-26-sotiria-bioinf/Bioinformatics_harug.pptx)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/VI4Fi2bDYqM) **2023-11-15 (meeting #130) Cattle welfare data science project (Tom C)** ::: [stressed cows](pages/2023-11-15-Tom/Dairy%20Cow%20Heat%20Stress%20Precision%20Dairy%20Farming%20Conf%20Aug22.pdf)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/-hEhJXeIxUU) **2023-07-19 (meeting #127) chatGPT + code interpreter for data analysis (Joe R)** 
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/e6_rgCvpVEE) **2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H)** ::: [slides](pages/2023-08-02-Ed-Python/Python.pptx) ::: [data](pages/2023-08-02-Ed-Python/tuber_50.xlsx) ::: [colab notebook](https://colab.research.google.com/github/harper-data-science/website/blob/main/pages/2023-08-02-Ed-Python/Python_basics.ipynb) ::: [Python Resources](pages/2023-08-02-Ed-Python/Python_resources.docx)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/UaX8dkaW5MI) **2023-07-12 (meeting #126) Docker web app demo (Matt B)** ::: [instructions](pages/2023-07-12-matt-docker/instructions.txt) ::: [slides](pages/2023-07-12-matt-docker/Docker_2.pptx)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/yLpfpskJg3k) **2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B)** ::: [slides](pages/2023-07-26-sotiria-bioinf/Bioinformatics_harug.pptx)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/i2eKByT6vls) **2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H)** ::: [R proj files zip](pages/2023-07-05-pwr-sim/data.zip) ::: [slides](pages/2023-07-05-pwr-sim/2023-07-05-pwr-sim.pptx)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/-hEhJXeIxUU) **2023-07-19 (meeting #127) chatGPT + code interpreter for data analysis (Joe R)**
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}]( https://youtu.be/007ysMYsKdw) **2023-06-14 (meeting #124) Docker-related session? (Matt B)**
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/UaX8dkaW5MI) **2023-07-12 (meeting #126) Docker web app demo (Matt B)** ::: [instructions](pages/2023-07-12-matt-docker/instructions.txt) ::: [slides](pages/2023-07-12-matt-docker/Docker_2.pptx)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/x9LV_GEkWYU) **2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)**  
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/i2eKByT6vls) **2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H)** ::: [R proj files zip](pages/2023-07-05-pwr-sim/data.zip) ::: [slides](pages/2023-07-05-pwr-sim/2023-07-05-pwr-sim.pptx)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/kPhWt0ASHbk) **2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)** 
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/007ysMYsKdw) **2023-06-14 (meeting #124) Docker-related session? (Matt B)**
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/kPhWt0ASHbk) **2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H)** [chatGPT experiments slides](pages/2023-05-24-chatGPT/chatGPT.pptx) ::: [chatGPT prompts](pages/2023-05-24-chatGPT/prompts.docx) ::: [milkers project zip](pages/2023-05-24-chatGPT/milkers.zip)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/x9LV_GEkWYU) **2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)**
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/pDhFHeQP6Vo) **2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H)** [chatGPT slides](pages/2023-05-17-chatGPT/chatGPT.pptx) ::: [chatGPT prompts](pages/2023-05-17-chatGPT/prompts.docx)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/kPhWt0ASHbk) **2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)**
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/Whxin4tv8xk) **2023-05-03 (meeting #119) My_Tidy_Data %\<% Web scraping data with R and tools like readLines() and grep() (Ed H)** [Manual scrape project files](pages/2023-05-03-scrape/poaching.zip) ::: ["Autoscrape" example script](pages/2023-05-03-scrape/ecotox.R)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/kPhWt0ASHbk) **2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H)** [chatGPT experiments slides](pages/2023-05-24-chatGPT/chatGPT.pptx) ::: [chatGPT prompts](pages/2023-05-24-chatGPT/prompts.docx) ::: [milkers project zip](pages/2023-05-24-chatGPT/milkers.zip)
 
-![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/8dtJLB16dyY) **2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)**::: [DeepLabCut website](http://www.mackenziemathislab.org/deeplabcut) ::: [George W ppt](pages/2023-04-05-DLC1/deepcutlabs-powerpoint.pptx)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/pDhFHeQP6Vo) **2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H)** [chatGPT slides](pages/2023-05-17-chatGPT/chatGPT.pptx) ::: [chatGPT prompts](pages/2023-05-17-chatGPT/prompts.docx)
 
-![](pages/2023-01-11/cover.png){width="25" height="37"} [![](img/youtube.png){width="30"}](https://youtu.be/7nco5oM7-b0) **2023-04-19 (meeting #117) Plant Spatial Statistics Ch 03 Part 2 (Przemek D)** [Chapter 03](pages/2023-03-15-Plant03/ch-03.pdf) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Whxin4tv8xk) **2023-05-03 (meeting #119) My_Tidy_Data %\<% Web scraping data with R and tools like readLines() and grep() (Ed H)** [Manual scrape project files](pages/2023-05-03-scrape/poaching.zip) ::: ["Autoscrape" example script](pages/2023-05-03-scrape/ecotox.R)
 
-![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/tJ9RtdcxQSk) **2023-04-12 (meeting #116) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)**::: [DeepLabCut website](http://www.mackenziemathislab.org/deeplabcut) ::: [George W ppt](pages/2023-04-05-DLC1/deepcutlabs-powerpoint.pptx)
+![](img/hap-e-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8dtJLB16dyY) **2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)**::: [DeepLabCut website](http://www.mackenziemathislab.org/deeplabcut) ::: [George W ppt](pages/2023-04-05-DLC1/deepcutlabs-powerpoint.pptx)
 
-![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/IG89loe2ZNE) **2023-04-05 (meeting #115) Part 1: Animal pose and behaviour detection in Deeplabcut (George W)** ::: [DeepLabCut website](http://www.mackenziemathislab.org/deeplabcut) ::: [George W ppt](pages/2023-04-05-DLC1/deepcutlabs-powerpoint.pptx)
+![](pages/2023-01-11/cover.png){width="25" height="37"} [![](img/youtube.png){width="25"}](https://youtu.be/7nco5oM7-b0) **2023-04-19 (meeting #117) Plant Spatial Statistics Ch 03 Part 2 (Przemek D)** [Chapter 03](pages/2023-03-15-Plant03/ch-03.pdf) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip)
 
-![](pages/2023-01-11/cover.png){width="25" height="37"} [![](img/youtube.png){width="30"}](https://youtu.be/u11dP-UNJPQ) **2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 Part 1 (Przemek D)** [Chapter 03](pages/2023-03-15-Plant03/ch-03.pdf) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip)
+![](img/hap-e-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/tJ9RtdcxQSk) **2023-04-12 (meeting #116) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)**::: [DeepLabCut website](http://www.mackenziemathislab.org/deeplabcut) ::: [George W ppt](pages/2023-04-05-DLC1/deepcutlabs-powerpoint.pptx)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/ALpv5YBOSYc) **2023-03-08 (meeting #113) Bootcamp launch S02E02 (George W.)** ::: [Bootcamp 2](https://rstats-bootcamp.github.io/website/2-r-lang.html)
+![](img/hap-e-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/IG89loe2ZNE) **2023-04-05 (meeting #115) Part 1: Animal pose and behaviour detection in Deeplabcut (George W)** ::: [DeepLabCut website](http://www.mackenziemathislab.org/deeplabcut) ::: [George W ppt](pages/2023-04-05-DLC1/deepcutlabs-powerpoint.pptx)
 
-![](img/hap-e-hex.png){width="25" height="30"} **2023-02-15 (meeting #112) Natural Language Processing session #02 (Ed)** ::: [NLP2 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-2.pptx?raw=1) ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb
+![](pages/2023-01-11/cover.png){width="25" height="37"} [![](img/youtube.png){width="25"}](https://youtu.be/u11dP-UNJPQ) **2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 Part 1 (Przemek D)** [Chapter 03](pages/2023-03-15-Plant03/ch-03.pdf) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip)
+
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ALpv5YBOSYc) **2023-03-08 (meeting #113) Bootcamp launch S02E02 (George W.)** ::: [Bootcamp 2](https://rstats-bootcamp.github.io/website/2-r-lang.html)
+
+![](img/hap-e-hex.png){width="30" height="35"} **2023-02-15 (meeting #112) Natural Language Processing session #02 (Ed)** ::: [NLP2 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-2.pptx?raw=1) ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb
 
 ![](pages/2023-01-11/cover.png){width="25" height="37"} **2023-02-01 (meeting #111) Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed)** ::: [Plant ch02](pages/2023-02-01/ch-02.pdf) ::: [html slides ch 02](https://rawcdn.githack.com/harper-data-science/plant-spatial/3a1a0a5a334f90e19ad022ba5f5dfba6618afce2/slides/plant-ch-02.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch02 code](https://raw.githubusercontent.com/harper-data-science/plant-spatial/main/code-and-data/plant-ch02.R)
 
-![](img/harug-2023.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/K5b3LaqlZ2g) **2023-01-25 (meeting #110) Bootcamp launch S02E01 (Ed + HARUG!)** ::: [Bootcamp1](https://rstats-bootcamp.github.io/website/1-setup.html) ::: [slides overview](pages/2023-01-25-RSB-01/slides-overview.html) ::: [slides Setup 01](pages/2023-01-25-RSB-01/slides-01-setup-intro.html)
+![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/K5b3LaqlZ2g) **2023-01-25 (meeting #110) Bootcamp launch S02E01 (Ed + HARUG!)** ::: [Bootcamp1](https://rstats-bootcamp.github.io/website/1-setup.html) ::: [slides overview](pages/2023-01-25-RSB-01/slides-overview.html) ::: [slides Setup 01](pages/2023-01-25-RSB-01/slides-01-setup-intro.html)
 
-![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/pQ8hi1JFxX8) **2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed)** ::: [NLP1 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-1.pptx?raw=1) ::: [NLP1 notbook](https://colab.research.google.com/github/harper-data-science/aws-nlp/blob/main/notebooks/NLP1.ipynb?raw=1)
+![](img/hap-e-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/pQ8hi1JFxX8) **2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed)** ::: [NLP1 slides](https://github.com/harper-data-science/aws-nlp/blob/main/slides/NLP-1.pptx?raw=1) ::: [NLP1 notbook](https://colab.research.google.com/github/harper-data-science/aws-nlp/blob/main/notebooks/NLP1.ipynb?raw=1)
 
-![](pages/2023-01-11/cover.png){width="25" height="37"} [![](img/youtube.png){width="30"}](https://youtu.be/IERTOvn_sLU) **2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed)** ::: [Plant ch01](pages/2023-01-11/ch-01.pdf) ::: [html slides](pages/2023-01-11/plant-ch-01.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch01 code](pages/2023-01-11/plant-ch01.R)
+![](pages/2023-01-11/cover.png){width="25" height="37"} [![](img/youtube.png){width="25"}](https://youtu.be/IERTOvn_sLU) **2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed)** ::: [Plant ch01](pages/2023-01-11/ch-01.pdf) ::: [html slides](pages/2023-01-11/plant-ch-01.html) ::: [Plant ALL DATA](pages/2023-01-11/plant-data.zip) ::: [Plant ALL CODE](pages/2023-01-11/plant-code.zip) ::: [Ed ch01 code](pages/2023-01-11/plant-ch01.R)
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}]() **2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed)** ::: [pptx](pages\2022-12-07-flexdashboard\2022-12-07.pptx)
+![](img/harug-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed)** ::: [pptx](pages\2022-12-07-flexdashboard\2022-12-07.pptx)
 
-![](img/harug-hex.png){width="25" height="30"} **2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed)** ::: [pptx](pages\2022-11-23-cheatsheets\topics.pptx) ::: [cheatsheet 1](pages\2022-11-23-cheatsheets\1-BaseGraphicsCheatsheet.pdf) ::: [cheatsheet 2](pages\2022-11-23-cheatsheets\2-Posit-data-visualization-1.pdf) ::: [cheatsheet 3](pages\2022-11-23-cheatsheets\3-jenzopr_ggplot2-scatterplots.pdf) ::: [cheatsheet 4](pages\2022-11-23-cheatsheets\4-Posit-purrr.pdf)
+![](img/harug-hex.png){width="30" height="35"} **2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed)** ::: [pptx](pages\2022-11-23-cheatsheets\topics.pptx) ::: [cheatsheet 1](pages\2022-11-23-cheatsheets\1-BaseGraphicsCheatsheet.pdf) ::: [cheatsheet 2](pages\2022-11-23-cheatsheets\2-Posit-data-visualization-1.pdf) ::: [cheatsheet 3](pages\2022-11-23-cheatsheets\3-jenzopr_ggplot2-scatterplots.pdf) ::: [cheatsheet 4](pages\2022-11-23-cheatsheets\4-Posit-purrr.pdf)
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/UIs7rMhqg-w) **2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden)** ::: [talk pptx](files\2022-11-16\Presentation.pptx) ::: [R script](files\2022-11-16\R%20analysis%204.R) ::: [Raw data xlsx](files\2022-11-16\Raw%20data.xlsx) ::: [Count data xlsx](files\2022-11-16\Count%20data%20averages.xlsx)
+![](img/harug-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/UIs7rMhqg-w) **2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden)** ::: [talk pptx](files\2022-11-16\Presentation.pptx) ::: [R script](files\2022-11-16\R%20analysis%204.R) ::: [Raw data xlsx](files\2022-11-16\Raw%20data.xlsx) ::: [Count data xlsx](files\2022-11-16\Count%20data%20averages.xlsx)
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/h1Csh4KUeeo) **2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)**
+![](img/harug-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/h1Csh4KUeeo) **2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)**
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/KBRl9-qd3Os) **2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed)** ::: [pptx](ppt\2022-10-26.pptx) ::: [R script](scripts\2022-10-26.R) ::: [{mlr3} book site](https://mlr3book.mlr-org.com/)
+![](img/harug-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KBRl9-qd3Os) **2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed)** ::: [pptx](ppt\2022-10-26.pptx) ::: [R script](scripts\2022-10-26.R) ::: [{mlr3} book site](https://mlr3book.mlr-org.com/)
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/MgTKnHACaF4) **2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)**
+![](img/harug-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/MgTKnHACaF4) **2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)**
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/SJU-eBBcw5o) **2022-10-12 (meeting #101) Analysis of spatial data (Joe C)**
+![](img/harug-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/SJU-eBBcw5o) **2022-10-12 (meeting #101) Analysis of spatial data (Joe C)**
 
-![](img/harug-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/IVNrH5pJP0E) **2022-10-05 (meeting #100) Quarto: R Markdown's "new clothes"? Our** $10^2$ meeting! (Ed) ::: [Quarto Github webpage tutorial](d20220921.html)
+![](img/harug-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/IVNrH5pJP0E) **2022-10-05 (meeting #100) Quarto: R Markdown's "new clothes"? Our** $10^2$ meeting! (Ed) ::: [Quarto Github webpage tutorial](d20220921.html)
 
-![](img/hap-e-hex.png){width="25" height="30"} [![](img/youtube.png){width="30"}](https://youtu.be/YQFoD4gLxk4) **2022-09-28 (meeting #99) Computer vision project / Python (Matt)** ::: [pptx](pages\2022-09-28\weevil-detection.pptx) ::: [weevilwatch github repo](https://github.com/onthesofa/weevil-watch)
+![](img/hap-e-hex.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/YQFoD4gLxk4) **2022-09-28 (meeting #99) Computer vision project / Python (Matt)** ::: [pptx](pages\2022-09-28\weevil-detection.pptx) ::: [weevilwatch github repo](https://github.com/onthesofa/weevil-watch)
 
-![](img/harug-hex.png){width="25" height="30"} **2022-09-21 (meeting #98) New Quarto website (Ed)** ::: [Quarto Hello, World](d20220921.html)
+![](img/harug-hex.png){width="30" height="35"} **2022-09-21 (meeting #98) New Quarto website (Ed)** ::: [Quarto Hello, World](d20220921.html)
 
 <br><br>
 
