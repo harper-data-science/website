@@ -10,8 +10,6 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-01-31 (Meeting #138) R Stats Bootcamp Session 3 (Ed)
-
 2024-02-07 (Meeting #139) R Stats Bootcamp Session 4 (Ed)
 
 2024-02-14 (Meeting #140) R Stats Bootcamp Session 5 (Ed)
@@ -26,7 +24,9 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed)** ::: [slides](pages/2024-01-24-RSB02/RSB02.pptx) ::: [Bootcamp 02 link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-01-31 (Meeting #138) R Stats Bootcamp Session 3 (Ed)** ::: [slides](pages/2024-01-31-RSB03/RSB03.pptx) ::: [Bootcamp 03 link](https://rstats-bootcamp.github.io/website/3-functions.html)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/6SpFONtDhyE) **2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed)** ::: [slides](pages/2024-01-24-RSB02/RSB02.pptx) ::: [Bootcamp 02 link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/CaktME4w32I) **2024-01-17 (Meeting #136) Resume HARUG! for spring term: R Stats Bootcamp (Ed)** ::: [slides](pages/2024-01-17-RSB01/RSB01.pptx) ::: [Bootcamp 01 link](https://rstats-bootcamp.github.io/website/1-setup.html)
 

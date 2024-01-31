@@ -1,0 +1,142 @@
+---
+title: "R Stats Bootcamp 03"
+subtitle: "R Functions"
+format: pptx
+reference-doc: template.pptx
+author: Ed Harris
+date: 2023-01-31
+date-format: iso
+center: true
+---
+
+##  {background-image="pics/Bootcamp_2024.png"}
+
+## R Stats Bootcamp 02 {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/toolbox2.png)
+:::
+
+::: {.column width="50%"}
+
+[R Stats Bootcamp 03](https://rstats-bootcamp.github.io/website/3-functions.html)
+
+<br>
+
+R Functions
+
+`(R functions are tools in a toolbox)`
+
+<br>
+
+`(R packages are themselves a toolbox)`
+
+:::
+:::
+
+## Objectives
+
+- Function tour
+
+- Using functions and getting help
+
+- R packages
+
+- Finding, downloading and using packages
+
+- Practice exercises
+
+
+## Function tour
+
+`function_name()`
+
+<br>
+
+Note:
+
+- `function_name` is the name (usually contextual meaning)
+
+- EVERY function has brackets `()`
+
+
+## Using R functions
+
+```r
+function_name(argument_1 = value_1, 
+              argument_2 = value_2, 
+              ...)
+```
+<br>
+
+- Arguments are like "settings" for functions
+
+- Each argument has a unique name
+
+- Arg values assigned by "`=`" and separated by "`,`"
+
+- "`...`" means there are optional args (ignore for now)
+
+## Function names
+
+```r
+`mean()` # Calculates the arithmetic mean
+
+`log()` # Calculates the log
+
+`sd()` # Calculates the standard deviation
+
+`plot()` # Draws plots
+
+`help()` # Used to access help pages
+```
+
+...you get the idea
+
+## Using functions and help
+
+Demo
+
+```r
+## A workflow for using functions ####
+help(c) # We use this a lot - it "combines" numbers
+c(2, 6, 7, 8.1, 5, 6) 
+
+...
+
+```
+
+
+## R packages
+
+- Extremely useful, mandatory
+
+- Lots of them (>20,000)
+
+- Community made
+
+- Must discover them
+
+- Must learn to use them, their functions
+
+
+## Installing packages
+
+Demo
+
+```r
+# Step 1: install a package
+
+help(install.packages) # just have a look
+install.packages(pkgs = "package_name")
+```
+
+## Using RStudio GUI
+
+![](pics/1.2-packages-tab.png)
+
+
+## Practice Exercises
+
+![](pics/Laptop_duck.webp)
