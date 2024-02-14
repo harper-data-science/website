@@ -1,0 +1,128 @@
+---
+title: "R Stats Bootcamp 05"
+subtitle: "Data frames"
+format: pptx
+reference-doc: template.pptx
+author: Ed Harris
+date: 2023-02-14
+date-format: iso
+center: true
+---
+
+##  {background-image="pics/Bootcamp_2024.png"}
+
+## R Stats Bootcamp {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/tidy.png)
+:::
+
+::: {.column width="50%"}
+
+[R Stats Bootcamp 05](https://rstats-bootcamp.github.io/website/5-data-frames.html)
+
+<br>
+
+R Data Frames
+
+`The first step in using R for data analysis is getting your data into R. The first step for getting your data into R is making your data tidy.`
+
+<br>
+
+:::
+:::
+
+
+## Objectives
+
+- Common data file types
+
+- Excel, data setup, and the Data Dictionary
+
+- Getting data into R
+
+- Manipulating variables in the Data Frame
+
+- Practice exercises
+
+
+## Tidy data concept
+
+- Archives data in accessible format
+
+- Data "transparent" to others
+
+- "Tidy Data" credit: Hadley Wickham (lead statistician at Posit)
+
+- [Wickham 2014](https://www.jstatsoft.org/article/view/v059i10)
+
+## Tidy data concept
+
+![](pics/old_tidy.png)
+
+
+## Common data file types
+
+- (c)sv comma separated values + others
+
+- Excel
+
+- Avoid (!) proprietary formats
+
+- Data Dictionary
+
+
+## Untidy data
+
+![](pics/1.4-untidy.png)
+
+## Tidy data
+
+![](pics/1.4-tidy.png)
+
+## Tidy dictionary
+
+![](pics/1.4-tidy-dictionary.png)
+
+## Tidy csv
+
+![](pics/1.4-tidy.csv.png)
+
+
+## Getting data into R
+
+Choices
+
+- from File > Import Data
+
+- readxl::read_excel()
+
+- openxlsx::read.xlsx()
+
+<br>
+
+Demonstrate
+
+## Manipulating variables in the Data Frame
+
+- `class()`
+
+- `names()`
+
+- `str()`
+
+- indexes `[ , ]`
+
+- `attach()`
+
+<br>
+
+Demonstrate
+
+## Practice Exercises
+
+<center>
+
+![](pics/laptop_dog.png)
+</center>
