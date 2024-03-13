@@ -10,16 +10,23 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-03-13 (Meeting #142) R Stats Bootcamp Session 7 (Ed+Megan)
-
 2024-03-20 (Meeting #143) R Stats Bootcamp Session 8 (Ed+Megan)
 
 2024-03-27 (Meeting #144) R Stats Bootcamp Session 9 (Ed+Megan)
+
+2024-04-03 (Meeting #145) R Stats Bootcamp Session 10 (Ed+Megan)
+
+2024-04-10 (Meeting #146) R Stats Bootcamp Session 11 (Ed+Megan)
+
+2024-04-17 (Meeting #147) R Stats Bootcamp Session 12 (Ed+Megan)
+
 <br>
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-03-06 (Meeting #141) R Stats Bootcamp Session 6 (Ed)** ::: [slides](pages/2024-03-06-RSB06/RSB06.pptx) ::: [Bootcamp 06 link](https://rstats-bootcamp.github.io/website/6-data-manipulation.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-03-13 (Meeting #142) R Stats Bootcamp Session 7 (Ed)** ::: [slides](pages/2024-03-13-RSB07/RSB07.pptx) ::: [Bootcamp 07 link](https://rstats-bootcamp.github.io/website/7-question-explore.html)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/I9ofhdQcxI4) **2024-03-06 (Meeting #141) R Stats Bootcamp Session 6 (Ed)** ::: [slides](pages/2024-03-06-RSB06/RSB06.pptx) ::: [Bootcamp 06 link](https://rstats-bootcamp.github.io/website/6-data-manipulation.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/HIfSBbYBrkw) **2024-02-14 (Meeting #140) R Stats Bootcamp Session 5 (Ed)** ::: [slides](pages/2024-02-14-RSB05/RSB05.pptx) ::: [Bootcamp 05 link](https://rstats-bootcamp.github.io/website/5-data-frames.html)
 

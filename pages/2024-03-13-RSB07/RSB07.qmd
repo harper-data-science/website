@@ -1,0 +1,164 @@
+---
+title: "R Stats Bootcamp 07"
+subtitle: "Exploring Data"
+format: pptx
+reference-doc: template.pptx
+author: Ed Harris
+date: 2023-03-13
+date-format: iso
+center: true
+---
+
+##  {background-image="pics/Bootcamp_2024.png"}
+
+## R Stats Bootcamp {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/unsplash-pig.png)
+:::
+
+::: {.column width="50%"}
+[R Stats Bootcamp 07](https://rstats-bootcamp.github.io/website/7-question-explore.html)
+
+<br>
+
+Exploring data
+
+`We call sizing up the data “weighing the pig”.`
+
+<br>
+:::
+:::
+
+## Objectives
+
+-Question formulation 
+
+-Summarize: Weighing the Pig
+
+-Variables and graphing
+
+-“Analysis” versus “EDA”
+
+-Statistical Analysis Plan: the concept
+
+
+## Question formulation and hypothesis testing
+
+-"population of interest"
+
+-samples and sampling
+
+-test statistics
+
+-null hypothesis
+
+-Let's talk about the P-value
+
+## Question formulation and hypothesis testing
+
+Benefits of NHST
+
+-Familiar and acceptable to researchers
+
+-Typically robust to assumptions
+
+-Strong framework for evidence
+
+-The basic idea is simple
+
+## Question formulation and hypothesis testing
+
+Criticism of HNST
+
+-Often interpreted under error
+
+-Validation of analysis often neglected
+
+-Education often deficient
+
+-Practitioners ignorant of subtleties
+
+## Summarize: Weighing the Pig
+
+Chick weight dataset
+
+`The hypothesis voices “how you think the world works” or what you predict to be true”`
+
+**coding**
+
+## Variables and graphing
+
+![](pics/convincing.png)
+
+
+## Variables and graphing
+
+-Must convey relevant information
+
+-Consistent in aesthetics
+
+-Self-contained
+
+-Reflect hypothesis (unless descriptive)
+
+-Appropriate to data
+
+## Variables and graphing
+
+
+Concept of "layering" in building graphs
+
+**coding**
+
+## “Analysis” versus “EDA”
+
+EDA:
+
+-Informal, haphazard
+
+-Gain data understanding
+
+-Test assumptions
+
+-Usually not for "others"
+
+-Usually occurs before analysis
+
+## “Analysis” versus “EDA”
+
+Analysis:
+
+-Designed to fit hypothesis
+
+-For presentation to others
+
+-Creation of EVIDENCE to support CLAIMS
+
+-Reproducible
+
+## Statistical Analysis Plan: the concept
+
+Prior to data collection
+
+-formally state hypothesis
+
+-State specific statistical model(s)
+
+-Specify data and data collection
+
+-State and justify sample size
+
+## Taught to children
+
+![](pics/2.1-sci-proc1.png)
+
+## Best practice
+
+![](pics/2.1-sci-proc3.png)
+
+
+## Practice Exercises
+
+<center>![](pics/laptop_dog.png)</center>
