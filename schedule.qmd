@@ -22,7 +22,9 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-03-20 (Meeting #143) R Stats Bootcamp Session 8 (Megan, Ed)** ::: [slides](pages/2024-03-20-RSB08/RSB08.pptx) ::: [Bootcamp 08 link](https://rstats-bootcamp.github.io/website/8-sampling-dist.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-03-27 (Meeting #144) R Stats Bootcamp Session 9 (Megan, Ed)** ::: [slides](pages/2024-03-27-RSB09/RSB09.pptx) ::: [Bootcamp 09 link](https://rstats-bootcamp.github.io/website/9-correlation.html)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/OcyeG9eXS_M) **2024-03-20 (Meeting #143) R Stats Bootcamp Session 8 (Megan, Ed)** ::: [slides](pages/2024-03-20-RSB08/RSB08.pptx) ::: [Bootcamp 08 link](https://rstats-bootcamp.github.io/website/8-sampling-dist.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/EciZdxTMfBQ) **2024-03-13 (Meeting #142) R Stats Bootcamp Session 7 (Ed)** ::: [slides](pages/2024-03-13-RSB07/RSB07.pptx) ::: [Bootcamp 07 link](https://rstats-bootcamp.github.io/website/7-question-explore.html)
 
@@ -32,12 +34,11 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/BHXI8hNgLWw) **2024-02-07 (Meeting #139) R Stats Bootcamp Session 4 (Ed)** ::: [slides](pages/2024-02-07-RSB04/RSB04.pptx) ::: [Bootcamp 04 link](https://rstats-bootcamp.github.io/website/4-data.html)
 
-
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/jwyCLgcO0wY) **2024-01-31 (Meeting #138) R Stats Bootcamp Session 3 (Ed)** ::: [slides](pages/2024-01-31-RSB03/RSB03.pptx) ::: [Bootcamp 03 link](https://rstats-bootcamp.github.io/website/3-functions.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/6SpFONtDhyE) **2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed)** ::: [slides](pages/2024-01-24-RSB02/RSB02.pptx) ::: [Bootcamp 02 link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/CaktME4w32I) **2024-01-17 (Meeting #136) Resume HARUG! for spring term: R Stats Bootcamp (Ed)** ::: [slides](pages/2024-01-17-RSB01/RSB01.pptx) ::: [Bootcamp 01 link](https://rstats-bootcamp.github.io/website/1-setup.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/CaktME4w32I) **2024-01-17 (Meeting #136) R Stats Bootcamp Session 1 (Ed)** ::: [slides](pages/2024-01-17-RSB01/RSB01.pptx) ::: [Bootcamp 01 link](https://rstats-bootcamp.github.io/website/1-setup.html)
 
 ![](img/harug-2023.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/DgyUH-wjA6E) **2023-12-20 (Meeting #135) Holidays data viz activity (Ed H)** ::: [slides](pages/2023-12-20/winter.pptx) ::: [files](pages/2023-12-20/Winter_Holiday_Agricultural_Analysis.zip)
 

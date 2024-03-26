@@ -1,0 +1,215 @@
+---
+title: "R Stats Bootcamp 09"
+subtitle: "Correlations"
+format: pptx
+reference-doc: template.pptx
+author: Ed Harris/Megan Lewis
+date: 2023-03-27
+date-format: iso
+center: true
+---
+
+##  {background-image="pics/Bootcamp_2024.png"}
+
+## R Stats Bootcamp {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/birds.png)
+:::
+
+::: {.column width="50%"}
+[R Stats Bootcamp 09](https://rstats-bootcamp.github.io/website/9-correlation.html)
+
+<br>
+
+`The data were formless like a cloud of tiny birds in the sky`
+
+Relationships between numeric variables
+
+<br>
+:::
+:::
+
+## Objectives
+
+-   The question of correlation
+
+-   Data and Assumptions
+
+-   Graphing
+
+-   Tests and Alternatives
+
+-   Practice exercises
+
+## The question of correlation
+
+::: columns
+::: {.column width="50%"}
+-   Is there a demonstrable association between two numeric variables?
+
+-   Do they “co-vary”?
+
+-   Positive vs. negative
+
+-   Strong vs. weak
+:::
+
+::: {.column width="50%"}
+![](pics/correlation.png)
+:::
+:::
+
+## Off to R!
+
+-   FLASH CHALLENGE!
+
+## Data and Assumptions
+
+Pearson's correlation
+
+-   Important assumptions
+
+    -   Linear relationship between variables
+
+    -   Numeric values are Gaussian
+
+-   Technically:
+
+    -   the co-variance of two variables divided by the product of the standard deviations
+
+## Off to R!
+
+-   Calculate a correlation coefficient
+
+## Graphing
+
+::: columns
+::: {.column width="50%"}
+-   Useful tool to assess correlations visually
+
+-   Lots of variables
+:::
+
+::: {.column width="50%"}
+![](pics/mult_cor.png)
+:::
+:::
+
+## Off to R!
+
+-   Correlation matrices
+
+## Tests and alternatives
+
+Testing correlation coefficients
+
+-   Null hypothesis testing – cor.test()
+
+Pearson's assumption
+
+-   Linear relationship
+-   Bivariate Gaussian distribution
+-   Homoscedasticity – similar variance
+-   Independent observations
+-   No outliers
+
+## What if my data doesn't meet the assumptions?
+
+Alternative options available:
+
+-   E.g., Spearman's rank correlation, Kendall-tau etc.
+
+## Off to R!
+
+-   Statistical test of correlations - a process
+
+## Results and reporting
+
+-   Think about your audience
+
+## Results and reporting - for yourself
+
+-   Comment on R script
+
+    -   Reproducible format
+
+    -   Think tidy and organised
+
+-   Can also be beneficial for colleagues and collaborators
+
+## Results and reporting - for others
+
+## Results and reporting - for others
+
+::: columns
+::: {.column width="85%"}
+<br>
+
+> ### "You should NEVER PRESENT RAW COPIED AND PASTED STATISTICAL RESULTS (O.M.G!)"
+>
+> <br>
+>
+> *-- Ed Harris, (always)*
+:::
+:::
+
+## Results and reporting - for others
+
+-   Format output and figures for ease of consumption
+
+-   Potential formatting options:
+
+-   RMarkdown - several output options
+
+-   Word processing document (how most people do it)
+
+## Statistical summary
+
+Null hypothesis statistical tests - Test statistic (Varies between tests)
+
+-   Sample size or degrees of freedom
+
+-   The p-value
+
+<br>
+
+E.g., We found a significant correlation between petal width and length (Pearson’s r = 0.96, df = 148, P \< 0.0001).
+
+## Statistical summary
+
+E.g., We found a significant correlation between petal width and length (Pearson’s r = 0.96, df = 148, P \< 0.0001).
+
+<br>
+
+NB:
+
+-   Rounding of decimal accuracy
+    -   Usually 2 - but be consistent!
+-   P-value format
+    -   If smaller than 0.0001, then P\< 0.0001, don’t use scientific notation (no one likes that… )
+
+## Off to R!
+
+-   Validate - histograms!
+
+-   FLASH CHALLENGE!
+
+    -   Write a script following the steps to question, graph, test and validate for each iris species separately.
+
+## Correlation alternatives to Pearson's
+
+Spearman's rank correlation
+
+-   Data are ranked or otherwise ordered
+
+-   Data rows are independent
+
+## Off to R!
+
+-   Spearman's rank correlation example
+
+## Practice Exercises
+
+<center>![](pics/laptop_dog.png)</center>

@@ -12,8 +12,8 @@ website:
     contents: 
       - section: "Information"
         contents:
-          - index.qmd
           - schedule.qmd
+          - about.qmd
 #      - section: "HARUG!"
 #        contents:
 #         - d20221005.qmd
