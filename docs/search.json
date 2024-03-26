@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasionally in person. Join our Slack channel and introduce yourself for more information and to participate (please join with your full real name, e.g. “Florence Nightingale”."
+  },
+  {
+    "objectID": "index.html#the-future",
+    "href": "index.html#the-future",
+    "title": "Schedule",
+    "section": "The Future",
+    "text": "The Future\n2024-04-03 (Meeting #145) R Stats Bootcamp Session 10 (Megan, Ed)\n2024-04-10 (Meeting #146) R Stats Bootcamp Session 11 (Megan, Ed)\n2024-04-17 (Meeting #147) R Stats Bootcamp Session 12 (Megan, Ed)"
+  },
+  {
+    "objectID": "index.html#meeting-topics",
+    "href": "index.html#meeting-topics",
+    "title": "Schedule",
+    "section": "Meeting topics",
+    "text": "Meeting topics\n  2024-03-27 (Meeting #144) R Stats Bootcamp Session 9 (Megan, Ed) ::: slides ::: Bootcamp 09 link\n  2024-03-20 (Meeting #143) R Stats Bootcamp Session 8 (Megan, Ed) ::: slides ::: Bootcamp 08 link\n  2024-03-13 (Meeting #142) R Stats Bootcamp Session 7 (Ed) ::: slides ::: Bootcamp 07 link\n  2024-03-06 (Meeting #141) R Stats Bootcamp Session 6 (Ed) ::: slides ::: Bootcamp 06 link\n  2024-02-14 (Meeting #140) R Stats Bootcamp Session 5 (Ed) ::: slides ::: Bootcamp 05 link\n  2024-02-07 (Meeting #139) R Stats Bootcamp Session 4 (Ed) ::: slides ::: Bootcamp 04 link\n  2024-01-31 (Meeting #138) R Stats Bootcamp Session 3 (Ed) ::: slides ::: Bootcamp 03 link\n  2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed) ::: slides ::: Bootcamp 02 link\n  2024-01-17 (Meeting #136) R Stats Bootcamp Session 1 (Ed) ::: slides ::: Bootcamp 01 link\n  2023-12-20 (Meeting #135) Holidays data viz activity (Ed H) ::: slides ::: files\n  2023-12-13 (Meeting #134) Beginning R and stats: what training do you want and need? (group discussion led by Ed H) ::: slides ::: R Stats Bootcamp ::: Harper MSc teaching schedule\n  2023-12-06 (Meeting #133) Example experimental design and power (Ronald M) ::: slide files ::: Ed pwr\n  2023-11-29 (Meeting #132) Train a custom Yolo model in Python (Ed H) ::: slide files ::: ed owl pic ::: slide files ::: Python notebook html ::: link to Python notebook repo\n  2023-11-22 (Meeting #131) Basics of effect size and power for experimental design in R (Ed H + Charlotte C) ::: Power ppt ::: Cow experiment ppt ::: f^2 Effect size reading Selya 2012\n  2023-11-15 (meeting #130) Cattle welfare data science project (Tom C) ::: stressed cows\n  2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H) ::: slides ::: data ::: colab notebook ::: Python Resources\n  2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B) ::: slides\n  2023-07-19 (meeting #127) chatGPT + code interpreter for data analysis (Joe R)\n  2023-07-12 (meeting #126) Docker web app demo (Matt B) ::: instructions ::: slides\n  2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H) ::: R proj files zip ::: slides\n  2023-06-14 (meeting #124) Docker-related session? (Matt B)\n  2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)\n  2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)\n  2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H) chatGPT experiments slides ::: chatGPT prompts ::: milkers project zip\n  2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H) chatGPT slides ::: chatGPT prompts\n  2023-05-03 (meeting #119) My_Tidy_Data %<% Web scraping data with R and tools like readLines() and grep() (Ed H) Manual scrape project files ::: “Autoscrape” example script\n  2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-19 (meeting #117) Plant Spatial Statistics Ch 03 Part 2 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-04-12 (meeting #116) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-05 (meeting #115) Part 1: Animal pose and behaviour detection in Deeplabcut (George W) ::: DeepLabCut website ::: George W ppt\n  2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 Part 1 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-03-08 (meeting #113) Bootcamp launch S02E02 (George W.) ::: Bootcamp 2\n 2023-02-15 (meeting #112) Natural Language Processing session #02 (Ed) ::: NLP2 slides ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb\n 2023-02-01 (meeting #111) Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch02 ::: html slides ch 02 ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch02 code\n  2023-01-25 (meeting #110) Bootcamp launch S02E01 (Ed + HARUG!) ::: Bootcamp1 ::: slides overview ::: slides Setup 01\n  2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed) ::: NLP1 slides ::: NLP1 notbook\n  2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch01 ::: html slides ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch01 code\n  2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: pptx\n 2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed) ::: pptx ::: cheatsheet 1 ::: cheatsheet 2 ::: cheatsheet 3 ::: cheatsheet 4\n  2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: talk pptx ::: R script ::: Raw data xlsx ::: Count data xlsx\n  2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)\n  2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed) ::: pptx ::: R script ::: {mlr3} book site\n  2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed) ::: Quarto Github webpage tutorial\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt) ::: pptx ::: weevilwatch github repo\n 2022-09-21 (meeting #98) New Quarto website (Ed) ::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+  },
+  {
     "objectID": "d20220921.html#harug-hello-world-using-quarto",
     "href": "d20220921.html#harug-hello-world-using-quarto",
     "title": "2022-09-21",
@@ -77,11 +98,123 @@
     "text": "Quarto: R Markdown’s “new clothes”?\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
+    "objectID": "files/2023-11-20-yolo/yolo.html",
+    "href": "files/2023-11-20-yolo/yolo.html",
+    "title": "Computer Image Classification",
     "section": "",
-    "text": "(old website)\n\nHARUG! is the Harper Adams R User Group\nThis site is devoted to the R programming, Python, Statistics and Data Science community at Harper Adams University. We meet Wednesdays at 4pm UK time on Teams and via our Slack workspace anytime (please join with your full real name, e.g. “Florence Nightingale”).\n Slack workspace: Join us (kindly register with your real name, e.g. “Ronald Fisher”)\n Youtube channel\n\nResearch methods in statistics and AI applications\nBuild data analysis skills and capacity\nGroup problem solving, live coding\nTutorials and resource sharing\nCommunity\n\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+    "text": "Image Classification and Detection"
+  },
+  {
+    "objectID": "files/2023-11-20-yolo/yolo.html#section",
+    "href": "files/2023-11-20-yolo/yolo.html#section",
+    "title": "Computer Image Classification",
+    "section": "",
+    "text": "Venn Diagram of AI and Deep Learning"
+  },
+  {
+    "objectID": "files/2023-11-20-yolo/yolo_intro.html#transfer-learning",
+    "href": "files/2023-11-20-yolo/yolo_intro.html#transfer-learning",
+    "title": "Harper Data Science",
+    "section": "Transfer learning",
+    "text": "Transfer learning\nTransfer learning, used in machine learning, is the reuse of a pre-trained model on a new problem. In transfer learning, a machine exploits the knowledge gained from a previous task to improve generalization about another.\nTo do this you need to create your own training data\nWe are going to look at an example today on a platform called Roboflow.\n\n# NB API key is fiddley\n!pip install roboflow\nfrom roboflow import Roboflow\nfrom google.colab import userdata\n\n\nrf = Roboflow(api_key=userdata.get('roboflowkey')) # << explain briefly!\nproject = rf.workspace(\"roboflow-gw7yv\").project(\"raccoon\")\ndataset = project.version(38).download(\"yolov8\")\n\nloading Roboflow workspace...\nloading Roboflow project...\nDependency ultralytics==8.0.196 is required but found version=8.0.220, to fix: `pip install ultralytics==8.0.196`\n\n\nDownloading Dataset Version Zip in Raccoon-38 to yolov8:: 100%|██████████| 11800/11800 [00:00<00:00, 32613.29it/s]\n\n\n\n\n\n\nExtracting Dataset Version Zip to Raccoon-38 in yolov8:: 100%|██████████| 799/799 [00:00<00:00, 8040.91it/s]\n\n\n\n!yolo task=detect \\\nmode = train \\\nmodel = yolov8s.pt \\\ndata = /content/Raccoon-38/data.yaml \\\nepochs = 10 \\\nimgsz = 640\n\nUltralytics YOLOv8.0.220 🚀 Python-3.10.12 torch-2.1.0+cu118 CUDA:0 (Tesla T4, 15102MiB)\nengine/trainer: task=detect, mode=train, model=yolov8s.pt, data=/content/Raccoon-38/data.yaml, epochs=10, patience=50, batch=16, imgsz=640, save=True, save_period=-1, cache=False, device=None, workers=8, project=None, name=train2, exist_ok=False, pretrained=True, optimizer=auto, verbose=True, seed=0, deterministic=True, single_cls=False, rect=False, cos_lr=False, close_mosaic=10, resume=False, amp=True, fraction=1.0, profile=False, freeze=None, overlap_mask=True, mask_ratio=4, dropout=0.0, val=True, split=val, save_json=False, save_hybrid=False, conf=None, iou=0.7, max_det=300, half=False, dnn=False, plots=True, source=None, vid_stride=1, stream_buffer=False, visualize=False, augment=False, agnostic_nms=False, classes=None, retina_masks=False, show=False, save_frames=False, save_txt=False, save_conf=False, save_crop=False, show_labels=True, show_conf=True, show_boxes=True, line_width=None, format=torchscript, keras=False, optimize=False, int8=False, dynamic=False, simplify=False, opset=None, workspace=4, nms=False, lr0=0.01, lrf=0.01, momentum=0.937, weight_decay=0.0005, warmup_epochs=3.0, warmup_momentum=0.8, warmup_bias_lr=0.1, box=7.5, cls=0.5, dfl=1.5, pose=12.0, kobj=1.0, label_smoothing=0.0, nbs=64, hsv_h=0.015, hsv_s=0.7, hsv_v=0.4, degrees=0.0, translate=0.1, scale=0.5, shear=0.0, perspective=0.0, flipud=0.0, fliplr=0.5, mosaic=1.0, mixup=0.0, copy_paste=0.0, cfg=None, tracker=botsort.yaml, save_dir=runs/detect/train2\nDownloading https://ultralytics.com/assets/Arial.ttf to '/root/.config/Ultralytics/Arial.ttf'...\n100% 755k/755k [00:00<00:00, 12.3MB/s]\n2023-11-29 15:19:03.571951: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\n2023-11-29 15:19:03.572023: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\n2023-11-29 15:19:03.572079: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\nOverriding model.yaml nc=80 with nc=1\n\n                   from  n    params  module                                       arguments                     \n  0                  -1  1       928  ultralytics.nn.modules.conv.Conv             [3, 32, 3, 2]                 \n  1                  -1  1     18560  ultralytics.nn.modules.conv.Conv             [32, 64, 3, 2]                \n  2                  -1  1     29056  ultralytics.nn.modules.block.C2f             [64, 64, 1, True]             \n  3                  -1  1     73984  ultralytics.nn.modules.conv.Conv             [64, 128, 3, 2]               \n  4                  -1  2    197632  ultralytics.nn.modules.block.C2f             [128, 128, 2, True]           \n  5                  -1  1    295424  ultralytics.nn.modules.conv.Conv             [128, 256, 3, 2]              \n  6                  -1  2    788480  ultralytics.nn.modules.block.C2f             [256, 256, 2, True]           \n  7                  -1  1   1180672  ultralytics.nn.modules.conv.Conv             [256, 512, 3, 2]              \n  8                  -1  1   1838080  ultralytics.nn.modules.block.C2f             [512, 512, 1, True]           \n  9                  -1  1    656896  ultralytics.nn.modules.block.SPPF            [512, 512, 5]                 \n 10                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          \n 11             [-1, 6]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           \n 12                  -1  1    591360  ultralytics.nn.modules.block.C2f             [768, 256, 1]                 \n 13                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          \n 14             [-1, 4]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           \n 15                  -1  1    148224  ultralytics.nn.modules.block.C2f             [384, 128, 1]                 \n 16                  -1  1    147712  ultralytics.nn.modules.conv.Conv             [128, 128, 3, 2]              \n 17            [-1, 12]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           \n 18                  -1  1    493056  ultralytics.nn.modules.block.C2f             [384, 256, 1]                 \n 19                  -1  1    590336  ultralytics.nn.modules.conv.Conv             [256, 256, 3, 2]              \n 20             [-1, 9]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           \n 21                  -1  1   1969152  ultralytics.nn.modules.block.C2f             [768, 512, 1]                 \n 22        [15, 18, 21]  1   2116435  ultralytics.nn.modules.head.Detect           [1, [128, 256, 512]]          \nModel summary: 225 layers, 11135987 parameters, 11135971 gradients, 28.6 GFLOPs\n\nTransferred 349/355 items from pretrained weights\nTensorBoard: Start with 'tensorboard --logdir runs/detect/train2', view at http://localhost:6006/\nFreezing layer 'model.22.dfl.conv.weight'\nAMP: running Automatic Mixed Precision (AMP) checks with YOLOv8n...\nAMP: checks passed ✅\ntrain: Scanning /content/Raccoon-38/train/labels... 150 images, 0 backgrounds, 0 corrupt: 100% 150/150 [00:00<00:00, 1576.78it/s]\ntrain: New cache created: /content/Raccoon-38/train/labels.cache\nalbumentations: Blur(p=0.01, blur_limit=(3, 7)), MedianBlur(p=0.01, blur_limit=(3, 7)), ToGray(p=0.01), CLAHE(p=0.01, clip_limit=(1, 4.0), tile_grid_size=(8, 8))\nval: Scanning /content/Raccoon-38/valid/labels... 29 images, 0 backgrounds, 0 corrupt: 100% 29/29 [00:00<00:00, 919.25it/s]\nval: New cache created: /content/Raccoon-38/valid/labels.cache\nPlotting labels to runs/detect/train2/labels.jpg... \noptimizer: 'optimizer=auto' found, ignoring 'lr0=0.01' and 'momentum=0.937' and determining best 'optimizer', 'lr0' and 'momentum' automatically... \noptimizer: AdamW(lr=0.002, momentum=0.9) with parameter groups 57 weight(decay=0.0), 64 weight(decay=0.0005), 63 bias(decay=0.0)\nImage sizes 640 train, 640 val\nUsing 2 dataloader workers\nLogging results to runs/detect/train2\nStarting training for 10 epochs...\nClosing dataloader mosaic\nalbumentations: Blur(p=0.01, blur_limit=(3, 7)), MedianBlur(p=0.01, blur_limit=(3, 7)), ToGray(p=0.01), CLAHE(p=0.01, clip_limit=(1, 4.0), tile_grid_size=(8, 8))\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       1/10      3.93G      1.783      7.084      2.412          6        640: 100% 10/10 [00:07<00:00,  1.31it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:01<00:00,  1.84s/it]\n                   all         29         29      0.666      0.655      0.717      0.279\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       2/10      3.99G      1.371      2.883      2.013          8        640: 100% 10/10 [00:02<00:00,  3.42it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.12it/s]\n                   all         29         29      0.603      0.828      0.721      0.277\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       3/10      4.01G      1.178      1.829      1.895          6        640: 100% 10/10 [00:02<00:00,  3.72it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.28it/s]\n                   all         29         29      0.813      0.759      0.807       0.39\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       4/10      4.01G       1.26      1.564      1.923          6        640: 100% 10/10 [00:03<00:00,  2.74it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  1.17it/s]\n                   all         29         29      0.744      0.703      0.757      0.348\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       5/10         4G      1.155      1.257      1.845          7        640: 100% 10/10 [00:02<00:00,  3.72it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.27it/s]\n                   all         29         29      0.632      0.862      0.807      0.364\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       6/10      4.01G      1.269       1.26      1.864          7        640: 100% 10/10 [00:02<00:00,  3.79it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.39it/s]\n                   all         29         29      0.893      0.862      0.928      0.386\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       7/10         4G      1.111       1.15      1.714          6        640: 100% 10/10 [00:03<00:00,  3.06it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  1.12it/s]\n                   all         29         29      0.878      0.828      0.882      0.391\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       8/10      4.01G      1.183      1.044      1.792          6        640: 100% 10/10 [00:02<00:00,  3.58it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.09it/s]\n                   all         29         29      0.848      0.966      0.955      0.491\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       9/10         4G       1.08      1.052      1.692          6        640: 100% 10/10 [00:02<00:00,  3.78it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.24it/s]\n                   all         29         29      0.917      0.966      0.958      0.545\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n      10/10         4G      0.962     0.8895      1.587          6        640: 100% 10/10 [00:02<00:00,  3.40it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  1.23it/s]\n                   all         29         29      0.893       0.86      0.933      0.555\n\n10 epochs completed in 0.016 hours.\nOptimizer stripped from runs/detect/train2/weights/last.pt, 22.5MB\nOptimizer stripped from runs/detect/train2/weights/best.pt, 22.5MB\n\nValidating runs/detect/train2/weights/best.pt...\nUltralytics YOLOv8.0.220 🚀 Python-3.10.12 torch-2.1.0+cu118 CUDA:0 (Tesla T4, 15102MiB)\nModel summary (fused): 168 layers, 11125971 parameters, 0 gradients, 28.4 GFLOPs\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.54it/s]\n                   all         29         29      0.893       0.86      0.933      0.555\nSpeed: 0.2ms preprocess, 6.0ms inference, 0.0ms loss, 1.8ms postprocess per image\nResults saved to runs/detect/train2\n💡 Learn more at https://docs.ultralytics.com/modes/train"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#r-stats-bootcamp-01",
+    "href": "files/2024-01-17-RSB/RSB01.html#r-stats-bootcamp-01",
+    "title": "R Stats Bootcamp",
+    "section": "R Stats Bootcamp 01",
+    "text": "R Stats Bootcamp 01\n“Setup & Intro”\nhttps://rstats-bootcamp.github.io/website"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#objectives",
+    "href": "files/2024-01-17-RSB/RSB01.html#objectives",
+    "title": "R Stats Bootcamp",
+    "section": "Objectives",
+    "text": "Objectives\n\nHow the R Stats Bootcamp works\nR motivation\nInstall R and RStudio or set up RStudio Cloud\nRStudio components and setup\nWorkflow for scripts in R\nPractice exercises"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#how-the-r-stats-bootcamp-works",
+    "href": "files/2024-01-17-RSB/RSB01.html#how-the-r-stats-bootcamp-works",
+    "title": "R Stats Bootcamp",
+    "section": "How the R Stats Bootcamp works",
+    "text": "How the R Stats Bootcamp works\n\nPractical, open instructional materials for learning R\nSimple statistics in R\nReproducible research and collaboration tools\nSelf-guided learning and self-assessment\nFriendly community"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#r-motivation-why-r",
+    "href": "files/2024-01-17-RSB/RSB01.html#r-motivation-why-r",
+    "title": "R Stats Bootcamp",
+    "section": "R motivation: why R?",
+    "text": "R motivation: why R?\n\nR is objectively the best statistical software available\nR is designed for people with no programming experience to perform sophisticated statistical analysis with minimum effort\nIn wide use at universities, companies: job demand\nVery large community of users\nFree and open source\nWorks well on all computers and OSes, old and new\nR is easy to learn (as you will see)"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#option-for-using-r",
+    "href": "files/2024-01-17-RSB/RSB01.html#option-for-using-r",
+    "title": "R Stats Bootcamp",
+    "section": "Option for using R",
+    "text": "Option for using R\n\n\nInstall R and R Studio locally\n\nHelp for Windows\nHelp for Macs\n\n\nOther options\n\nPosit Cloud\n\n(limited free account)\n\nGoogle colab"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#rstudio-components-and-setup",
+    "href": "files/2024-01-17-RSB/RSB01.html#rstudio-components-and-setup",
+    "title": "R Stats Bootcamp",
+    "section": "RStudio components and setup",
+    "text": "RStudio components and setup"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#workflow-for-r-scripts",
+    "href": "files/2024-01-17-RSB/RSB01.html#workflow-for-r-scripts",
+    "title": "R Stats Bootcamp",
+    "section": "Workflow for R scripts",
+    "text": "Workflow for R scripts\n\nAn R script is a plain text file\nEnds in “dot R” (.R) by default\nInterface between your commands and R software\nDocuments your analysis\nInterface between your commands and R software\nOrganized and logical, has meaning for other people"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#workflow-for-r-scripts-1",
+    "href": "files/2024-01-17-RSB/RSB01.html#workflow-for-r-scripts-1",
+    "title": "R Stats Bootcamp",
+    "section": "Workflow for R scripts",
+    "text": "Workflow for R scripts\n\n\n\n\nYour R script should be good enough to show a friend (like a supervisor, or even your future self), a friend you respect."
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#r-script-organisation",
+    "href": "files/2024-01-17-RSB/RSB01.html#r-script-organisation",
+    "title": "R Stats Bootcamp",
+    "section": "R script organisation",
+    "text": "R script organisation"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#r-script-organisation-1",
+    "href": "files/2024-01-17-RSB/RSB01.html#r-script-organisation-1",
+    "title": "R Stats Bootcamp",
+    "section": "R script organisation",
+    "text": "R script organisation"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#r-script-organisation-2",
+    "href": "files/2024-01-17-RSB/RSB01.html#r-script-organisation-2",
+    "title": "R Stats Bootcamp",
+    "section": "R script organisation",
+    "text": "R script organisation\n# 01 First line of a CODE CHUNK ####\n\nCode chunks start with a hash sign #\nTitle descriptive of contents\nEnd with (at least) four hash signs ####\nNumbered titles optional\nVisual + navigation function"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#r-script-comments",
+    "href": "files/2024-01-17-RSB/RSB01.html#r-script-comments",
+    "title": "R Stats Bootcamp",
+    "section": "R script comments",
+    "text": "R script comments\n# Vector of numbers << a comment\nmy_variable <- c(2,5,3,6,3,4,7)\n\n# Calculate the mean << another comment\nmean(my_variable)\n\nComments explain your code"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#r-script-submitting-commands",
+    "href": "files/2024-01-17-RSB/RSB01.html#r-script-submitting-commands",
+    "title": "R Stats Bootcamp",
+    "section": "R script “submitting” commands",
+    "text": "R script “submitting” commands\n\nRun whole line of code your cursor rests on Ctrl+Enter (Cmd+Return in Macs)\nRun code you have selected Ctrl+Enter (Cmd+Return in Macs)\nUse the “Run” menu above the Script window\nUse the Code > Run dropdown menu"
+  },
+  {
+    "objectID": "files/2024-01-17-RSB/RSB01.html#practice-exercises",
+    "href": "files/2024-01-17-RSB/RSB01.html#practice-exercises",
+    "title": "R Stats Bootcamp",
+    "section": "Practice Exercises",
+    "text": "Practice Exercises"
   },
   {
     "objectID": "ipynb/d20221005.html#quarto-r-markdowns-new-clothes",
@@ -133,11 +266,11 @@
     "text": "Column\n\nChart B\n\n\n\n\n\nChart C"
   },
   {
-    "objectID": "pages/2023-01-11/plant-ch-01.html#spatial-data-in-r",
-    "href": "pages/2023-01-11/plant-ch-01.html#spatial-data-in-r",
+    "objectID": "pages/2023-01-11/plant-ch-01.html",
+    "href": "pages/2023-01-11/plant-ch-01.html",
     "title": "Plant ch 01",
-    "section": "Spatial Data in R",
-    "text": "Spatial Data in R\n\n\n\n\n\nPlant 2019"
+    "section": "",
+    "text": "Plant 2019"
   },
   {
     "objectID": "pages/2023-01-11/plant-ch-01.html#outline",
@@ -259,27 +392,6 @@
     "text": "Coding"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasionally in person. Join our Slack channel and introduce yourself for more information and to participate (please join with your full real name, e.g. “Florence Nightingale”."
-  },
-  {
-    "objectID": "schedule.html#the-future",
-    "href": "schedule.html#the-future",
-    "title": "Schedule",
-    "section": "The Future",
-    "text": "The Future\n2024-04-03 (Meeting #145) R Stats Bootcamp Session 10 (Megan, Ed)\n2024-04-10 (Meeting #146) R Stats Bootcamp Session 11 (Megan, Ed)\n2024-04-17 (Meeting #147) R Stats Bootcamp Session 12 (Megan, Ed)"
-  },
-  {
-    "objectID": "schedule.html#meeting-topics",
-    "href": "schedule.html#meeting-topics",
-    "title": "Schedule",
-    "section": "Meeting topics",
-    "text": "Meeting topics\n  2024-03-27 (Meeting #144) R Stats Bootcamp Session 9 (Megan, Ed) ::: slides ::: Bootcamp 09 link\n  2024-03-20 (Meeting #143) R Stats Bootcamp Session 8 (Megan, Ed) ::: slides ::: Bootcamp 08 link\n  2024-03-13 (Meeting #142) R Stats Bootcamp Session 7 (Ed) ::: slides ::: Bootcamp 07 link\n  2024-03-06 (Meeting #141) R Stats Bootcamp Session 6 (Ed) ::: slides ::: Bootcamp 06 link\n  2024-02-14 (Meeting #140) R Stats Bootcamp Session 5 (Ed) ::: slides ::: Bootcamp 05 link\n  2024-02-07 (Meeting #139) R Stats Bootcamp Session 4 (Ed) ::: slides ::: Bootcamp 04 link\n  2024-01-31 (Meeting #138) R Stats Bootcamp Session 3 (Ed) ::: slides ::: Bootcamp 03 link\n  2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed) ::: slides ::: Bootcamp 02 link\n  2024-01-17 (Meeting #136) R Stats Bootcamp Session 1 (Ed) ::: slides ::: Bootcamp 01 link\n  2023-12-20 (Meeting #135) Holidays data viz activity (Ed H) ::: slides ::: files\n  2023-12-13 (Meeting #134) Beginning R and stats: what training do you want and need? (group discussion led by Ed H) ::: slides ::: R Stats Bootcamp ::: Harper MSc teaching schedule\n  2023-12-06 (Meeting #133) Example experimental design and power (Ronald M) ::: slide files ::: Ed pwr\n  2023-11-29 (Meeting #132) Train a custom Yolo model in Python (Ed H) ::: slide files ::: ed owl pic ::: slide files ::: Python notebook html ::: link to Python notebook repo\n  2023-11-22 (Meeting #131) Basics of effect size and power for experimental design in R (Ed H + Charlotte C) ::: Power ppt ::: Cow experiment ppt ::: f^2 Effect size reading Selya 2012\n  2023-11-15 (meeting #130) Cattle welfare data science project (Tom C) ::: stressed cows\n  2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H) ::: slides ::: data ::: colab notebook ::: Python Resources\n  2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B) ::: slides\n  2023-07-19 (meeting #127) chatGPT + code interpreter for data analysis (Joe R)\n  2023-07-12 (meeting #126) Docker web app demo (Matt B) ::: instructions ::: slides\n  2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H) ::: R proj files zip ::: slides\n  2023-06-14 (meeting #124) Docker-related session? (Matt B)\n  2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)\n  2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)\n  2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H) chatGPT experiments slides ::: chatGPT prompts ::: milkers project zip\n  2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H) chatGPT slides ::: chatGPT prompts\n  2023-05-03 (meeting #119) My_Tidy_Data %<% Web scraping data with R and tools like readLines() and grep() (Ed H) Manual scrape project files ::: “Autoscrape” example script\n  2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-19 (meeting #117) Plant Spatial Statistics Ch 03 Part 2 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-04-12 (meeting #116) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-05 (meeting #115) Part 1: Animal pose and behaviour detection in Deeplabcut (George W) ::: DeepLabCut website ::: George W ppt\n  2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 Part 1 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-03-08 (meeting #113) Bootcamp launch S02E02 (George W.) ::: Bootcamp 2\n 2023-02-15 (meeting #112) Natural Language Processing session #02 (Ed) ::: NLP2 slides ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb\n 2023-02-01 (meeting #111) Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch02 ::: html slides ch 02 ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch02 code\n  2023-01-25 (meeting #110) Bootcamp launch S02E01 (Ed + HARUG!) ::: Bootcamp1 ::: slides overview ::: slides Setup 01\n  2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed) ::: NLP1 slides ::: NLP1 notbook\n  2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch01 ::: html slides ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch01 code\n  2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: pptx\n 2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed) ::: pptx ::: cheatsheet 1 ::: cheatsheet 2 ::: cheatsheet 3 ::: cheatsheet 4\n  2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: talk pptx ::: R script ::: Raw data xlsx ::: Count data xlsx\n  2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)\n  2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed) ::: pptx ::: R script ::: {mlr3} book site\n  2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed) ::: Quarto Github webpage tutorial\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt) ::: pptx ::: weevilwatch github repo\n 2022-09-21 (meeting #98) New Quarto website (Ed) ::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
-  },
-  {
     "objectID": "pages/2023-07-05-pwr-sim/pwr_report.html",
     "href": "pages/2023-07-05-pwr-sim/pwr_report.html",
     "title": "Power sim for cow nutrition",
@@ -399,20 +511,6 @@
     "text": "Exercises\nExercise 1. Plot the relu and the softplus functions on the same graph.\nWhat is the main difference between the two functions?\nExercise 2. Repeat the same scatter plot but using the digits dataset instead.\n\nfrom sklearn.datasets import load_digits\nX, y = load_digits(return_X_y=True)\n\nAre pixel values good features for classifying samples?"
   },
   {
-    "objectID": "files/2023-11-20-yolo/yolo_intro.html#transfer-learning",
-    "href": "files/2023-11-20-yolo/yolo_intro.html#transfer-learning",
-    "title": "Harper Data Science",
-    "section": "Transfer learning",
-    "text": "Transfer learning\nTransfer learning, used in machine learning, is the reuse of a pre-trained model on a new problem. In transfer learning, a machine exploits the knowledge gained from a previous task to improve generalization about another.\nTo do this you need to create your own training data\nWe are going to look at an example today on a platform called Roboflow.\n\n# NB API key is fiddley\n!pip install roboflow\nfrom roboflow import Roboflow\nfrom google.colab import userdata\n\n\nrf = Roboflow(api_key=userdata.get('roboflowkey')) # << explain briefly!\nproject = rf.workspace(\"roboflow-gw7yv\").project(\"raccoon\")\ndataset = project.version(38).download(\"yolov8\")\n\nloading Roboflow workspace...\nloading Roboflow project...\nDependency ultralytics==8.0.196 is required but found version=8.0.220, to fix: `pip install ultralytics==8.0.196`\n\n\nDownloading Dataset Version Zip in Raccoon-38 to yolov8:: 100%|██████████| 11800/11800 [00:00<00:00, 32613.29it/s]\n\n\n\n\n\n\nExtracting Dataset Version Zip to Raccoon-38 in yolov8:: 100%|██████████| 799/799 [00:00<00:00, 8040.91it/s]\n\n\n\n!yolo task=detect \\\nmode = train \\\nmodel = yolov8s.pt \\\ndata = /content/Raccoon-38/data.yaml \\\nepochs = 10 \\\nimgsz = 640\n\nUltralytics YOLOv8.0.220 🚀 Python-3.10.12 torch-2.1.0+cu118 CUDA:0 (Tesla T4, 15102MiB)\nengine/trainer: task=detect, mode=train, model=yolov8s.pt, data=/content/Raccoon-38/data.yaml, epochs=10, patience=50, batch=16, imgsz=640, save=True, save_period=-1, cache=False, device=None, workers=8, project=None, name=train2, exist_ok=False, pretrained=True, optimizer=auto, verbose=True, seed=0, deterministic=True, single_cls=False, rect=False, cos_lr=False, close_mosaic=10, resume=False, amp=True, fraction=1.0, profile=False, freeze=None, overlap_mask=True, mask_ratio=4, dropout=0.0, val=True, split=val, save_json=False, save_hybrid=False, conf=None, iou=0.7, max_det=300, half=False, dnn=False, plots=True, source=None, vid_stride=1, stream_buffer=False, visualize=False, augment=False, agnostic_nms=False, classes=None, retina_masks=False, show=False, save_frames=False, save_txt=False, save_conf=False, save_crop=False, show_labels=True, show_conf=True, show_boxes=True, line_width=None, format=torchscript, keras=False, optimize=False, int8=False, dynamic=False, simplify=False, opset=None, workspace=4, nms=False, lr0=0.01, lrf=0.01, momentum=0.937, weight_decay=0.0005, warmup_epochs=3.0, warmup_momentum=0.8, warmup_bias_lr=0.1, box=7.5, cls=0.5, dfl=1.5, pose=12.0, kobj=1.0, label_smoothing=0.0, nbs=64, hsv_h=0.015, hsv_s=0.7, hsv_v=0.4, degrees=0.0, translate=0.1, scale=0.5, shear=0.0, perspective=0.0, flipud=0.0, fliplr=0.5, mosaic=1.0, mixup=0.0, copy_paste=0.0, cfg=None, tracker=botsort.yaml, save_dir=runs/detect/train2\nDownloading https://ultralytics.com/assets/Arial.ttf to '/root/.config/Ultralytics/Arial.ttf'...\n100% 755k/755k [00:00<00:00, 12.3MB/s]\n2023-11-29 15:19:03.571951: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\n2023-11-29 15:19:03.572023: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\n2023-11-29 15:19:03.572079: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\nOverriding model.yaml nc=80 with nc=1\n\n                   from  n    params  module                                       arguments                     \n  0                  -1  1       928  ultralytics.nn.modules.conv.Conv             [3, 32, 3, 2]                 \n  1                  -1  1     18560  ultralytics.nn.modules.conv.Conv             [32, 64, 3, 2]                \n  2                  -1  1     29056  ultralytics.nn.modules.block.C2f             [64, 64, 1, True]             \n  3                  -1  1     73984  ultralytics.nn.modules.conv.Conv             [64, 128, 3, 2]               \n  4                  -1  2    197632  ultralytics.nn.modules.block.C2f             [128, 128, 2, True]           \n  5                  -1  1    295424  ultralytics.nn.modules.conv.Conv             [128, 256, 3, 2]              \n  6                  -1  2    788480  ultralytics.nn.modules.block.C2f             [256, 256, 2, True]           \n  7                  -1  1   1180672  ultralytics.nn.modules.conv.Conv             [256, 512, 3, 2]              \n  8                  -1  1   1838080  ultralytics.nn.modules.block.C2f             [512, 512, 1, True]           \n  9                  -1  1    656896  ultralytics.nn.modules.block.SPPF            [512, 512, 5]                 \n 10                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          \n 11             [-1, 6]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           \n 12                  -1  1    591360  ultralytics.nn.modules.block.C2f             [768, 256, 1]                 \n 13                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          \n 14             [-1, 4]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           \n 15                  -1  1    148224  ultralytics.nn.modules.block.C2f             [384, 128, 1]                 \n 16                  -1  1    147712  ultralytics.nn.modules.conv.Conv             [128, 128, 3, 2]              \n 17            [-1, 12]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           \n 18                  -1  1    493056  ultralytics.nn.modules.block.C2f             [384, 256, 1]                 \n 19                  -1  1    590336  ultralytics.nn.modules.conv.Conv             [256, 256, 3, 2]              \n 20             [-1, 9]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           \n 21                  -1  1   1969152  ultralytics.nn.modules.block.C2f             [768, 512, 1]                 \n 22        [15, 18, 21]  1   2116435  ultralytics.nn.modules.head.Detect           [1, [128, 256, 512]]          \nModel summary: 225 layers, 11135987 parameters, 11135971 gradients, 28.6 GFLOPs\n\nTransferred 349/355 items from pretrained weights\nTensorBoard: Start with 'tensorboard --logdir runs/detect/train2', view at http://localhost:6006/\nFreezing layer 'model.22.dfl.conv.weight'\nAMP: running Automatic Mixed Precision (AMP) checks with YOLOv8n...\nAMP: checks passed ✅\ntrain: Scanning /content/Raccoon-38/train/labels... 150 images, 0 backgrounds, 0 corrupt: 100% 150/150 [00:00<00:00, 1576.78it/s]\ntrain: New cache created: /content/Raccoon-38/train/labels.cache\nalbumentations: Blur(p=0.01, blur_limit=(3, 7)), MedianBlur(p=0.01, blur_limit=(3, 7)), ToGray(p=0.01), CLAHE(p=0.01, clip_limit=(1, 4.0), tile_grid_size=(8, 8))\nval: Scanning /content/Raccoon-38/valid/labels... 29 images, 0 backgrounds, 0 corrupt: 100% 29/29 [00:00<00:00, 919.25it/s]\nval: New cache created: /content/Raccoon-38/valid/labels.cache\nPlotting labels to runs/detect/train2/labels.jpg... \noptimizer: 'optimizer=auto' found, ignoring 'lr0=0.01' and 'momentum=0.937' and determining best 'optimizer', 'lr0' and 'momentum' automatically... \noptimizer: AdamW(lr=0.002, momentum=0.9) with parameter groups 57 weight(decay=0.0), 64 weight(decay=0.0005), 63 bias(decay=0.0)\nImage sizes 640 train, 640 val\nUsing 2 dataloader workers\nLogging results to runs/detect/train2\nStarting training for 10 epochs...\nClosing dataloader mosaic\nalbumentations: Blur(p=0.01, blur_limit=(3, 7)), MedianBlur(p=0.01, blur_limit=(3, 7)), ToGray(p=0.01), CLAHE(p=0.01, clip_limit=(1, 4.0), tile_grid_size=(8, 8))\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       1/10      3.93G      1.783      7.084      2.412          6        640: 100% 10/10 [00:07<00:00,  1.31it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:01<00:00,  1.84s/it]\n                   all         29         29      0.666      0.655      0.717      0.279\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       2/10      3.99G      1.371      2.883      2.013          8        640: 100% 10/10 [00:02<00:00,  3.42it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.12it/s]\n                   all         29         29      0.603      0.828      0.721      0.277\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       3/10      4.01G      1.178      1.829      1.895          6        640: 100% 10/10 [00:02<00:00,  3.72it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.28it/s]\n                   all         29         29      0.813      0.759      0.807       0.39\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       4/10      4.01G       1.26      1.564      1.923          6        640: 100% 10/10 [00:03<00:00,  2.74it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  1.17it/s]\n                   all         29         29      0.744      0.703      0.757      0.348\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       5/10         4G      1.155      1.257      1.845          7        640: 100% 10/10 [00:02<00:00,  3.72it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.27it/s]\n                   all         29         29      0.632      0.862      0.807      0.364\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       6/10      4.01G      1.269       1.26      1.864          7        640: 100% 10/10 [00:02<00:00,  3.79it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.39it/s]\n                   all         29         29      0.893      0.862      0.928      0.386\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       7/10         4G      1.111       1.15      1.714          6        640: 100% 10/10 [00:03<00:00,  3.06it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  1.12it/s]\n                   all         29         29      0.878      0.828      0.882      0.391\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       8/10      4.01G      1.183      1.044      1.792          6        640: 100% 10/10 [00:02<00:00,  3.58it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.09it/s]\n                   all         29         29      0.848      0.966      0.955      0.491\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n       9/10         4G       1.08      1.052      1.692          6        640: 100% 10/10 [00:02<00:00,  3.78it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.24it/s]\n                   all         29         29      0.917      0.966      0.958      0.545\n\n      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size\n      10/10         4G      0.962     0.8895      1.587          6        640: 100% 10/10 [00:02<00:00,  3.40it/s]\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  1.23it/s]\n                   all         29         29      0.893       0.86      0.933      0.555\n\n10 epochs completed in 0.016 hours.\nOptimizer stripped from runs/detect/train2/weights/last.pt, 22.5MB\nOptimizer stripped from runs/detect/train2/weights/best.pt, 22.5MB\n\nValidating runs/detect/train2/weights/best.pt...\nUltralytics YOLOv8.0.220 🚀 Python-3.10.12 torch-2.1.0+cu118 CUDA:0 (Tesla T4, 15102MiB)\nModel summary (fused): 168 layers, 11125971 parameters, 0 gradients, 28.4 GFLOPs\n                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 1/1 [00:00<00:00,  2.54it/s]\n                   all         29         29      0.893       0.86      0.933      0.555\nSpeed: 0.2ms preprocess, 6.0ms inference, 0.0ms loss, 1.8ms postprocess per image\nResults saved to runs/detect/train2\n💡 Learn more at https://docs.ultralytics.com/modes/train"
-  },
-  {
-    "objectID": "files/2023-11-20-yolo/yolo.html#section",
-    "href": "files/2023-11-20-yolo/yolo.html#section",
-    "title": "Computer Image Classification",
-    "section": "",
-    "text": "Venn Diagram of AI and Deep Learning"
-  },
-  {
     "objectID": "pages/2023-12-20/Winter_Holiday_Agricultural_Analysis.html",
     "href": "pages/2023-12-20/Winter_Holiday_Agricultural_Analysis.html",
     "title": "Winter Wonderland of Data: Agricultural Analysis",
@@ -434,13 +532,6 @@
     "text": "Plot\n\n# Creating a scatter plot with a regression line\nggplot(data, aes(x = Fertilizer_Amount, y = Crop_Yield)) +\n  geom_point(aes(color = Fertilizer_Amount)) +  # Colored points by fertilizer amount\n  geom_smooth(method = \"lm\", se = FALSE) +      # Linear model line without standard error\n  scale_color_gradient(low = \"red\", high = \"darkgreen\") + # Red to green color ramp\n  labs(title = \"Effect of Fertilizer on Crop Yield\",\n       x = \"Fertilizer Amount (kg)\",\n       y = \"Crop Yield (quintals)\") +\n  theme_minimal()\n\n`geom_smooth()` using formula = 'y ~ x'"
   },
   {
-    "objectID": "schedule.html#meeting-topics-1",
-    "href": "schedule.html#meeting-topics-1",
-    "title": "Schedule",
-    "section": "Meeting topics",
-    "text": "Meeting topics\n  2024-01-17 (Meeting #136) Resume HARUG! for spring term: R Stats Bootcamp (Ed) ::: slides ::: Bootcamp 01 link\n  2023-12-20 (Meeting #135) Holidays data viz activity (Ed H) ::: slides ::: files\n  2023-12-13 (Meeting #134) Beginning R and stats: what training do you want and need? (group discussion led by Ed H) ::: slides ::: R Stats Bootcamp ::: Harper MSc teaching schedule\n  2023-12-06 (Meeting #133) Example experimental design and power (Ronald M) ::: slide files ::: Ed pwr\n  2023-11-29 (Meeting #132) Train a custom Yolo model in Python (Ed H) ::: slide files ::: ed owl pic ::: slide files ::: Python notebook html ::: link to Python notebook repo\n  2023-11-22 (Meeting #131) Basics of effect size and power for experimental design in R (Ed H + Charlotte C) ::: Power ppt ::: Cow experiment ppt ::: f^2 Effect size reading Selya 2012\n  2023-11-15 (meeting #130) Cattle welfare data science project (Tom C) ::: stressed cows\n  2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H) ::: slides ::: data ::: colab notebook ::: Python Resources\n  2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B) ::: slides\n  2023-07-19 (meeting #127) chatGPT + code interpreter for data analysis (Joe R)\n  2023-07-12 (meeting #126) Docker web app demo (Matt B) ::: instructions ::: slides\n  2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H) ::: R proj files zip ::: slides\n  2023-06-14 (meeting #124) Docker-related session? (Matt B)\n  2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)\n  2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)\n  2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H) chatGPT experiments slides ::: chatGPT prompts ::: milkers project zip\n  2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H) chatGPT slides ::: chatGPT prompts\n  2023-05-03 (meeting #119) My_Tidy_Data %<% Web scraping data with R and tools like readLines() and grep() (Ed H) Manual scrape project files ::: “Autoscrape” example script\n  2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-19 (meeting #117) Plant Spatial Statistics Ch 03 Part 2 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-04-12 (meeting #116) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-05 (meeting #115) Part 1: Animal pose and behaviour detection in Deeplabcut (George W) ::: DeepLabCut website ::: George W ppt\n  2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 Part 1 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-03-08 (meeting #113) Bootcamp launch S02E02 (George W.) ::: Bootcamp 2\n 2023-02-15 (meeting #112) Natural Language Processing session #02 (Ed) ::: NLP2 slides ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb\n 2023-02-01 (meeting #111) Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch02 ::: html slides ch 02 ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch02 code\n  2023-01-25 (meeting #110) Bootcamp launch S02E01 (Ed + HARUG!) ::: Bootcamp1 ::: slides overview ::: slides Setup 01\n  2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed) ::: NLP1 slides ::: NLP1 notbook\n  2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch01 ::: html slides ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch01 code\n  2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: pptx\n 2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed) ::: pptx ::: cheatsheet 1 ::: cheatsheet 2 ::: cheatsheet 3 ::: cheatsheet 4\n  2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: talk pptx ::: R script ::: Raw data xlsx ::: Count data xlsx\n  2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)\n  2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed) ::: pptx ::: R script ::: {mlr3} book site\n  2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed) ::: Quarto Github webpage tutorial\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt) ::: pptx ::: weevilwatch github repo\n 2022-09-21 (meeting #98) New Quarto website (Ed) ::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
-  },
-  {
     "objectID": "pages/2024-01-24-RSB02/RSB02.html#r-stats-bootcamp-02",
     "href": "pages/2024-01-24-RSB02/RSB02.html#r-stats-bootcamp-02",
     "title": "R Stats Bootcamp 02",
@@ -453,90 +544,6 @@
     "title": "R Stats Bootcamp 02",
     "section": "Objectives",
     "text": "Objectives\n\nExample script, comments, help, pseudocode\nMath operators\nLogical Boolean operators\nRegarding “base R” and the Tidyverse\nPractice exercises"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#how-the-r-stats-bootcamp-works",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#how-the-r-stats-bootcamp-works",
-    "title": "R Stats Bootcamp 02",
-    "section": "How the R Stats Bootcamp works",
-    "text": "How the R Stats Bootcamp works\n\nPractical, open instructional materials for learning R\nSimple statistics in R\nReproducible research and collaboration tools\nSelf-guided learning and self-assessment\nFriendly community"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#r-motivation-why-r",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#r-motivation-why-r",
-    "title": "R Stats Bootcamp 02",
-    "section": "R motivation: why R?",
-    "text": "R motivation: why R?\n\nR is objectively the best statistical software available\nR is designed for people with no programming experience to perform sophisticated statistical analysis with minimum effort\nIn wide use at universities, companies: job demand\nVery large community of users\nFree and open source\nWorks well on all computers and OSes, old and new\nR is easy to learn (as you will see)"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#option-for-using-r",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#option-for-using-r",
-    "title": "R Stats Bootcamp 02",
-    "section": "Option for using R",
-    "text": "Option for using R\n\n\nInstall R and R Studio locally\n\nHelp for Windows\nHelp for Macs\n\n\nOther options\n\nPosit Cloud\n\n(limited free account)\n\nGoogle colab"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#rstudio-components-and-setup",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#rstudio-components-and-setup",
-    "title": "R Stats Bootcamp 02",
-    "section": "RStudio components and setup",
-    "text": "RStudio components and setup"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#workflow-for-r-scripts",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#workflow-for-r-scripts",
-    "title": "R Stats Bootcamp 02",
-    "section": "Workflow for R scripts",
-    "text": "Workflow for R scripts\n\nAn R script is a plain text file\nEnds in “dot R” (.R) by default\nInterface between your commands and R software\nDocuments your analysis\nInterface between your commands and R software\nOrganized and logical, has meaning for other people"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#workflow-for-r-scripts-1",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#workflow-for-r-scripts-1",
-    "title": "R Stats Bootcamp 02",
-    "section": "Workflow for R scripts",
-    "text": "Workflow for R scripts\n\n\n\n\nYour R script should be good enough to show a friend (like a supervisor, or even your future self), a friend you respect."
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#r-script-organisation",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#r-script-organisation",
-    "title": "R Stats Bootcamp 02",
-    "section": "R script organisation",
-    "text": "R script organisation"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#r-script-organisation-1",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#r-script-organisation-1",
-    "title": "R Stats Bootcamp 02",
-    "section": "R script organisation",
-    "text": "R script organisation"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#r-script-organisation-2",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#r-script-organisation-2",
-    "title": "R Stats Bootcamp 02",
-    "section": "R script organisation",
-    "text": "R script organisation\n# 01 First line of a CODE CHUNK ####\n\nCode chunks start with a hash sign #\nTitle descriptive of contents\nEnd with (at least) four hash signs ####\nNumbered titles optional\nVisual + navigation function"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#r-script-comments",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#r-script-comments",
-    "title": "R Stats Bootcamp 02",
-    "section": "R script comments",
-    "text": "R script comments\n# Vector of numbers << a comment\nmy_variable <- c(2,5,3,6,3,4,7)\n\n# Calculate the mean << another comment\nmean(my_variable)\nComments explain your code"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#r-script-submitting-commands",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#r-script-submitting-commands",
-    "title": "R Stats Bootcamp 02",
-    "section": "R script “submitting” commands",
-    "text": "R script “submitting” commands\n\nRun whole line of code your cursor rests on Ctrl+Enter (Cmd+Return in Macs)\nRun code you have selected Ctrl+Enter (Cmd+Return in Macs)\nUse the “Run” menu above the Script window\nUse the Code > Run dropdown menu"
-  },
-  {
-    "objectID": "pages/2024-01-24-RSB02/RSB02.html#practice-exercises",
-    "href": "pages/2024-01-24-RSB02/RSB02.html#practice-exercises",
-    "title": "R Stats Bootcamp 02",
-    "section": "Practice Exercises",
-    "text": "Practice Exercises"
   },
   {
     "objectID": "pages/2024-01-24-RSB02/RSB02.html#example-script-comments-help-pseudocode",
@@ -628,6 +635,335 @@
     "title": "R Stats Bootcamp 02",
     "section": "Regarding “base R” and Tidyverse",
     "text": "Regarding “base R” and Tidyverse\n\n\n\"R is rapidly devolving into two mutually unintelligible dialects...\"\n\n\"I, as a seasoned R programmer, cannot read Tidy code...\"\n\nBase R versus Tidyverse (Norm Matloff)\n\n\nEach has merits\nExistence of both makes Googling help harder"
+  },
+  {
+    "objectID": "pages/2024-01-24-RSB02/RSB02.html#practice-exercises",
+    "href": "pages/2024-01-24-RSB02/RSB02.html#practice-exercises",
+    "title": "R Stats Bootcamp 02",
+    "section": "Practice Exercises",
+    "text": "Practice Exercises"
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#r-stats-bootcamp-02",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#r-stats-bootcamp-02",
+    "title": "R Stats Bootcamp 03",
+    "section": "R Stats Bootcamp 02",
+    "text": "R Stats Bootcamp 02\n\n\n\n\nR Stats Bootcamp 03\n\nR Functions\n(R functions are tools in a toolbox)\n\n(R packages are themselves a toolbox)"
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#objectives",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#objectives",
+    "title": "R Stats Bootcamp 03",
+    "section": "Objectives",
+    "text": "Objectives\n\nFunction tour\nUsing functions and getting help\nR packages\nFinding, downloading and using packages\nPractice exercises"
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#function-tour",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#function-tour",
+    "title": "R Stats Bootcamp 03",
+    "section": "Function tour",
+    "text": "Function tour\nfunction_name()\n\nNote:\n\nfunction_name is the name (usually contextual meaning)\nEVERY function has brackets ()"
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#using-r-functions",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#using-r-functions",
+    "title": "R Stats Bootcamp 03",
+    "section": "Using R functions",
+    "text": "Using R functions\nfunction_name(argument_1 = value_1, \n              argument_2 = value_2, \n              ...)\n\n\nArguments are like “settings” for functions\nEach argument has a unique name\nArg values assigned by “=” and separated by “,”\n“...” means there are optional args (ignore for now)"
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#function-names",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#function-names",
+    "title": "R Stats Bootcamp 03",
+    "section": "Function names",
+    "text": "Function names\n`mean()` # Calculates the arithmetic mean\n\n`log()` # Calculates the log\n\n`sd()` # Calculates the standard deviation\n\n`plot()` # Draws plots\n\n`help()` # Used to access help pages\n…you get the idea"
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#using-functions-and-help",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#using-functions-and-help",
+    "title": "R Stats Bootcamp 03",
+    "section": "Using functions and help",
+    "text": "Using functions and help\nDemo\n## A workflow for using functions ####\nhelp(c) # We use this a lot - it \"combines\" numbers\nc(2, 6, 7, 8.1, 5, 6) \n\n..."
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#r-packages",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#r-packages",
+    "title": "R Stats Bootcamp 03",
+    "section": "R packages",
+    "text": "R packages\n\nExtremely useful, mandatory\nLots of them (>20,000)\nCommunity made\nMust discover them\nMust learn to use them, their functions"
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#installing-packages",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#installing-packages",
+    "title": "R Stats Bootcamp 03",
+    "section": "Installing packages",
+    "text": "Installing packages\nDemo\n# Step 1: install a package\n\nhelp(install.packages) # just have a look\ninstall.packages(pkgs = \"package_name\")"
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#using-rstudio-gui",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#using-rstudio-gui",
+    "title": "R Stats Bootcamp 03",
+    "section": "Using RStudio GUI",
+    "text": "Using RStudio GUI"
+  },
+  {
+    "objectID": "pages/2024-01-31-RSB03/RSB03.html#practice-exercises",
+    "href": "pages/2024-01-31-RSB03/RSB03.html#practice-exercises",
+    "title": "R Stats Bootcamp 03",
+    "section": "Practice Exercises",
+    "text": "Practice Exercises"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#r-stats-bootcamp-02",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#r-stats-bootcamp-02",
+    "title": "R Stats Bootcamp 03",
+    "section": "R Stats Bootcamp 02",
+    "text": "R Stats Bootcamp 02\n\n\n\n\nR Stats Bootcamp 04\n\nR Functions\nImagine your computer's memory is like space and you are alone floating in it.  Anything you you can see floating with you is a Data Object in R-Space."
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#r-stats-bootcamp-02-1",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#r-stats-bootcamp-02-1",
+    "title": "R Stats Bootcamp 03",
+    "section": "R Stats Bootcamp 02",
+    "text": "R Stats Bootcamp 02\n \n(In R-Space, no one can hear you scream.)"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#objectives",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#objectives",
+    "title": "R Stats Bootcamp 03",
+    "section": "Objectives",
+    "text": "Objectives\n\nBasic data types in R\nData with factors\nclass() and converting variables\nVector and Matrix fun\nPractice exercises"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#basic-data-types-in-r",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#basic-data-types-in-r",
+    "title": "R Stats Bootcamp 03",
+    "section": "Basic data types in R",
+    "text": "Basic data types in R\n\nConcept of “Data Objects”\nData you can use is in the Global Environment\nData Type refers to the kind of data (important for computers)\nData Type is determined automatically in R (by the passive-aggressive Butler)\nYou often will need and want to tweak data type"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#basic-data-types-in-r-1",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#basic-data-types-in-r-1",
+    "title": "R Stats Bootcamp 03",
+    "section": "Basic data types in R",
+    "text": "Basic data types in R\n# numeric vector\nvariable_1 <- c(4,5,7,6,5,4,5,6,7,10,3,4,5,6) \n\n# logical vector\nvariable_2 <- c(TRUE, TRUE, TRUE, FALSE)"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#basic-data-types-in-r-2",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#basic-data-types-in-r-2",
+    "title": "R Stats Bootcamp 03",
+    "section": "Basic data types in R",
+    "text": "Basic data types in R\nThere are some rules for naming data objects\n\nCan contain letters, numbers, some symbolic characters\nBegin with a letter, Does not contain spaces\nSome things are forbidden, @, %, #, etc.\nShould be human-readable, consistent, and not too long"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#basic-data-types-in-r-3",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#basic-data-types-in-r-3",
+    "title": "R Stats Bootcamp 03",
+    "section": "Basic data types in R",
+    "text": "Basic data types in R\nx1 <- 5  \n\nx2 <- \"It was a dark and stormy night\" \n\n# hard to read\nmy_variable_9283467 <- 1"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#data-with-factors",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#data-with-factors",
+    "title": "R Stats Bootcamp 03",
+    "section": "Data with factors",
+    "text": "Data with factors\n\n\nLet’s you want to analyse categorical data.\nSometimes this is called a “factor”."
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#data-with-factors-1",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#data-with-factors-1",
+    "title": "R Stats Bootcamp 03",
+    "section": "Data with factors",
+    "text": "Data with factors\nTwo types of factors\n\nNon-ordered factors : the levels are the names of the categories cows = Martha, Ruth, Edith\nOrdered factors: have a specific order dose = Control < Half < Full"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#class-and-converting-variables",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#class-and-converting-variables",
+    "title": "R Stats Bootcamp 03",
+    "section": "class() and converting variables",
+    "text": "class() and converting variables\n\n# non-ordered factor\nvariety <- c(\"short\", \"short\", \"short\",\n             \"early\", \"early\", \"early\",\n             \"hybrid\", \"hybrid\", \"hybrid\")"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#vector-and-matrix-fun",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#vector-and-matrix-fun",
+    "title": "R Stats Bootcamp 03",
+    "section": "Vector and Matrix fun",
+    "text": "Vector and Matrix fun\nWays of organizing data\n\n\nVector - One dimension from 1 to i, my_vec[i]\nMatrix - Two dimensions rows, columns, my_mat[i, j]\nArray - Three (or more) dimensions, my_array[i, j, k]"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#vector-and-matrix-fun-1",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#vector-and-matrix-fun-1",
+    "title": "R Stats Bootcamp 03",
+    "section": "Vector and Matrix fun",
+    "text": "Vector and Matrix fun\n# Vectors\n\nmyvec1 <- c(1,2,3,4,5) \nmyvec1\nclass(myvec1) \n\nmyvec2 <- as.character(myvec1)"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#vector-and-matrix-fun-2",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#vector-and-matrix-fun-2",
+    "title": "R Stats Bootcamp 03",
+    "section": "Vector and Matrix fun",
+    "text": "Vector and Matrix fun\nvec1 <- 1:16 \nvec1 \n\nmat1 <- matrix(data = vec1, \n               ncol = 4, \n               byrow = FALSE)"
+  },
+  {
+    "objectID": "pages/2024-02-07-RSB04/RSB04.html#practice-exercises",
+    "href": "pages/2024-02-07-RSB04/RSB04.html#practice-exercises",
+    "title": "R Stats Bootcamp 03",
+    "section": "Practice Exercises",
+    "text": "Practice Exercises"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#r-stats-bootcamp",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#r-stats-bootcamp",
+    "title": "R Stats Bootcamp 05",
+    "section": "R Stats Bootcamp",
+    "text": "R Stats Bootcamp\n\n\n\n\nR Stats Bootcamp 05\n\nR Data Frames\nThe first step in using R for data analysis is getting your data into R. The first step for getting your data into R is making your data tidy."
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#objectives",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#objectives",
+    "title": "R Stats Bootcamp 05",
+    "section": "Objectives",
+    "text": "Objectives\n\nCommon data file types\nExcel, data setup, and the Data Dictionary\nGetting data into R\nManipulating variables in the Data Frame\nPractice exercises"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#tidy-data-concept",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#tidy-data-concept",
+    "title": "R Stats Bootcamp 05",
+    "section": "Tidy data concept",
+    "text": "Tidy data concept\n\nArchives data in accessible format\nData “transparent” to others\n“Tidy Data” credit: Hadley Wickham (lead statistician at Posit)\nWickham 2014"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#tidy-data-concept-1",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#tidy-data-concept-1",
+    "title": "R Stats Bootcamp 05",
+    "section": "Tidy data concept",
+    "text": "Tidy data concept"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#common-data-file-types",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#common-data-file-types",
+    "title": "R Stats Bootcamp 05",
+    "section": "Common data file types",
+    "text": "Common data file types\n\n(c)sv comma separated values + others\nExcel\nAvoid (!) proprietary formats\nData Dictionary"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#untidy-data",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#untidy-data",
+    "title": "R Stats Bootcamp 05",
+    "section": "Untidy data",
+    "text": "Untidy data"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#tidy-data",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#tidy-data",
+    "title": "R Stats Bootcamp 05",
+    "section": "Tidy data",
+    "text": "Tidy data"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#tidy-dictionary",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#tidy-dictionary",
+    "title": "R Stats Bootcamp 05",
+    "section": "Tidy dictionary",
+    "text": "Tidy dictionary"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#tidy-csv",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#tidy-csv",
+    "title": "R Stats Bootcamp 05",
+    "section": "Tidy csv",
+    "text": "Tidy csv"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#getting-data-into-r",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#getting-data-into-r",
+    "title": "R Stats Bootcamp 05",
+    "section": "Getting data into R",
+    "text": "Getting data into R\nChoices\n\nfrom File > Import Data\nreadxl::read_excel()\nopenxlsx::read.xlsx()\n\n\nDemonstrate"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#manipulating-variables-in-the-data-frame",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#manipulating-variables-in-the-data-frame",
+    "title": "R Stats Bootcamp 05",
+    "section": "Manipulating variables in the Data Frame",
+    "text": "Manipulating variables in the Data Frame\n\nclass()\nnames()\nstr()\nindexes [ , ]\nattach()\n\n\nDemonstrate"
+  },
+  {
+    "objectID": "pages/2024-02-14-RSB05/RSB05.html#practice-exercises",
+    "href": "pages/2024-02-14-RSB05/RSB05.html#practice-exercises",
+    "title": "R Stats Bootcamp 05",
+    "section": "Practice Exercises",
+    "text": "Practice Exercises"
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#r-stats-bootcamp",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#r-stats-bootcamp",
+    "title": "R Stats Bootcamp 06",
+    "section": "R Stats Bootcamp",
+    "text": "R Stats Bootcamp\n\n\n\n\nR Stats Bootcamp 06\n\nData subsetting\nWith a good set of moves for manipulating data, you can overpower any dataset no matter how powerful they are. Then, you have strong data Sumo."
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#objectives",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#objectives",
+    "title": "R Stats Bootcamp 06",
+    "section": "Objectives",
+    "text": "Objectives\n-Indexing concept\n-Using which() and subsetting\n-Selection on data.frame objects\n-Using aggregate()"
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#indexing-concept",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#indexing-concept",
+    "title": "R Stats Bootcamp 06",
+    "section": "Indexing concept",
+    "text": "Indexing concept\nVectors, Matrices and arrays. Oh my!\nThink of houses on a street\nEach street has an address…"
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#indexing-concept-1",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#indexing-concept-1",
+    "title": "R Stats Bootcamp 06",
+    "section": "Indexing concept",
+    "text": "Indexing concept\nIndexing\nmy_vector <- c(11.3, 11.2, 10.4, 10.4, 8.7, 10.8, 10.5, 10.3, 9.7, 11.2)\n  \nmy_vector"
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#indexing-concept-2",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#indexing-concept-2",
+    "title": "R Stats Bootcamp 06",
+    "section": "Indexing concept",
+    "text": "Indexing concept\nVectors\nmy_vector        \nmy_vector[ ]     \nmy_vector[ 1:10]"
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#indexing-concept-3",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#indexing-concept-3",
+    "title": "R Stats Bootcamp 06",
+    "section": "Indexing concept",
+    "text": "Indexing concept\nMatrices\nmy_matrix <- matrix(data = c(2,3,4,5,6,6,6,6), nrow = 2, byrow = T)"
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#using-which-and-subsetting",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#using-which-and-subsetting",
+    "title": "R Stats Bootcamp 06",
+    "section": "Using which() and subsetting",
+    "text": "Using which() and subsetting\nA way to exploit indices\nwhich(vector_a > 5)"
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#selection-on-data.frame-objects",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#selection-on-data.frame-objects",
+    "title": "R Stats Bootcamp 06",
+    "section": "Selection on data.frame objects",
+    "text": "Selection on data.frame objects\nSlice your data\ndata(OrchardSprays)\nOrchardSprays$treatment == \"D\""
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#using-aggregate",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#using-aggregate",
+    "title": "R Stats Bootcamp 06",
+    "section": "Using aggregate()",
+    "text": "Using aggregate()\nVery useful to summarize your data\n# NB use of list() and naming it \"treatment\"\n\naggregate(x = OrchardSprays$decrease, by = list(treatment = OrchardSprays$treatment), FUN = mean)"
+  },
+  {
+    "objectID": "pages/2024-03-06-RSB06/RSB06.html#practice-exercises",
+    "href": "pages/2024-03-06-RSB06/RSB06.html#practice-exercises",
+    "title": "R Stats Bootcamp 06",
+    "section": "Practice Exercises",
+    "text": "Practice Exercises"
   },
   {
     "objectID": "pages/2024-03-13-RSB07/RSB07.html#r-stats-bootcamp",
@@ -735,10 +1071,157 @@
     "text": "Practice Exercises"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "(old website)\n\nHARUG! is the Harper Adams R User Group\nThis site is devoted to the R programming, Python, Statistics and Data Science community at Harper Adams University. We meet Wednesdays at 4pm UK time on Teams and via our Slack workspace anytime (please join with your full real name, e.g. “Florence Nightingale”).\n Slack workspace: Join us (kindly register with your real name, e.g. “Ronald Fisher”)\n Youtube channel\n\nResearch methods in statistics and AI applications\nBuild data analysis skills and capacity\nGroup problem solving, live coding\nTutorials and resource sharing\nCommunity\n\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris."
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#r-stats-bootcamp",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#r-stats-bootcamp",
+    "title": "R Stats Bootcamp 09",
+    "section": "R Stats Bootcamp",
+    "text": "R Stats Bootcamp\n\n\n\n\nR Stats Bootcamp 09\n\nThe data were formless like a cloud of tiny birds in the sky\nRelationships between numeric variables"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#objectives",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#objectives",
+    "title": "R Stats Bootcamp 09",
+    "section": "Objectives",
+    "text": "Objectives\n\nThe question of correlation\nData and Assumptions\nGraphing\nTests and Alternatives\nPractice exercises"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#the-question-of-correlation",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#the-question-of-correlation",
+    "title": "R Stats Bootcamp 09",
+    "section": "The question of correlation",
+    "text": "The question of correlation\n\n\n\nIs there a demonstrable association between two numeric variables?\nDo they “co-vary”?\nPositive vs. negative\nStrong vs. weak"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#off-to-r",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#off-to-r",
+    "title": "R Stats Bootcamp 09",
+    "section": "Off to R!",
+    "text": "Off to R!\n\nFLASH CHALLENGE!"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#data-and-assumptions",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#data-and-assumptions",
+    "title": "R Stats Bootcamp 09",
+    "section": "Data and Assumptions",
+    "text": "Data and Assumptions\nPearson’s correlation\n\nImportant assumptions\n\nLinear relationship between variables\nNumeric values are Gaussian\n\nTechnically:\n\nthe co-variance of two variables divided by the product of the standard deviations"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-1",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-1",
+    "title": "R Stats Bootcamp 09",
+    "section": "Off to R!",
+    "text": "Off to R!\n\nCalculate a correlation coefficient"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#graphing",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#graphing",
+    "title": "R Stats Bootcamp 09",
+    "section": "Graphing",
+    "text": "Graphing\n\n\n\nUseful tool to assess correlations visually\nLots of variables"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-2",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-2",
+    "title": "R Stats Bootcamp 09",
+    "section": "Off to R!",
+    "text": "Off to R!\n\nCorrelation matrices"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#tests-and-alternatives",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#tests-and-alternatives",
+    "title": "R Stats Bootcamp 09",
+    "section": "Tests and alternatives",
+    "text": "Tests and alternatives\nTesting correlation coefficients\n\nNull hypothesis testing – cor.test()\n\nPearson’s assumption\n\nLinear relationship\nBivariate Gaussian distribution\nHomoscedasticity – similar variance\nIndependent observations\nNo outliers"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#what-if-my-data-doesnt-meet-the-assumptions",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#what-if-my-data-doesnt-meet-the-assumptions",
+    "title": "R Stats Bootcamp 09",
+    "section": "What if my data doesn’t meet the assumptions?",
+    "text": "What if my data doesn’t meet the assumptions?\nAlternative options available:\n\nE.g., Spearman’s rank correlation, Kendall-tau etc."
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-3",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-3",
+    "title": "R Stats Bootcamp 09",
+    "section": "Off to R!",
+    "text": "Off to R!\n\nStatistical test of correlations - a process"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting",
+    "title": "R Stats Bootcamp 09",
+    "section": "Results and reporting",
+    "text": "Results and reporting\n\nThink about your audience"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting---for-yourself",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting---for-yourself",
+    "title": "R Stats Bootcamp 09",
+    "section": "Results and reporting - for yourself",
+    "text": "Results and reporting - for yourself\n\nComment on R script\n\nReproducible format\nThink tidy and organised\n\nCan also be beneficial for colleagues and collaborators"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting---for-others",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting---for-others",
+    "title": "R Stats Bootcamp 09",
+    "section": "Results and reporting - for others",
+    "text": "Results and reporting - for others"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting---for-others-1",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting---for-others-1",
+    "title": "R Stats Bootcamp 09",
+    "section": "Results and reporting - for others",
+    "text": "Results and reporting - for others\n\n\n\n\n“You should NEVER PRESENT RAW COPIED AND PASTED STATISTICAL RESULTS (O.M.G!)”\n\n– Ed Harris, (always)"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting---for-others-2",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#results-and-reporting---for-others-2",
+    "title": "R Stats Bootcamp 09",
+    "section": "Results and reporting - for others",
+    "text": "Results and reporting - for others\n\nFormat output and figures for ease of consumption\nPotential formatting options:\nRMarkdown - several output options\nWord processing document (how most people do it)"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#statistical-summary",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#statistical-summary",
+    "title": "R Stats Bootcamp 09",
+    "section": "Statistical summary",
+    "text": "Statistical summary\nNull hypothesis statistical tests - Test statistic (Varies between tests)\n\nSample size or degrees of freedom\nThe p-value\n\n\nE.g., We found a significant correlation between petal width and length (Pearson’s r = 0.96, df = 148, P < 0.0001)."
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#statistical-summary-1",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#statistical-summary-1",
+    "title": "R Stats Bootcamp 09",
+    "section": "Statistical summary",
+    "text": "Statistical summary\nE.g., We found a significant correlation between petal width and length (Pearson’s r = 0.96, df = 148, P < 0.0001).\n\nNB:\n\nRounding of decimal accuracy\n\nUsually 2 - but be consistent!\n\nP-value format\n\nIf smaller than 0.0001, then P< 0.0001, don’t use scientific notation (no one likes that… )"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-4",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-4",
+    "title": "R Stats Bootcamp 09",
+    "section": "Off to R!",
+    "text": "Off to R!\n\nValidate - histograms!\nFLASH CHALLENGE!\n\nWrite a script following the steps to question, graph, test and validate for each iris species separately."
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#correlation-alternatives-to-pearsons",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#correlation-alternatives-to-pearsons",
+    "title": "R Stats Bootcamp 09",
+    "section": "Correlation alternatives to Pearson’s",
+    "text": "Correlation alternatives to Pearson’s\nSpearman’s rank correlation\n\nData are ranked or otherwise ordered\nData rows are independent"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-5",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#off-to-r-5",
+    "title": "R Stats Bootcamp 09",
+    "section": "Off to R!",
+    "text": "Off to R!\n\nSpearman’s rank correlation example"
+  },
+  {
+    "objectID": "pages/2024-03-27-RSB09/RSB09.html#practice-exercises",
+    "href": "pages/2024-03-27-RSB09/RSB09.html#practice-exercises",
+    "title": "R Stats Bootcamp 09",
+    "section": "Practice Exercises",
+    "text": "Practice Exercises"
   }
 ]

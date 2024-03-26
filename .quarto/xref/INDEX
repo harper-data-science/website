@@ -57,23 +57,28 @@
     "Winter_Holiday_Agricultural_Analysis.html": "b20d3b1c"
   },
   "files/2024-01-17-RSB/RSB01.qmd": {
-    "RSB01.pptx": "10301c3e"
+    "RSB01.pptx": "10301c3e",
+    "RSB01.html": "bd5ad888"
   },
   "pages/2024-01-24-RSB02/RSB02.qmd": {
     "RSB02.pptx": "74e46299",
     "RSB02.html": "dee7cea6"
   },
   "pages/2024-01-31-RSB03/RSB03.qmd": {
-    "RSB03.pptx": "f9ac2c5e"
+    "RSB03.pptx": "f9ac2c5e",
+    "RSB03.html": "6cb5aee6"
   },
   "pages/2024-02-07-RSB04/RSB04.qmd": {
-    "RSB04.pptx": "172f6d40"
+    "RSB04.pptx": "172f6d40",
+    "RSB04.html": "db363a16"
   },
   "pages/2024-02-14-RSB05/RSB05.qmd": {
-    "RSB05.pptx": "7890fb36"
+    "RSB05.pptx": "7890fb36",
+    "RSB05.html": "c9cc8d5e"
   },
   "pages/2024-03-06-RSB06/RSB06.qmd": {
-    "RSB06.pptx": "021f54ca"
+    "RSB06.pptx": "021f54ca",
+    "RSB06.html": "fed8211b"
   },
   "pages/2024-03-13-RSB07/RSB07.qmd": {
     "RSB07.pptx": "a8c052f6",
@@ -81,5 +86,8 @@
   },
   "about.qmd": {
     "about.html": "3cfd020d"
+  },
+  "pages/2024-03-27-RSB09/RSB09.qmd": {
+    "RSB09.html": "d3070c12"
   }
 }
