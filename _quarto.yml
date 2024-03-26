@@ -12,7 +12,7 @@ website:
     contents: 
       - section: "Information"
         contents:
-          - schedule.qmd
+          - index.qmd
           - about.qmd
 #      - section: "HARUG!"
 #        contents:
