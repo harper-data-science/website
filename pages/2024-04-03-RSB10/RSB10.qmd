@@ -1,0 +1,192 @@
+---
+title: "R Stats Bootcamp 10"
+subtitle: "Regression"
+format: pptx
+reference-doc: template.pptx
+author: Ed Harris/Megan Lewis
+date: 2023-04/03
+date-format: iso
+center: true
+---
+
+##  {background-image="pics/Bootcamp_2024.png"}
+
+## R Stats Bootcamp {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/bird-line.png)
+:::
+
+::: {.column width="50%"}
+[R Stats Bootcamp 10](https://rstats-bootcamp.github.io/website/10-regression.html)
+
+<br>
+
+`We should be suspicious if the data points all fall exactly on the straight line of prediction`
+
+<br>
+:::
+:::
+
+## Regression to the mean
+
+"The general rule is straightforward but has surprising consequences: whenever the correlation between two scores is imperfect, there will be regression to the mean."
+
+-- Francis Galton
+
+## Objectives
+
+-   The question of simple regression
+
+-   Data and Assumptions
+
+-   Graphing
+
+-   Tests and Alternatives
+
+-   Practice exercises
+
+## The question of simple regression
+
+Relating the value of a numeric variable to that of another variable
+
+-   Predict the value of the variable
+
+-   Quantify variation
+
+-   Quantify degree of change
+
+-   Null hypothesis significance testing
+
+## A few definitions
+
+Classic linear regression <br>
+
+$$
+y_i = \alpha + \beta x_i + \epsilon_i
+$$
+
+<br>
+
+-   Regression parameters: $\alpha$ (alpha, intercept) and $\beta$ (beta, slope)
+
+-   Dependent ($y$) and predictor ($x$) variables
+
+-   Residual error $\epsilon$ (epsilon)
+
+## A few definitions continued...
+
+-   Assumption of residual error <br>
+
+    $$\epsilon_i \;Gaussian(0, \sigma ^2)$$
+
+    -   Gaussian with mean of 0 and variance estimated with our model
+
+    <br>
+
+-   Sum of squares (SS) error for the residuals <br>
+
+    $$SS_{res} = \sum \,^n_i \:(y_i - (\alpha + \beta x_i))^2 $$
+
+    <br>
+
+    -   $\bar{x}$ or $\bar{y}$ is the **sample mean**
+
+    -   The **variance of residuals** is the \$ \frac{SS_{res}}{n-2}\$ where n = sample size.
+
+## A few definitions continued...
+
+-   Estimate of the slope <br>
+
+    $$\hat{\beta} = \frac{\sum(x_i - \bar{x})(y_i - \bar{y})}{\sum(x_i - \bar{x})^2} $$ <br> <!-- -->
+
+-   Estimate of the intercept <br>
+
+    $$\hat{\alpha} = \bar{y} - \hat{\beta}\bar{x}$$
+
+## Data and Assumptions
+
+-   Linear relationship
+
+-   Numeric continuous data for y
+
+    -   *Can be numeric ordinal for predictor variable*
+
+-   Independent observations
+
+-   Gaussian distribution of residuals
+
+    -   *Not the same as assuming the raw data is Gaussian!*
+
+-   Homoscedasticity
+
+## Off to R!
+
+-   Simple regression model with the Kaggle fish market dataset
+
+## Graphing
+
+::: columns
+::: {.column width="50%"}
+-   Scatterplot
+
+    -   Independent (predictor) variable on x-axis
+
+    -   Dependent variable on y-axis
+
+-   Regression equation to estimate **line of best fit** for sample data
+
+-   Prediction
+:::
+
+::: {.column width="50%"}
+![](pics/regression.png)
+:::
+:::
+
+## Off to R!
+
+-   Add a regression line to a plot!
+
+## Testing the assumptions
+
+-   Part of exploratory data anlysis (EDA)
+
+-   Validating the statistical model
+
+-   *Subjective and subtle*
+
+-   *Can be difficult at first*
+
+## Off to R!
+
+-   Visualize the residuals
+-   Check the Gaussian assumption
+-   A closer look at the residual distribution
+-   Shapiro-Wilk test of normality
+-   Diagnostic plots and heteroscedasticity
+
+## Reporting results
+
+-   E.g., "We found a significant linear relationship for \[independent (predictor) variable\] predicting \[dependent variable\] in \[study system\] (regression: R-squared = 0.97, df = 1, 54, P\<0.0001).
+-   Appropriate graph
+-   Relevant in context of other results
+
+## Alternatives to regression
+
+-   Large number
+
+-   Quite advanced & beyond scope of the bootcamp
+
+-   Reasonable solutions:
+
+    -   Data transformation
+
+    -   Spearman's rank correlation
+
+    -   Non-parametric regression - e.g., Kendall-Theil-Sen
+
+## Practice Exercises
+
+<center>![](pics/laptop_dog.png)</center>
