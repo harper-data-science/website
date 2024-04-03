@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  favicon: "img/hds-pad.png"
+  favicon: "img/HDS.png"
   title: "Harper Data Science"
   sidebar:
-    logo: "img/hds-pad.png"
+    logo: "img/HDS.png"
     style: "docked"
     search: true
     contents: 
