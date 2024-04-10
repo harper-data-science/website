@@ -10,15 +10,19 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-04-10 (Meeting #146) R Stats Bootcamp Session 11 (Megan, Ed)
-
 2024-04-17 (Meeting #147) R Stats Bootcamp Session 12 (Megan, Ed)
 
-2024-04-24 (Meeting #148) TBA
+2024-04-24 (Meeting #148) Git & Github for interesting people (Ed)
+
+2024-05-01 (Meeting #149) TBA
+
+2024-05-08 (Meeting #150) TBA
 
 <br>
 
 ## Meeting topics
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-04-10 (Meeting #146) R Stats Bootcamp Session 11 (Ed)** ::: [slides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-04-10-RSB11/RSB11.html#/title-slide) ::: [Bootcamp 11 link](https://rstats-bootcamp.github.io/website/11-t-test.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/xvudLA5eNzs) **2024-04-03 (Meeting #145) R Stats Bootcamp Session 10 (Megan, Ed)** ::: [slides](pages/2024-04-03-RSB10/RSB10.pptx) ::: [Bootcamp 10 link](https://rstats-bootcamp.github.io/website/10-regression.html)
 
