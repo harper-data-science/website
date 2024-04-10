@@ -1,0 +1,199 @@
+---
+title: "R Stats Bootcamp 11"
+subtitle: "T-test"
+format: revealjs
+author: Ed Harris
+date: 2023-04-10
+date-format: iso
+---
+
+##  {background-image="pics/Bootcamp_2024.png"}
+
+## R Stats Bootcamp {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/carrot-measure.png)
+:::
+
+::: {.column width="50%"}
+[R Stats Bootcamp 11](https://rstats-bootcamp.github.io/website/11-t-test.html)
+
+<br>
+
+`The t-test is widely considered to be at the very foundation of statistics`
+
+<br>
+:::
+:::
+
+## Student's t-test {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/William_Sealy_Gosset.jpg){height=400, width=300}
+:::
+
+::: {.column width="50%"}
+![](pics/guinness-beer-sweepstakes.jpg){height=450, width=250}
+
+<br>
+:::
+:::
+
+
+## Objectives
+
+-   The question of the t-test
+
+-   Data and assumptions
+
+-   Graphing
+
+-   Test and alternatives
+
+-   Practice exercises
+
+
+## The question of the t-test
+
+<br>
+
+-   Compare 2 means, independent samples
+
+-   Compare 1 mean to a known pop'n mean
+
+-   Compare 2 means, paired (non-independent) samples
+
+-   Null hypothesis significance testing
+
+## Two means, independent samples
+
+<br>
+
+- maybe: a control group and a treatment group
+
+- maybe: 2 different treatments
+
+- meaning of independence
+
+- sampling considerations
+
+<br><center> ~Let's code!~ </center>
+
+
+## One mean to a known pop'n mean
+
+<br>
+
+- maybe: a treatment group and past data
+
+- maybe: a new circumstance and a known gold standard
+
+- meaning of independence
+
+- sampling considerations
+
+<br><center> ~Let's code!~ </center>
+
+
+## Paired samples
+
+<br>
+
+- maybe: before and after groups
+
+- maybe: baseline to a treatment group
+
+- meaning of independence
+
+- sampling considerations
+
+<br><center> ~Let's code!~ </center>
+
+## Data and assumptions
+
+<br>
+
+- Gaussian distribution of observations WITHIN each sample
+
+- Heteroscedasticity (our old friend) - i.e., the variance is equal in each sample
+
+- Independence of observations
+
+- Philosphy of testing these assumptions
+
+## Data and assumptions
+
+<br>
+
+**NB 1** the assumption of Gaussian does not apply to to ALL OBSERVATIONS TOGETHER but TO EACH SAMPLE SEPARATELY (sometimes confusing for beginners)
+
+<br>
+
+**NB 2** testing whether each sample is Gaussian is analogous to testing whether the residuals are Gaussian for regression.
+
+## Assumptions: dumb way
+
+![](pics/gauss_bad.png)
+
+## Assumptions: smart way
+
+![](pics/gauss_good.png)
+
+## The Shapiro test
+
+<br>
+
+Formal test of whether your data are different to Gaussian
+
+<br>
+
+`shapiro.test()`
+
+## Example: 2 sample t-test
+
+<br>
+
+- independent samples
+
+>We detected a significant difference between mean height for tree grown at high or low density (2-sample t-test: t = -8.63, df = 11.9, P < 0.0001).
+
+<br><center> ~Let's code!~ </center>
+
+## Example: 1 sample t-test
+
+<br>
+
+- known population mean
+
+>We found no evidence the mean length of earwigs in our sample was different to the historical mean (1-sample t-test: t = 1.78, df = 19, P-value = 0.09).
+
+<br><center> ~Let's code!~ </center>
+
+## Example: paired t-test
+
+<br>
+
+- pairs of non-independent samples, like repeated measures
+
+<br><center> ~Let's code!~ </center>
+
+## Example: non-parametric
+
+<br>
+
+- when the assumptions don't hold
+
+- "Mann-Whitney test" same as "Wilcoxon test"
+
+`wilcox.test()`
+
+>We found evidence of a difference in the number of eggs ... (Mann-Whitney U-test: W = 63.5, n = [15, 15], P = 0.037) )
+
+<br><center> ~Let's code!~ </center>
+
+
+## Practice Exercises
+
+<center>![](pics/Laptop_duck.webp){width=50%}</center>

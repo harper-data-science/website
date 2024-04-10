@@ -1230,5 +1230,138 @@
     "title": "R Stats Bootcamp 09",
     "section": "Practice Exercises",
     "text": "Practice Exercises"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#r-stats-bootcamp",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#r-stats-bootcamp",
+    "title": "R Stats Bootcamp 11",
+    "section": "R Stats Bootcamp",
+    "text": "R Stats Bootcamp\n\n\n\n\nR Stats Bootcamp 11\n\nThe t-test is widely considered to be at the very foundation of statistics"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#students-t-test",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#students-t-test",
+    "title": "R Stats Bootcamp 11",
+    "section": "Student’s t-test",
+    "text": "Student’s t-test"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#objectives",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#objectives",
+    "title": "R Stats Bootcamp 11",
+    "section": "Objectives",
+    "text": "Objectives\n\nThe question of the t-test\nData and assumptions\nGraphing\nTest and alternatives\nPractice exercises"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#the-question-of-the-t-test",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#the-question-of-the-t-test",
+    "title": "R Stats Bootcamp 11",
+    "section": "The question of the t-test",
+    "text": "The question of the t-test\n\n\nCompare 2 means, independent samples\nCompare 1 mean to a known pop’n mean\nCompare 2 means, paired (non-independent) samples\nNull hypothesis significance testing"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#a-few-definitions",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#a-few-definitions",
+    "title": "R Stats Bootcamp 11",
+    "section": "A few definitions",
+    "text": "A few definitions\nClassic linear regression \n\\[\ny_i = \\alpha + \\beta x_i + \\epsilon_i\n\\]"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#practice-exercises",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#practice-exercises",
+    "title": "R Stats Bootcamp 11",
+    "section": "Practice Exercises",
+    "text": "Practice Exercises"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#means-independent-samples",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#means-independent-samples",
+    "title": "R Stats Bootcamp 11",
+    "section": "2 means, independent samples",
+    "text": "2 means, independent samples\n\n\nmaybe: a control group and a treatment group\nmaybe: 2 different treatments\nmeaning of independence\nsampling considerations\n\n\n\n~Let’s code!~"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#data-and-assumptions",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#data-and-assumptions",
+    "title": "R Stats Bootcamp 11",
+    "section": "Data and assumptions",
+    "text": "Data and assumptions\n\n\nGaussian distribution of observations WITHIN each sample\nHeteroscedasticity (our old friend) - i.e., the variance is equal in each sample\nIndependence of observations\nPhilosphy of testing these assumptions"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#data-and-assumptions-1",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#data-and-assumptions-1",
+    "title": "R Stats Bootcamp 11",
+    "section": "Data and assumptions",
+    "text": "Data and assumptions\n\nNB 1 the assumption of Gaussian does not apply to to ALL OBSERVATIONS TOGETHER but TO EACH SAMPLE SEPARATELY (sometimes confusing for beginners)\n\nNB 2 testing whether each sample is Gaussian is analogous to testing whether the residuals are Gaussian for regression."
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#two-means-independent-samples",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#two-means-independent-samples",
+    "title": "R Stats Bootcamp 11",
+    "section": "Two means, independent samples",
+    "text": "Two means, independent samples\n\n\nmaybe: a control group and a treatment group\nmaybe: 2 different treatments\nmeaning of independence\nsampling considerations\n\n\n\n~Let’s code!~"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#one-mean-to-a-known-popn-mean",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#one-mean-to-a-known-popn-mean",
+    "title": "R Stats Bootcamp 11",
+    "section": "One mean to a known pop’n mean",
+    "text": "One mean to a known pop’n mean\n\n\nmaybe: a treatment group and past data\nmaybe: a new circumstance and a known gold standard\nmeaning of independence\nsampling considerations\n\n\n\n~Let’s code!~"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#paired-samples",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#paired-samples",
+    "title": "R Stats Bootcamp 11",
+    "section": "Paired samples",
+    "text": "Paired samples\n\n\nmaybe: before and after groups\nmaybe: baseline to a treatment group\nmeaning of independence\nsampling considerations\n\n\n\n~Let’s code!~"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#assumptions-dumb-way",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#assumptions-dumb-way",
+    "title": "R Stats Bootcamp 11",
+    "section": "Assumptions: dumb way",
+    "text": "Assumptions: dumb way"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#assumptions-smart-way",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#assumptions-smart-way",
+    "title": "R Stats Bootcamp 11",
+    "section": "Assumptions: smart way",
+    "text": "Assumptions: smart way"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#the-shapiro-test",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#the-shapiro-test",
+    "title": "R Stats Bootcamp 11",
+    "section": "The Shapiro test",
+    "text": "The Shapiro test\n\nFormal test of whether your data are different to Gaussian\n\nshapiro.test()"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#example-2-sample-t-test",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#example-2-sample-t-test",
+    "title": "R Stats Bootcamp 11",
+    "section": "Example: 2 sample t-test",
+    "text": "Example: 2 sample t-test\n\n\nindependent samples\n\n\nWe detected a significant difference between mean height for tree grown at high or low density (2-sample t-test: t = -8.63, df = 11.9, P &lt; 0.0001).\n\n\n\n~Let’s code!~"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#example-1-sample-t-test",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#example-1-sample-t-test",
+    "title": "R Stats Bootcamp 11",
+    "section": "Example: 1 sample t-test",
+    "text": "Example: 1 sample t-test\n\n\nknown population mean\n\n\nWe found no evidence the mean length of earwigs in our sample was different to the historical mean (1-sample t-test: t = 1.78, df = 19, P-value = 0.09).\n\n\n\n~Let’s code!~"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#example-paired-t-test",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#example-paired-t-test",
+    "title": "R Stats Bootcamp 11",
+    "section": "Example: paired t-test",
+    "text": "Example: paired t-test\n\n\npairs of non-independent samples, like repeated measures\n\n\n\n~Let’s code!~"
+  },
+  {
+    "objectID": "pages/2024-04-10-RSB11/RSB11.html#example-non-parametric",
+    "href": "pages/2024-04-10-RSB11/RSB11.html#example-non-parametric",
+    "title": "R Stats Bootcamp 11",
+    "section": "Example: non-parametric",
+    "text": "Example: non-parametric\n\n\nwhen the assumptions don’t hold\n“Mann-Whitney test” same as “Wilcoxon test”\n\nwilcox.test()\n\nWe found evidence of a difference in the number of eggs … (Mann-Whitney U-test: W = 63.5, n = [15, 15], P = 0.037) )\n\n\n\n~Let’s code!~"
   }
 ]

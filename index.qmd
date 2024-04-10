@@ -20,7 +20,7 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-04-03 (Meeting #145) R Stats Bootcamp Session 10 (Megan, Ed)** ::: [slides](pages/2024-04-03-RSB10/RSB10.pptx) ::: [Bootcamp 10 link](https://rstats-bootcamp.github.io/website/10-regression.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/xvudLA5eNzs) **2024-04-03 (Meeting #145) R Stats Bootcamp Session 10 (Megan, Ed)** ::: [slides](pages/2024-04-03-RSB10/RSB10.pptx) ::: [Bootcamp 10 link](https://rstats-bootcamp.github.io/website/10-regression.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/OcyeG9eXS_M) **2024-03-27 (Meeting #144) R Stats Bootcamp Session 9 (Megan, Ed)** ::: [slides](pages/2024-03-27-RSB09/RSB09.pptx) ::: [Bootcamp 09 link](https://rstats-bootcamp.github.io/website/9-correlation.html)
 
