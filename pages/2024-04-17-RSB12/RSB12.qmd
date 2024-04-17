@@ -1,0 +1,132 @@
+---
+title: "R Stats Bootcamp 12"
+subtitle: "ANOVA"
+format: revealjs
+author: Ed Harris
+date: 2023-04-17
+date-format: iso
+---
+
+##  {background-image="pics/Bootcamp_2024.png"}
+
+## R Stats Bootcamp {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/row.png)
+:::
+
+::: {.column width="50%"}
+[R Stats Bootcamp 11](https://rstats-bootcamp.github.io/website/11-t-test.html)
+
+<br>
+
+`Arrange the arithmetic to compare more than two groups`
+
+<br>
+:::
+:::
+
+## Student's t-test {.center}
+
+::: columns
+::: {.column width="50%"}
+![](pics/fisher.jpeg){height=400, width=400}
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+>R. A. Fisher
+
+- Created ANOVA (and other tools)
+
+- Genetic basis of natural selection
+
+- Rothamsted history
+
+<br>
+:::
+:::
+
+
+## Objectives
+
+<br>
+
+- The question of 1-way ANOVA
+
+- Data and assumptions
+
+- Graphing
+
+- Test and alternatives
+
+- Practice exercises
+
+
+## The question of 1-way ANOVA
+
+<br>
+
+-   Compare > 2 means, independent samples
+
+-   Are the means different overall?
+
+-   Are there differences between specific groups?
+
+-   Null hypothesis significance testing
+
+## Data and Assumptions
+
+<br>
+
+- Continuous dependent var
+
+- Categorical explanatory var
+
+- Wide versus long data (again)
+
+<br><center> ~Let's code!~ </center>
+
+## Data and Assumptions
+
+<br>
+
+- Gaussian residuals 
+
+- Homoscedasticity (Equality of variance)
+
+- Independent observations 
+
+<br><center> ~Let's code!~ </center>
+
+## Graphing ANOVA
+
+<br>
+
+- Graph data appropriate to the TEST
+
+- For ANOVA, a "good" boxplot
+
+<br><center> ~Let's code!~ </center>
+
+
+## Doing the test
+
+<br>
+
+- 1-way ANOVA
+
+- ANOVA results
+
+- *post hoc* testing
+
+- alternatives to ANOVA: Kruskal-Wallis
+
+<br><center> ~Let's code!~ </center>
+
+## Practice Exercises
+
+<center>![](pics/Laptop_duck.webp){width=50%}</center>
