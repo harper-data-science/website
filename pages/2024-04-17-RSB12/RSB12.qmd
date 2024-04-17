@@ -27,7 +27,7 @@ date-format: iso
 :::
 :::
 
-## Student's t-test {.center}
+## R. A. Fisher {.center}
 
 ::: columns
 ::: {.column width="50%"}
@@ -38,7 +38,6 @@ date-format: iso
 
 <br>
 
->R. A. Fisher
 
 - Created ANOVA (and other tools)
 
