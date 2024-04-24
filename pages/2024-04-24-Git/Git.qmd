@@ -1,0 +1,188 @@
+---
+title: "Git and Github"
+subtitle: "for everyone"
+format: revealjs
+author: Ed Harris
+date: 2023-04-24
+date-format: iso
+---
+
+
+## What is Git?
+
+::: columns
+::: {.column width="50%"}
+
+<br>
+
+![](pics/Git-Logo-1788C.png)
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+Git is "version control" software
+
+<br>
+
+Track changes to files in a project
+
+
+:::
+:::
+
+## Why should I care about Git?
+
+<br>
+
+Good for reproducible practice
+
+Prevents accidental mistakes
+
+Collaboration with multiple people (including your future self)
+
+## How does Git work?
+
+::: columns
+::: {.column width="50%"}
+
+<br>
+
+![](pics/git1.png)
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+Say you have a working directory with a data file and a script
+
+<br>
+
+Git `watches` the files in the folder for any changes
+
+
+:::
+:::
+
+## How does Git work?
+
+::: columns
+::: {.column width="50%"}
+
+<br>
+
+![](pics/git2.png)
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+Changes are `tracked` and can be evaluated
+
+<br>
+
+This part happens on your local computer
+
+:::
+:::
+
+## Git repository
+
+::: columns
+::: {.column width="50%"}
+
+<br>
+
+![](pics/git3.png)
+
+:::
+::: {.column width="50%"}
+
+<br>
+
+A `reposity` ("repo") is a backup version of your directory, often in the cloud
+
+<br>
+
+If you make changes to your local version, you will need to add them to your `repo`
+
+:::
+:::
+
+## There is some jargon
+
+<br>
+
+`pull` - gets the latest version from you repo
+
+<br>
+
+`commit` - tells git you are sure you want to add local changes to your repo
+
+<br>
+
+`push` - sends the changes in your commit to your repo
+
+<br>
+
+`clone` - copy a repo (usually someone else's)
+
+## pull
+
+![](pics/git4.png)
+
+## commit & merge
+
+![](pics/git5.png)
+
+## Some tech details
+
+![](pics/legit.jpeg)
+
+## What is Github?
+
+::: columns
+::: {.column width="50%"}
+
+<br>
+
+![](pics/github1.png)
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+Easy to use cloud host for Git
+
+<br>
+
+Some social media and admin aspects
+
+<br>
+
+Very popular, requires free account
+
+<br>
+
+Microsoft owned
+
+:::
+:::
+
+## How can I use Git and Gihub?
+
+<center>![](pics/legit2.png)</center>
+
+
+
+## Demos
+
+<center>![](pics/Laptop_duck.webp){width=50%}</center>
