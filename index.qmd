@@ -12,11 +12,15 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 2024-05-08 (Meeting #150) Github pages website (In-person + online, Ed)
 
+2024-05-15 (Meeting #151) TBA, volunteers 
+
+2024-05-22 (Meeting #152) TBA, volunteers 
+
 <br>
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-05-1 (Meeting #149) GLM binomial reg analysis (Ed + Jazz W)** ::: [files](https://github.com/harper-data-science/website/tree/main/pages/2024-05-01-GLMM) 
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-05-01 (Meeting #149) GLM binomial reg analysis (Ed + Jazz W)** ::: [files](https://github.com/harper-data-science/website/tree/main/pages/2024-05-01-GLMM) 
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/geTEqk_JARo) **2024-04-24 (Meeting #148) Git & Github for interesting people (Ed)** ::: [slides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-04-24-Git/Git.html#/title-slide) 
 
