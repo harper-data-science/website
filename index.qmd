@@ -10,17 +10,17 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-05-01 (Meeting #149) TBA
-
-2024-05-08 (Meeting #150) In-person meeting topic TBA
+2024-05-08 (Meeting #150) Github pages website (In-person + online, Ed)
 
 <br>
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-04-24 (Meeting #148) Git & Github for interesting people (Ed)** ::: [slides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-04-24-Git/Git.html#/title-slide) 
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-05-1 (Meeting #149) GLM binomial reg analysis (Ed + Jazz W)** ::: [files](https://github.com/harper-data-science/website/tree/main/pages/2024-05-01-GLMM) 
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-04-17 (Meeting #147) R Stats Bootcamp Session 12 (Ed)** ::: [slides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-04-17-RSB12/RSB12.html#/title-slide) ::: [Bootcamp 12 link](https://rstats-bootcamp.github.io/website/12-1-way-anova.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/geTEqk_JARo) **2024-04-24 (Meeting #148) Git & Github for interesting people (Ed)** ::: [slides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-04-24-Git/Git.html#/title-slide) 
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/RarW49yTo-0) **2024-04-17 (Meeting #147) R Stats Bootcamp Session 12 (Ed)** ::: [slides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-04-17-RSB12/RSB12.html#/title-slide) ::: [Bootcamp 12 link](https://rstats-bootcamp.github.io/website/12-1-way-anova.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/RWOqOm1CXWM) **2024-04-10 (Meeting #146) R Stats Bootcamp Session 11 (Ed)** ::: [slides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-04-10-RSB11/RSB11.html#/title-slide) ::: [Bootcamp 11 link](https://rstats-bootcamp.github.io/website/11-t-test.html)
 

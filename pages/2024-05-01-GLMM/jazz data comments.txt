@@ -1,0 +1,18 @@
+jazz data comments
+
+-need tidy format
+-variable names and white spaces
+-rows mean different things on different sheets
+- "-9" recorded for weight (g) on Nest Box Data::Dormouse data
+-needs data dictionary
+-make names for same variables match accross all sheets
+
+for site visits data
+-need #boxes with dormice
+-need number boxes with nests
+-boxes with NestsOnly data not quite right
+-decimal accuracy on numerical values
+
+
+for dormouse data
+-need sensible factor level names
