@@ -9,6 +9,7 @@
 ## 02 Dormouse nest presence
 ## 03 Variance ground/box/outside
 ## 04 Misc code
+## 05 glmm for torpor state
 
 ## 00 Setup ####
 source("scripts/libraries.R")
@@ -28,7 +29,7 @@ summary(glm0)
 ggplot(visit, aes(x=MetTmin, y=propWithDormouse)) +
   geom_point(color="red") +
   geom_smooth(method="glm", method.args=list(family="binomial"), 
-              fullrange=TRUE, se=FALSE) + 
+              fullrange=TRUE, se=F) + 
   ylab("Proportion occupied nest boxes \n per visit") +
   xlab("Minimum Temp (C)") + 
   theme_classic()
@@ -106,12 +107,14 @@ ggplot(iButLong, aes(x=source, y=temp)) +
   geom_boxplot() + 
   geom_jitter(width=.1) +
   xlab("iButton location relative to nest box") +
-  ylab("Temperature (C)")
+  ylab("Temperature (C)") + 
+  theme_classic()
 
 aggregate(iButLong$temp, by=list(iButLong$source),
           FUN = function(x) c(mean=mean(x), sd=sd(x)))
 
 kruskal.test(temp~source, data=iButLong)
+anova(lm(temp~source, data=iButLong))
 
 leveneTest(temp~source, data=iButLong)
 
@@ -135,6 +138,45 @@ ggplot(visit, aes(x = Date,
        color = "Site") +
   theme_classic()
 
+## 05 glmm for torpor state ####
+glmm0 <- glmer(torporfac ~ 
+              MetTmin + MetTmax + MetRainMm + Site + (1|Date), 
+            family = binomial(link = "logit"), 
+            data = dormouse)
+summary(glmm0)
 
+# visreg(glmm0, "MetTmin")
+
+ggplot(dormouse, aes(x=torporfac, y=MetTmin)) +
+  geom_boxplot(color="blue", outlier.size=0) +
+  geom_jitter(width = .1, color="red") + 
+  ylab("Minimum Temp (C)") + 
+  xlab("Torpor status") +
+  theme_classic()
+
+  ggplot(dormouse, aes(x=torporfac, y=MetTmax)) +
+    geom_boxplot(color="blue", outlier.size=0) +
+    geom_jitter(width = .1, color="red") + 
+    ylab("Maximum Temp (C)") + 
+    xlab("Torpor status") +
+  theme_classic()
+  
+  ggplot(dormouse, aes(x=torporfac, y=MetRainMm)) +
+    geom_boxplot(color="blue", outlier.size=0) +
+    geom_jitter(width = .1, color="red") + 
+    ylab("Rainfall (mm)") + 
+    xlab("Torpor status") +
+  theme_classic()
+  
+x <- barplot(prop.table(matrix(table(dormouse$torporfac, dormouse$Site), 
+                          nrow=2, byrow=T),2),
+        ylab="Proportion active or in torpor",
+        xlab = "Site")
+mtext(text = c("Coleridge", "Mardon Mire"), side = 1, 
+      line = 1, at = x)
+legend(x = .6, y=1, legend = c("torpid","active"), 
+       col = c("gray80","gray20" ), bty="n", pch = 15)
+  
+ 
 
 

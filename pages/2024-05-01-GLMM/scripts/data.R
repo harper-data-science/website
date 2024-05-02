@@ -16,3 +16,21 @@ visit$NoBoxesWithDormice <- aggregate(BoxNo ~ Site + Date,
 visit$propWithDormouse <- visit$NoBoxesWithDormice/50
 visit$propWithNest<- visit$NoBoxesWithNests/50
 
+# make torpor factor
+dormouse <- dormouse[-which(dormouse$TorpidRef==6),]
+torporfac <- vector("character")
+torporfac <- ifelse(dormouse$TorpidRef == 1, torporfac <- "torpid", torporfac <- "active")
+
+dormouse$torporfac <- factor(torporfac) 
+
+# join weather data
+dormouse <- dplyr::left_join(
+  x = dormouse,
+  y = visit[,c("Site", "Date", "MetTmax", "MetTmin", "MetRainMm")],
+  by = c("Site" = "Site", "Date" = "Date"),
+  copy = FALSE,
+  suffix = c(".x", ".y"),
+  keep = FALSE
+)
+
+rm(torporfac)
