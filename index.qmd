@@ -10,7 +10,6 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-05-15 (Meeting #151) Logistic regression (Ed) 
 
 2024-05-22 (Meeting #152) TBA, volunteers 
 
@@ -18,7 +17,7 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Bg-nfQHMQMM) **2024-05-15 (Meeting #151) Logistic regression (Ed) ** ::: [tutorial]()
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Bg-nfQHMQMM) **2024-05-15 (Meeting #151) Logistic regression (Ed) ** ::: [tutorial](https://harper-data-science.github.io/website/tutorial/logisticregression.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Bg-nfQHMQMM) **2024-05-08 (Meeting #150) Github pages website (In-person + online, Ed)** ::: [slides](harper-data-science.github.io/tutorial/logisticregression.html)
 
