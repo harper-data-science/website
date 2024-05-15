@@ -18,7 +18,9 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Bg-nfQHMQMM) **2024-05-08 (Meeting #150) Github pages website (In-person + online, Ed)** ::: [slides](https://github.com/harper-data-science/website/tree/main/pages/2024-05-08-150th/github_quarto.pptx) ::: [Quarto website](https://quarto.org/docs/websites/) ::: [Github repo](https://docs.github.com/en/desktop/adding-and-cloning-repositories/adding-a-repository-from-your-local-computer-to-github-desktop) ::: [Github pages](https://quarto.org/docs/publishing/github-pages.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Bg-nfQHMQMM) **2024-05-15 (Meeting #151) Logistic regression (Ed) ** ::: [tutorial]()
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Bg-nfQHMQMM) **2024-05-08 (Meeting #150) Github pages website (In-person + online, Ed)** ::: [slides](harper-data-science.github.io/tutorial/logisticregression.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/VusIxNVevVo) **2024-05-01 (Meeting #149) GLM binomial reg analysis (Ed + Jazz W)** ::: [files](https://github.com/harper-data-science/website/tree/main/pages/2024-05-01-GLMM) 
 

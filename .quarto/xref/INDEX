@@ -105,5 +105,8 @@
   },
   "tutorial/template.qmd": {
     "template.html": "f5ade9bc"
+  },
+  "tutorial/logisticregression.qmd": {
+    "logisticregression.html": "c329c801"
   }
 }
