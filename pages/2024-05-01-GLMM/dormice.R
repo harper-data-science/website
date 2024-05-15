@@ -58,8 +58,9 @@ ggplot(visit, aes(x=Site, y=propWithDormouse)) +
 
 ## 02 Dormouse nest presence ####
 # Model with counts of presence and absence
+plot(visit$MetTmax, visit$MetTmin)
 glm1 <- glm(cbind(NoBoxesWithNests,50-NoBoxesWithNests) ~ 
-              MetTmin + MetTmax + MetRainMm + Site, 
+              MetTmax + MetTmin + MetRainMm + Site, 
             family = binomial(link = "logit"), 
             data = visit)
 summary(glm1)

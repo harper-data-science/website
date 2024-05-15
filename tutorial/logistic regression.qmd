@@ -1,0 +1,129 @@
+![](img/harug_2024_tp.png){width="100"} 
+
+# Statistics Tutorial: Logistic regression
+
+## Introduction
+
+Logistic regression is a statistical model used to predict the probability of a binary outcome based on one or more predictor variables. It is commonly used in many fields.
+
+## Key Concepts
+- Logistic regression is a statistical model used to predict the probability of a binary outcome.
+- It is based on the logistic function, which maps any real-valued number to a value between 0 and 1.
+- The predictor variables in logistic regression can be continuous or categorical.
+- The coefficients in logistic regression represent the influence of each predictor variable on the outcome.
+- Logistic regression can be used for both binary and multi-class classification problems.
+
+## [(PPDAC)](https://www.researchgate.net/publication/347531630_Creating_an_Understanding_of_Data_Literacy_for_a_Data-driven_Society)
+
+## Problem & Plan
+
+![](img/song-sparrow.png)
+
+- What factors influence survival in song sparrows?
+
+## Data
+
+[data file songsparrow.csv](files/songsparrow.csv)
+
+The song sparrow population on the island of Mandarte has been studied for many years by Jamie Smith, Peter Arcese, and collaborators. The birds were measured and banded and their fates on the island have recorded over many years. Here we will look for evidence of natural selection using the relationship between phenotypes and survival.
+
+The data file `songsparrow.csv` gives survival of young-of-the-year females over their first winter (1=survived, 0=died). The file includes measurements of beak and body dimensions: body mass (g), wing length, tarsus length, beak length, beak depth, beak width (all in mm), year of birth, and survival. These data were analyzed previously in D. Schluter and J. N. M Smith (1986, Evolution 40: 221-231).
+
+```{r}
+library(ggplot2)
+library(visreg)
+library(MASS)
+
+x <- read.csv("files/songsparrow.csv")
+
+# Show the header of the data
+head(x)
+```
+
+Plot the data.
+
+```{r}
+# 2. Year as categorical variable
+x$year <- as.character(x$year)
+
+# 3. Plot survival against tarsus length
+ggplot(x, aes(tarsus, survival)) +
+        geom_jitter(color = "blue", 
+                    size = 3, height = 0.04, 
+                    width = 0, alpha = 0.5) +
+        labs(x = "Tarsus length (mm)", y = "Survival") + 
+        theme_classic()
+```
+
+Visualise with a trend line.
+
+```{r}
+
+# add trend line with geom_smooth()
+ggplot(x, aes(tarsus, survival)) +
+        geom_jitter(color = "blue", size = 3, 
+                    height = 0.04, width = 0, alpha = 0.5) +
+        geom_smooth(method = "loess", size = 1, 
+                    col = "red", lty = 2, se = FALSE) +
+        labs(x = "Tarsus length (mm)", y = "Survival") + 
+        theme_classic()
+```
+
+
+## Analysis
+
+Fit the model.
+
+```{r}
+# Fit generalized linear model
+z <- glm(formula = survival ~ tarsus, 
+          family = binomial(link="logit"), 
+          data = x)
+```
+
+Visualize the model.
+
+```{r}
+# Visualize model fit (data points added with points() )
+visreg(z, xvar = "tarsus", scale = 'response',
+        rug = FALSE, ylim = c(-.1, 1.1))
+
+points(jitter(survival, 0.2) ~ tarsus, data = x, 
+        pch = 1, col = "blue", cex = 1, lwd = 1.5)
+```
+
+Examine the model results
+
+```{r}
+# Estimate regression coefficient for tarsus
+summary(z)
+```
+
+
+
+```{r}
+# Test null hypothesis of zero slope
+anova(z, test = "Chi")
+
+# Calculate R^2
+library(fmsb)
+NagelkerkeR2(z)
+```
+
+
+## Conclusion
+
+Report the results.
+
+>We found a highly significant, negative effect of tarsus length on survival in the song sparrow (logistic regression: chi sq. = 15.9, df = 1, 143, p < 0.0001, Nagelkerke's R^2 = 13.9% of variance explained).  
+
+## References
+[GLM page for Ed's c7041](https://c7041-2022.github.io/website/lab14-GLM.html)
+
+Wolff, A., Gooch, D., Montaner, J.J.C., Rashid, U., Kortuem, G., 2016. Creating an Understanding of Data Literacy for a Data-driven Society. The Journal of Community Informatics 12. https://doi.org/10.15353/joci.v12i3.3275
+
+Schluter, D., Smith, J.N.M., 1986. Natural Selection on Beak and Body Size in the Song Sparrow. Evolution 40, 221–231. https://doi.org/10.1111/j.1558-5646.1986.tb00465.x
+
+Nagelkerke N (1991) A note on a general definition of the coefficient of determination. Biometrika, 78: 691-692.
+
+Faraway JJ (2006) Extending the linear models with R: Generalized linear, mixed effects and nonparametric regression models. Chapman and Hall.

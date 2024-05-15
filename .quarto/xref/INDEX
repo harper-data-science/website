@@ -99,5 +99,11 @@
   },
   "pages/2024-04-24-Git/Git.qmd": {
     "Git.html": "9b880916"
+  },
+  "tutorial/logistic regression.qmd": {
+    "logistic regression.html": "7f1cbe31"
+  },
+  "tutorial/template.qmd": {
+    "template.html": "f5ade9bc"
   }
 }
