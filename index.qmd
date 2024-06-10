@@ -10,11 +10,9 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-05-29 No meeting (End of term break)
-
-2024-06-05 No meeting (End of term break)
-
 2024-06-12 Effect size: Why you should care (Ed)
+
+2024-06-19 Blueberry computer vision (Matt B)
 
 <br>
 
