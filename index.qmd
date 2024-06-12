@@ -10,13 +10,17 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-06-12 Effect size: Why you should care (Ed)
+2024-06-12 (Meeting #153) Effect size: Why you should care (Ed)
 
-2024-06-19 Blueberry computer vision (Matt B)
+2024-06-19 (Meeting #154) Blueberry computer vision (Matt B)
+
+2024-06-26 (Meeting #155) Github branch and merge! (Claire P and Megan L)
 
 <br>
 
 ## Meeting topics
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-06-12 (Meeting #153) Effect size: Why you should care (Ed)** ::: [sides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-06-12-es-thinking/es_thinking.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/qdGFS_sLt30) **2024-05-22 (Meeting #152) Wasps, Figs and Logistic Regression.  Oh My! (Sotiria)** ::: [background report](pages/2024-05-22-Sotiria/Australia document report.docx)
 

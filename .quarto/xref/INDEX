@@ -108,5 +108,8 @@
   },
   "tutorial/logisticregression.qmd": {
     "logisticregression.html": "c329c801"
+  },
+  "pages/2024-06-12-es-thinking/es_thinking.qmd": {
+    "es_thinking.html": "dd29de17"
   }
 }

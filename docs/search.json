@@ -15,7 +15,7 @@
     "href": "index.html#the-future",
     "title": "Schedule",
     "section": "The Future",
-    "text": "The Future\n2024-06-12 Effect size: Why you should care (Ed)\n2024-06-19 Blueberry computer vision (Matt B)",
+    "text": "The Future\n2024-06-12 (Meeting #153) Effect size: Why you should care (Ed)\n2024-06-19 (Meeting #154) Blueberry computer vision (Matt B)\n2024-06-26 (Meeting #155) Github branch and merge! (Claire P and Megan L)",
     "crumbs": [
       "Information",
       "Schedule"
@@ -26,7 +26,7 @@
     "href": "index.html#meeting-topics",
     "title": "Schedule",
     "section": "Meeting topics",
-    "text": "Meeting topics\n  2024-05-22 (Meeting #152) Wasps, Figs and Logistic Regression. Oh My! (Sotiria) ::: background report\n  2024-05-15 (Meeting #151) Logistic regression (Ed)  ::: tutorial\n  2024-05-08 (Meeting #150) Github pages website (In-person + online, Ed) ::: slides\n  2024-05-01 (Meeting #149) GLM binomial reg analysis (Ed + Jazz W) ::: files\n  2024-04-24 (Meeting #148) Git & Github for interesting people (Ed) ::: slides\n  2024-04-17 (Meeting #147) R Stats Bootcamp Session 12 (Ed) ::: slides ::: Bootcamp 12 link\n  2024-04-10 (Meeting #146) R Stats Bootcamp Session 11 (Ed) ::: slides ::: Bootcamp 11 link\n  2024-04-03 (Meeting #145) R Stats Bootcamp Session 10 (Megan, Ed) ::: slides ::: Bootcamp 10 link\n  2024-03-27 (Meeting #144) R Stats Bootcamp Session 9 (Megan, Ed) ::: slides ::: Bootcamp 09 link\n  2024-03-20 (Meeting #143) R Stats Bootcamp Session 8 (Megan, Ed) ::: slides ::: Bootcamp 08 link\n  2024-03-13 (Meeting #142) R Stats Bootcamp Session 7 (Ed) ::: slides ::: Bootcamp 07 link\n  2024-03-06 (Meeting #141) R Stats Bootcamp Session 6 (Ed) ::: slides ::: Bootcamp 06 link\n  2024-02-14 (Meeting #140) R Stats Bootcamp Session 5 (Ed) ::: slides ::: Bootcamp 05 link\n  2024-02-07 (Meeting #139) R Stats Bootcamp Session 4 (Ed) ::: slides ::: Bootcamp 04 link\n  2024-01-31 (Meeting #138) R Stats Bootcamp Session 3 (Ed) ::: slides ::: Bootcamp 03 link\n  2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed) ::: slides ::: Bootcamp 02 link\n  2024-01-17 (Meeting #136) R Stats Bootcamp Session 1 (Ed) ::: slides ::: Bootcamp 01 link\n  2023-12-20 (Meeting #135) Holidays data viz activity (Ed H) ::: slides ::: files\n  2023-12-13 (Meeting #134) Beginning R and stats: what training do you want and need? (group discussion led by Ed H) ::: slides ::: R Stats Bootcamp ::: Harper MSc teaching schedule\n  2023-12-06 (Meeting #133) Example experimental design and power (Ronald M) ::: slide files ::: Ed pwr\n  2023-11-29 (Meeting #132) Train a custom Yolo model in Python (Ed H) ::: slide files ::: ed owl pic ::: slide files ::: Python notebook html ::: link to Python notebook repo\n  2023-11-22 (Meeting #131) Basics of effect size and power for experimental design in R (Ed H + Charlotte C) ::: Power ppt ::: Cow experiment ppt ::: f^2 Effect size reading Selya 2012\n  2023-11-15 (meeting #130) Cattle welfare data science project (Tom C) ::: stressed cows\n  2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H) ::: slides ::: data ::: colab notebook ::: Python Resources\n  2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B) ::: slides\n  2023-07-19 (meeting #127) chatGPT + code interpreter for data analysis (Joe R)\n  2023-07-12 (meeting #126) Docker web app demo (Matt B) ::: instructions ::: slides\n  2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H) ::: R proj files zip ::: slides\n  2023-06-14 (meeting #124) Docker-related session? (Matt B)\n  2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)\n  2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)\n  2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H) chatGPT experiments slides ::: chatGPT prompts ::: milkers project zip\n  2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H) chatGPT slides ::: chatGPT prompts\n  2023-05-03 (meeting #119) My_Tidy_Data %&lt;% Web scraping data with R and tools like readLines() and grep() (Ed H) Manual scrape project files ::: “Autoscrape” example script\n  2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-19 (meeting #117) Plant Spatial Statistics Ch 03 Part 2 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-04-12 (meeting #116) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-05 (meeting #115) Part 1: Animal pose and behaviour detection in Deeplabcut (George W) ::: DeepLabCut website ::: George W ppt\n  2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 Part 1 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-03-08 (meeting #113) Bootcamp launch S02E02 (George W.) ::: Bootcamp 2\n 2023-02-15 (meeting #112) Natural Language Processing session #02 (Ed) ::: NLP2 slides ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb\n 2023-02-01 (meeting #111) Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch02 ::: html slides ch 02 ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch02 code\n  2023-01-25 (meeting #110) Bootcamp launch S02E01 (Ed + HARUG!) ::: Bootcamp1 ::: slides overview ::: slides Setup 01\n  2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed) ::: NLP1 slides ::: NLP1 notbook\n  2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch01 ::: html slides ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch01 code\n  2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: pptx\n 2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed) ::: pptx ::: cheatsheet 1 ::: cheatsheet 2 ::: cheatsheet 3 ::: cheatsheet 4\n  2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: talk pptx ::: R script ::: Raw data xlsx ::: Count data xlsx\n  2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)\n  2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed) ::: pptx ::: R script ::: {mlr3} book site\n  2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed) ::: Quarto Github webpage tutorial\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt) ::: pptx ::: weevilwatch github repo\n 2022-09-21 (meeting #98) New Quarto website (Ed) ::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris.",
+    "text": "Meeting topics\n  2024-06-12 (Meeting #153) Effect size: Why you should care (Ed) ::: sides\n  2024-05-22 (Meeting #152) Wasps, Figs and Logistic Regression. Oh My! (Sotiria) ::: background report\n  2024-05-15 (Meeting #151) Logistic regression (Ed)  ::: tutorial\n  2024-05-08 (Meeting #150) Github pages website (In-person + online, Ed) ::: slides\n  2024-05-01 (Meeting #149) GLM binomial reg analysis (Ed + Jazz W) ::: files\n  2024-04-24 (Meeting #148) Git & Github for interesting people (Ed) ::: slides\n  2024-04-17 (Meeting #147) R Stats Bootcamp Session 12 (Ed) ::: slides ::: Bootcamp 12 link\n  2024-04-10 (Meeting #146) R Stats Bootcamp Session 11 (Ed) ::: slides ::: Bootcamp 11 link\n  2024-04-03 (Meeting #145) R Stats Bootcamp Session 10 (Megan, Ed) ::: slides ::: Bootcamp 10 link\n  2024-03-27 (Meeting #144) R Stats Bootcamp Session 9 (Megan, Ed) ::: slides ::: Bootcamp 09 link\n  2024-03-20 (Meeting #143) R Stats Bootcamp Session 8 (Megan, Ed) ::: slides ::: Bootcamp 08 link\n  2024-03-13 (Meeting #142) R Stats Bootcamp Session 7 (Ed) ::: slides ::: Bootcamp 07 link\n  2024-03-06 (Meeting #141) R Stats Bootcamp Session 6 (Ed) ::: slides ::: Bootcamp 06 link\n  2024-02-14 (Meeting #140) R Stats Bootcamp Session 5 (Ed) ::: slides ::: Bootcamp 05 link\n  2024-02-07 (Meeting #139) R Stats Bootcamp Session 4 (Ed) ::: slides ::: Bootcamp 04 link\n  2024-01-31 (Meeting #138) R Stats Bootcamp Session 3 (Ed) ::: slides ::: Bootcamp 03 link\n  2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed) ::: slides ::: Bootcamp 02 link\n  2024-01-17 (Meeting #136) R Stats Bootcamp Session 1 (Ed) ::: slides ::: Bootcamp 01 link\n  2023-12-20 (Meeting #135) Holidays data viz activity (Ed H) ::: slides ::: files\n  2023-12-13 (Meeting #134) Beginning R and stats: what training do you want and need? (group discussion led by Ed H) ::: slides ::: R Stats Bootcamp ::: Harper MSc teaching schedule\n  2023-12-06 (Meeting #133) Example experimental design and power (Ronald M) ::: slide files ::: Ed pwr\n  2023-11-29 (Meeting #132) Train a custom Yolo model in Python (Ed H) ::: slide files ::: ed owl pic ::: slide files ::: Python notebook html ::: link to Python notebook repo\n  2023-11-22 (Meeting #131) Basics of effect size and power for experimental design in R (Ed H + Charlotte C) ::: Power ppt ::: Cow experiment ppt ::: f^2 Effect size reading Selya 2012\n  2023-11-15 (meeting #130) Cattle welfare data science project (Tom C) ::: stressed cows\n  2023-08-02 (meeting #129) Beginning Python for applied Scientists (and other interesting people) (Ed H) ::: slides ::: data ::: colab notebook ::: Python Resources\n  2023-07-26 (meeting #128) Bioinformatics with and without Galaxy (Sotiria B) ::: slides\n  2023-07-19 (meeting #127) chatGPT + code interpreter for data analysis (Joe R)\n  2023-07-12 (meeting #126) Docker web app demo (Matt B) ::: instructions ::: slides\n  2023-07-05 (meeting #125) Simulation as a tool for experimental design (Ed H) ::: R proj files zip ::: slides\n  2023-06-14 (meeting #124) Docker-related session? (Matt B)\n  2023-06-07 (meeting #123) You’ve heard of ChatGPT, but have you heard of birdNet…? (Sophie C)\n  2023-05-31 (meeting #122) Progress update on DeepLabCut (George W)\n  2023-05-24 (meeting #121) Using ChatGPT to support data analysis - some experimental results (Ed H) chatGPT experiments slides ::: chatGPT prompts ::: milkers project zip\n  2023-05-17 (meeting #120) Large Language Models, ChatGPT, OpenGPT and LangChain: An overview and what you can do right now (Ed H) chatGPT slides ::: chatGPT prompts\n  2023-05-03 (meeting #119) My_Tidy_Data %&lt;% Web scraping data with R and tools like readLines() and grep() (Ed H) Manual scrape project files ::: “Autoscrape” example script\n  2023-04-26 (meeting #118) Part 3: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-19 (meeting #117) Plant Spatial Statistics Ch 03 Part 2 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-04-12 (meeting #116) Part 2: Animal pose and behaviour detection in Deeplabcut (George W)::: DeepLabCut website ::: George W ppt\n  2023-04-05 (meeting #115) Part 1: Animal pose and behaviour detection in Deeplabcut (George W) ::: DeepLabCut website ::: George W ppt\n  2023-03-15 (meeting #114) Plant Spatial Statistics Ch 03 Part 1 (Przemek D) Chapter 03 ::: Plant ALL DATA\n  2023-03-08 (meeting #113) Bootcamp launch S02E02 (George W.) ::: Bootcamp 2\n 2023-02-15 (meeting #112) Natural Language Processing session #02 (Ed) ::: NLP2 slides ::: NLP2 notbook: open from github https://github.com/harper-data-science/aws-nlp :: MLA-NLP-Lecture1.2-BOW.ipynb\n 2023-02-01 (meeting #111) Spatial statistics with R Read Chapter 02 and exercises in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch02 ::: html slides ch 02 ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch02 code\n  2023-01-25 (meeting #110) Bootcamp launch S02E01 (Ed + HARUG!) ::: Bootcamp1 ::: slides overview ::: slides Setup 01\n  2023-01-18 (meeting #109) Natural Language Processing session #01 (Ed) ::: NLP1 slides ::: NLP1 notbook\n  2023-01-11 (meeting #108) Spatial statistics with R Read Chapters 01 in Plant 2019 Spatial Data Analysis 2ed (Ed) ::: Plant ch01 ::: html slides ::: Plant ALL DATA ::: Plant ALL CODE ::: Ed ch01 code\n  2022-12-07 (meeting #107) Basic of Shiny + R Markdown + {flexdashboard} for interactive data (Ed) ::: pptx\n 2022-11-23 (meeting #106) Future topics survey and cheatsheet activity (Ed) ::: pptx ::: cheatsheet 1 ::: cheatsheet 2 ::: cheatsheet 3 ::: cheatsheet 4\n  2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden) ::: talk pptx ::: R script ::: Raw data xlsx ::: Count data xlsx\n  2022-11-02 (meeting #104) Tidy data and stats for a mysterious experiment (Eric S)\n  2022-10-26 (meeting #103) Intro to the {mlr3} package in R (Ed) ::: pptx ::: R script ::: {mlr3} book site\n  2022-10-19 (meeting #102) Natural Language Processing (NLP) What is it good for? (Magda)\n  2022-10-12 (meeting #101) Analysis of spatial data (Joe C)\n  2022-10-05 (meeting #100) Quarto: R Markdown’s “new clothes”? Our \\(10^2\\) meeting! (Ed) ::: Quarto Github webpage tutorial\n  2022-09-28 (meeting #99) Computer vision project / Python (Matt) ::: pptx ::: weevilwatch github repo\n 2022-09-21 (meeting #98) New Quarto website (Ed) ::: Quarto Hello, World\n\n\nThis group is supported by the research and teaching community at Harper Adams University and by students and alumnists of the MSc in Data Science for Global Agriculture, Food, and Environment, and is led by Ed Harris.",
     "crumbs": [
       "Information",
       "Schedule"
@@ -1830,5 +1830,194 @@
     "title": "Statistics Tutorial: Logistic regression",
     "section": "References",
     "text": "References\nGLM page for Ed’s c7041\nWolff, A., Gooch, D., Montaner, J.J.C., Rashid, U., Kortuem, G., 2016. Creating an Understanding of Data Literacy for a Data-driven Society. The Journal of Community Informatics 12. https://doi.org/10.15353/joci.v12i3.3275\nSchluter, D., Smith, J.N.M., 1986. Natural Selection on Beak and Body Size in the Song Sparrow. Evolution 40, 221–231. https://doi.org/10.1111/j.1558-5646.1986.tb00465.x\nNagelkerke N (1991) A note on a general definition of the coefficient of determination. Biometrika, 78: 691-692.\nFaraway JJ (2006) Extending the linear models with R: Generalized linear, mixed effects and nonparametric regression models. Chapman and Hall."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-1-introduction-to-effect-sizes",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-1-introduction-to-effect-sizes",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 1: Introduction to Effect Sizes",
+    "text": "Slide 1: Introduction to Effect Sizes\n\nEffect size is a quantitative measure of the magnitude of a phenomenon.\n\n\nIt provides more information than p-values, which only tell us whether an effect exists but not how large it is."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-2-why-effect-sizes-matter",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-2-why-effect-sizes-matter",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 2: Why Effect Sizes Matter",
+    "text": "Slide 2: Why Effect Sizes Matter\n\nPractical Significance: Beyond statistical significance, effect sizes help us understand the real-world impact of findings.\nComparison Across Studies: Effect sizes allow for comparison of results across different studies and disciplines."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-3-types-of-effect-sizes",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-3-types-of-effect-sizes",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 3: Types of Effect Sizes",
+    "text": "Slide 3: Types of Effect Sizes\nThere are several common measures of effect size:\n\nCohen’s d: Used for comparing the means of two groups.\nPearson’s r: Measures the strength and direction of a linear relationship between two variables.\nOdds Ratio: Used in logistic regression to describe the odds of an event occurring."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-4-cohens-d",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-4-cohens-d",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 4: Cohen’s d",
+    "text": "Slide 4: Cohen’s d\nCohen’s d is used to express the difference between two means in terms of standard deviation units.\n\nFormula: \\[ d = \\frac{M_1 - M_2}{SD_{pooled}} \\]\nInterpretation: 0.2 = small effect, 0.5 = medium effect, 0.8 = large effect"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-5-pearsons-r",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-5-pearsons-r",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 5: Pearson’s r",
+    "text": "Slide 5: Pearson’s r\nPearson’s r measures the linear relationship between two variables.\n\nRange: -1 to +1\nInterpretation: 0.1 = small effect, 0.3 = medium effect, 0.5 = large effect"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-6-odds-ratio",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-6-odds-ratio",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 6: Odds Ratio",
+    "text": "Slide 6: Odds Ratio\nThe odds ratio is used to determine the odds of an event occurring in one group compared to another.\n\nFormula: \\[ OR = \\frac{(a/b)}{(c/d)} \\]\n\n( a ) = number of events in Group 1\n( b ) = number of non-events in Group 1\n( c ) = number of events in Group 2\n( d ) = number of non-events in Group 2"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-7-effect-size-interpretation",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-7-effect-size-interpretation",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 7: Effect Size Interpretation",
+    "text": "Slide 7: Effect Size Interpretation\nEffect sizes must be interpreted in context:\n\nDomain Knowledge: Understand what a “large” effect means in your specific field.\nSample Size: Smaller samples can lead to more variability in effect size estimates.\nStudy Design: Consider the design and methodology of the study."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-8-reporting-effect-sizes",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-8-reporting-effect-sizes",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 8: Reporting Effect Sizes",
+    "text": "Slide 8: Reporting Effect Sizes\nWhen reporting effect sizes, it’s important to include:\n\nMagnitude: The calculated effect size value.\nConfidence Interval: Provides a range in which the true effect size likely falls.\nContextual Interpretation: Explain the practical significance of the effect size in the context of your study."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-9-benefits-of-effect-size-thinking",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-9-benefits-of-effect-size-thinking",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 9: Benefits of Effect Size Thinking",
+    "text": "Slide 9: Benefits of Effect Size Thinking\n\nEnhanced Understanding: Provides a clearer understanding of the impact of findings.\nImproved Decision Making: Helps in making informed decisions based on the magnitude of effects.\nFacilitates Meta-Analysis: Easier to synthesize and compare results across multiple studies."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-10-conclusion",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-10-conclusion",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 10: Conclusion",
+    "text": "Slide 10: Conclusion\nEffect size thinking is crucial for understanding and communicating the importance of scientific findings.\nIt goes beyond statistical significance and offers a deeper insight into the practical implications of research results."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-11-questions-and-discussion",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-11-questions-and-discussion",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 11: Questions and Discussion",
+    "text": "Slide 11: Questions and Discussion\nQuestions / live coding"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#introduction-to-effect-size-thinking",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#introduction-to-effect-size-thinking",
+    "title": "Understanding Effect Sizes",
+    "section": "Introduction to Effect Size Thinking",
+    "text": "Introduction to Effect Size Thinking\n\nEffect size is a quantitative measure of the magnitude of a phenomenon.\n\n\nIt provides more information than p-values, which only tell us whether an effect exists but not how large it is."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#slide-6-odds-ratio-1",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#slide-6-odds-ratio-1",
+    "title": "Understanding Effect Sizes",
+    "section": "Slide 6: Odds Ratio",
+    "text": "Slide 6: Odds Ratio\nThe odds ratio is used to determine the odds of an event occurring in one group compared to another.\n\nFormula: \\[ OR = \\frac{(a/b)}{(c/d)} \\]\nInterpretation: OR = 1 means no difference; OR &gt; 1 means the event is more likely in the first group; OR &lt; 1 means the event is less likely in the first group"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#why-effect-sizes-matter",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#why-effect-sizes-matter",
+    "title": "Understanding Effect Sizes",
+    "section": "Why Effect Sizes Matter",
+    "text": "Why Effect Sizes Matter\n\nPractical Significance: Beyond statistical significance, effect sizes help us understand the real-world impact of findings.\nComparison Across Studies: Effect sizes allow for comparison of results across different studies and disciplines."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#types-of-effect-sizes",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#types-of-effect-sizes",
+    "title": "Understanding Effect Sizes",
+    "section": "Types of Effect Sizes",
+    "text": "Types of Effect Sizes\nThere are several common measures of effect size:\n\nCohen’s d: Used for comparing the means of two groups.\nPearson’s r: Measures the strength and direction of a linear relationship between two variables.\nOdds Ratio: Used in logistic regression to describe the odds of an event occurring."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#cohens-d",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#cohens-d",
+    "title": "Understanding Effect Sizes",
+    "section": "Cohen’s d",
+    "text": "Cohen’s d\nCohen’s d is used to express the difference between two means in terms of standard deviation units.\n\nFormula: \\[ d = \\frac{M_1 - M_2}{SD_{pooled}} \\]\nInterpretation: 0.2 = small effect, 0.5 = medium effect, 0.8 = large effect"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#pearsons-r",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#pearsons-r",
+    "title": "Understanding Effect Sizes",
+    "section": "Pearson’s r",
+    "text": "Pearson’s r\nPearson’s r measures the linear relationship between two variables.\n\nRange: -1 to +1\nInterpretation: 0.1 = small effect, 0.3 = medium effect, 0.5 = large effect"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#pearsons-r-1",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#pearsons-r-1",
+    "title": "Understanding Effect Sizes",
+    "section": "Pearson’s r",
+    "text": "Pearson’s r"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#odds-ratio",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#odds-ratio",
+    "title": "Understanding Effect Sizes",
+    "section": "Odds Ratio",
+    "text": "Odds Ratio\nThe odds ratio is used to determine the odds of an event occurring in one group compared to another.\n\nFormula: \\[ OR = \\frac{(a/b)}{(c/d)} \\]\n\n( a ) = number of events in Group 1\n( b ) = number of non-events in Group 1\n( c ) = number of events in Group 2\n( d ) = number of non-events in Group 2"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#odds-ratio-1",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#odds-ratio-1",
+    "title": "Understanding Effect Sizes",
+    "section": "Odds Ratio",
+    "text": "Odds Ratio\nThe odds ratio is used to determine the odds of an event occurring in one group compared to another.\n\nFormula: \\[ OR = \\frac{(a/b)}{(c/d)} \\]\nInterpretation: OR = 1 means no difference; OR &gt; 1 means the event is more likely in the first group; OR &lt; 1 means the event is less likely in the first group"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#effect-size-interpretation",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#effect-size-interpretation",
+    "title": "Understanding Effect Sizes",
+    "section": "Effect Size Interpretation",
+    "text": "Effect Size Interpretation\nEffect sizes must be interpreted in context:\n\nDomain Knowledge: Understand what a “large” effect means in your specific field.\nSample Size: Smaller samples can lead to more variability in effect size estimates.\nStudy Design: Consider the design and methodology of the study."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#reporting-effect-sizes",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#reporting-effect-sizes",
+    "title": "Understanding Effect Sizes",
+    "section": "Reporting Effect Sizes",
+    "text": "Reporting Effect Sizes\nWhen reporting effect sizes, it’s important to include:\n\nMagnitude: The calculated effect size value.\nConfidence Interval: Provides a range in which the true effect size likely falls.\nContextual Interpretation: Explain the practical significance of the effect size in the context of your study."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#benefits-of-effect-size-thinking",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#benefits-of-effect-size-thinking",
+    "title": "Understanding Effect Sizes",
+    "section": "Benefits of Effect Size Thinking",
+    "text": "Benefits of Effect Size Thinking\n\nEnhanced Understanding: Provides a clearer understanding of the impact of findings.\nImproved Decision Making: Helps in making informed decisions based on the magnitude of effects.\nFacilitates Meta-Analysis: Easier to synthesize and compare results across multiple studies."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#conclusion",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#conclusion",
+    "title": "Understanding Effect Sizes",
+    "section": "Conclusion",
+    "text": "Conclusion\nEffect size thinking is crucial for understanding and communicating the importance of scientific findings.\nIt goes beyond statistical significance and offers a deeper insight into the practical implications of research results."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#references",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#references",
+    "title": "Understanding Effect Sizes",
+    "section": "References",
+    "text": "References\nCatford et al. 2022. Addressing context dependence in ecology. Trends in Ecology & Evolution 37, 158–170.\nNakagawa & Cuthill 2007. Effect size, confidence interval and statistical significance: a practical guide for biologists. Biological Reviews 82, 591–605.\nNakagawa & Schielzeth 2013. A general and simple method for obtaining R2 from generalized linear mixed-effects models. Methods in Ecology and Evolution 4, 133–142."
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#questions-and-discussion",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#questions-and-discussion",
+    "title": "Understanding Effect Sizes",
+    "section": "Questions and Discussion",
+    "text": "Questions and Discussion\nQuestions / live coding"
+  },
+  {
+    "objectID": "pages/2024-06-12-es-thinking/es_thinking.html#questions-and-coding",
+    "href": "pages/2024-06-12-es-thinking/es_thinking.html#questions-and-coding",
+    "title": "Understanding Effect Sizes",
+    "section": "Questions and coding",
+    "text": "Questions and coding"
   }
 ]

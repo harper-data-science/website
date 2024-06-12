@@ -1,0 +1,126 @@
+---
+title: "Understanding Effect Sizes"
+subtitle: "A Guide for Applied Scientists"
+format: revealjs
+author: "Ed Harris"
+date: "2024-06-12"
+date-format: iso
+---
+
+## Introduction to Effect Size Thinking
+>Effect size is a quantitative measure of the magnitude of a phenomenon. 
+
+>It provides more information than p-values, which only tell us whether an effect exists but not how large it is.
+
+---
+
+## Why Effect Sizes Matter
+- **Practical Significance**: Beyond statistical significance, effect sizes help us understand the real-world impact of findings.
+- **Comparison Across Studies**: Effect sizes allow for comparison of results across different studies and disciplines.
+
+---
+
+## Types of Effect Sizes
+There are several common measures of effect size:
+
+- **Cohen's d**: Used for comparing the means of two groups.
+
+- **Pearson's r**: Measures the strength and direction of a linear relationship between two variables.
+
+- **Odds Ratio**: Used in logistic regression to describe the odds of an event occurring.
+
+---
+
+## Cohen's d
+Cohen's d is used to express the difference between two means in terms of standard deviation units.
+
+- **Formula**: $$ d = \frac{M_1 - M_2}{SD_{pooled}} $$
+
+- **Interpretation**: 0.2 = small effect, 0.5 = medium effect, 0.8 = large effect
+
+---
+
+## Pearson's r
+Pearson's r measures the linear relationship between two variables.
+
+- **Range**: -1 to +1
+
+- **Interpretation**: 0.1 = small effect, 0.3 = medium effect, 0.5 = large effect
+
+---
+
+## Pearson's r
+
+![](img/brv_27_f2.webp)
+
+## Odds Ratio
+The odds ratio is used to determine the odds of an event occurring in one group compared to another.
+
+- **Formula**: $$ OR = \frac{(a/b)}{(c/d)} $$
+  - \( a \) = number of events in Group 1
+  - \( b \) = number of non-events in Group 1
+  - \( c \) = number of events in Group 2
+  - \( d \) = number of non-events in Group 2
+
+---
+
+## Odds Ratio
+The odds ratio is used to determine the odds of an event occurring in one group compared to another.
+
+- **Formula**: $$ OR = \frac{(a/b)}{(c/d)} $$
+
+- **Interpretation**: **OR = 1** means no difference; **OR > 1** means the event is more likely in the first group; **OR < 1** means the event is less likely in the first group
+
+---
+
+## Effect Size Interpretation
+Effect sizes must be interpreted in context:
+
+- **Domain Knowledge**: Understand what a "large" effect means in your specific field.
+
+- **Sample Size**: Smaller samples can lead to more variability in effect size estimates.
+
+- **Study Design**: Consider the design and methodology of the study.
+
+---
+
+## Reporting Effect Sizes
+When reporting effect sizes, it's important to include:
+
+- **Magnitude**: The calculated effect size value.
+
+- **Confidence Interval**: Provides a range in which the true effect size likely falls.
+
+- **Contextual Interpretation**: Explain the practical significance of the effect size in the context of your study.
+
+---
+
+## Benefits of Effect Size Thinking
+
+- **Enhanced Understanding**: Provides a clearer understanding of the impact of findings.
+
+- **Improved Decision Making**: Helps in making informed decisions based on the magnitude of effects.
+
+- **Facilitates Meta-Analysis**: Easier to synthesize and compare results across multiple studies.
+
+---
+
+## Conclusion
+Effect size thinking is crucial for understanding and communicating the importance of scientific findings. 
+
+It goes beyond statistical significance and offers a deeper insight into the practical implications of research results.
+
+---
+
+## References
+
+Catford et al. 2022. Addressing context dependence in ecology. Trends in Ecology & Evolution 37, 158–170.
+
+Nakagawa & Cuthill 2007. Effect size, confidence interval and statistical significance: a practical guide for biologists. Biological Reviews 82, 591–605.
+
+Nakagawa & Schielzeth 2013. A general and simple method for obtaining R2 from generalized linear mixed-effects models. Methods in Ecology and Evolution 4, 133–142. 
+
+
+## Questions and coding
+
+![](img/Laptop_duck.webp)
