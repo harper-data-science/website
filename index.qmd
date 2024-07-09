@@ -10,17 +10,27 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-06-12 (Meeting #153) Effect size: Why you should care (Ed)
 
-2024-06-19 (Meeting #154) Blueberry computer vision (Matt B)
 
-2024-06-26 (Meeting #155) Github branch and merge! (Claire P and Megan L)
+
+2024-07-17 no meeting
+2024-07-24 no meeting
+2024-07-31 no meeting
+2024-08-01 TBA
+
+
 
 <br>
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-06-12 (Meeting #153) Effect size: Why you should care (Ed)** ::: [sides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-06-12-es-thinking/es_thinking.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-07-10 (Meeting #156) Coding "Puzzle Day" activity (Ed H)** ::: [sides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-06-12-es-thinking/es_thinking.html)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/IdM_SsSk4K8) **2024-06-26 (Meeting #155) Github branch and merge! (Claire P and Megan L)** 
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/SBsOA9Y53sc) **2024-06-19 (Meeting #154) Blueberry computer vision (Matt B)** 
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/03z6sXd1ivU) **2024-06-12 (Meeting #153) Effect size: Why you should care (Ed)** ::: [sides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-06-12-es-thinking/es_thinking.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/qdGFS_sLt30) **2024-05-22 (Meeting #152) Wasps, Figs and Logistic Regression.  Oh My! (Sotiria)** ::: [background report](pages/2024-05-22-Sotiria/Australia document report.docx)
 
