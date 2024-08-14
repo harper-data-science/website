@@ -20,7 +20,7 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-08-14 (Meeting #157) On the assumption of "normality" (Ed H)** ::: [script](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-08-14-residuals/resid.R) ::: [data](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-08-14-residuals/resid.xlsx)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-08-14 (Meeting #157) On the assumption of "normality" (Ed H)** ::: [script](https://raw.githubusercontent.com/harper-data-science/website/main/docs/pages/2024-08-14-residuals/resid.R) ::: [data](https://raw.githubusercontent.com/harper-data-science/website/main/docs/pages/2024-08-14-residuals/resid.xlsx)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-07-10 (Meeting #156) Coding "Puzzle Day" activity (Ed H)** ::: [slides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-06-12-es-thinking/es_thinking.html)
 
