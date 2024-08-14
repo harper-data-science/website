@@ -88,7 +88,8 @@
     "about.html": "3cfd020d"
   },
   "pages/2024-03-27-RSB09/RSB09.qmd": {
-    "RSB09.html": "d3070c12"
+    "RSB09.html": "d3070c12",
+    "RSB09.pptx": "2eb54aaa"
   },
   "pages/2024-04-10-RSB11/RSB11.qmd": {
     "RSB11.pptx": "1f9285bb",
@@ -111,5 +112,8 @@
   },
   "pages/2024-06-12-es-thinking/es_thinking.qmd": {
     "es_thinking.html": "dd29de17"
+  },
+  "pages/2024-08-14 residuals/resid.qmd": {
+    "resid.html": "1b5e1310"
   }
 }

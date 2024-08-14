@@ -10,19 +10,19 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-07-17 no meeting
+2024-08-21 (Meeting #158) Practical Random Forest analysis (Ed H)
 
-2024-07-24 no meeting
+2024-08-28 Volunteer needed
 
-2024-07-31 no meeting
-
-2024-08-01 TBA
+2024-09-04 Volunteer needed (omg it is September)
 
 <br>
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-07-10 (Meeting #156) Coding "Puzzle Day" activity (Ed H)** ::: [sides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-06-12-es-thinking/es_thinking.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-08-14 (Meeting #157) On the assumption of "normality" (Ed H)** ::: [script](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-08-14-residuals/resid.R) ::: [data](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-08-14-residuals/resid.xlsx)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-07-10 (Meeting #156) Coding "Puzzle Day" activity (Ed H)** ::: [slides](https://htmlpreview.github.io/?https://github.com/harper-data-science/website/blob/main/docs/pages/2024-06-12-es-thinking/es_thinking.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/IdM_SsSk4K8) **2024-06-26 (Meeting #155) Github branch and merge! (Claire P and Megan L)** 
 
