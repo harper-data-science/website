@@ -18,7 +18,7 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-08-21 (Meeting #158) Practical Random Forest analysis (Ed H)** :::  [slides](https://raw.githubusercontent.com/harper-data-science/website/main/docs/pages/2024-08-21-RF/RF.pptx) ::: [tutorial](pages/2024-08-21-RF/RF.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-08-21 (Meeting #158) Practical Random Forest analysis (Ed H)** :::  [slides](pages/2024-08-21-RF/RF.pptx) ::: [tutorial](pages/2024-08-21-RF/RF.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/AQxkGruLAoc) **2024-08-14 (Meeting #157) On the assumption of "normality" (Ed H)** ::: [script](https://raw.githubusercontent.com/harper-data-science/website/main/docs/pages/2024-08-14-residuals/resid.R) ::: [data](https://raw.githubusercontent.com/harper-data-science/website/main/docs/pages/2024-08-14-residuals/resid.xlsx)
 
