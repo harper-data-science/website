@@ -1,0 +1,158 @@
+---
+title: "Random forest"
+format: live-html
+---
+
+This is a short tutorial demonstrating the basic use of Random Forests (RF).
+
+Keywords: `Random Forests`, `Machine Learning`, `Statistics`
+
+## Objectives
+
+- Demonstrate a typical use case for RF
+- Evaluate outputs of RF
+- Visualisations
+
+## Further reading
+- Breiman, L., 2001. Random Forests. Machine Learning 45, 5–32. https://doi.org/10.1023/A:1010933404324
+
+> The original academic paper describing RF
+
+- Genuer, R., Poggi, J.-M., Tuleau-Malot, C., 2010. Variable selection using random forests. Pattern Recognition Letters 31, 2225–2236. https://doi.org/10.1016/j.patrec.2010.03.014
+
+> A practical article talking about using RF to objectively select a subset of columns from a big dataset for further analysis (in R)
+
+- James, G., Witten, D., Hastie, T., Tibshirani, R., 2021. An Introduction to Statistical Learning: with Applications in R, 2nd ed. 2021 edition. ed. Springer, New York, NY.
+
+> A great practical textbook on machine learning methods - Ch 08 is about RF and related methods
+
+## Why use Random Forests?
+
+- There are two principle uses of RF, **describing** a large dataset, or **making predictions** from new data trained on a large dataset
+
+- The dependent variable in RF can be either categorical or numeric
+
+- RF is free from the burden of parametric assumptions and is fast and easy to use
+
+- **Dimension reduction** - Once **important variables** are identified, they can be used for further analysis
+
+## A simple RF example for classification
+
+We will use the famous `iris`** dataset to classify iris species based on several morphological measurements (hence, this is a classification application of RF using a categorical dependent variable). 
+
+\*\*Fisher, R. A. (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics, 7, Part II, 179–188. doi:10.1111/j.1469-1809.1936.tb02137.x.
+
+```{webr}
+#| edit: false
+data(iris) # load the data
+head(iris) # print the first few lines of data
+```
+
+We can get an idea of how the morphological variables relate to the species variable graphically.
+
+```{webr}
+# NB you can edit and re-run this code...
+plot(Sepal.Length ~ Sepal.Width, col = Species, data = iris)
+legend(x = "topleft", legend = unique(iris$Species), col = unique(iris$Species), pch = 1)
+```
+
+Let's perform RF and look at some outputs for this dataset.
+
+```{webr}
+library(randomForest)
+
+myrf <-  randomForest(Species ~ ., data = iris)
+print(myrf) # for classification, we get a "confusion matrix"
+
+```
+
+```{webr}
+# variance importance plot
+varImpPlot(myrf)
+```
+
+`Mean Decrease Gini` is a measure used in random forests to indicate how important a particular feature (i.e. predictor variables, independent variables, etc.) is for making accurate predictions. It shows how much the model's accuracy would decrease if that feature were left out, with higher values indicating more important features.
+
+Here, we can see `petal width` and `petal length` are more important than sepal width and length.  Maybe we should look at this graphically compared to our other plot above?
+
+
+```{webr}
+plot(Petal.Length ~ Petal.Width, col = Species, data = iris)
+legend(x = "topleft", legend = unique(iris$Species), col = unique(iris$Species), pch = 1)
+```
+
+A very practical way to look at variable importance here would be, say, if you could only choose two explanatory variables for further analysis, you would definitely choose `petal width` and `petal length`.  For this trivial example where there are only four variables this is not so important, but imagine if you had 100 or more potential explanatory variables...
+
+## Regression example 
+
+```{webr}
+data(mtcars)
+head(mtcars)
+                     
+```
+
+
+```{webr}
+library(visreg)
+
+mylm <- lm(mpg ~ disp + hp + wt, data = mtcars)
+
+par(mfrow = c(1,3))
+plot(mpg ~ disp, mtcars)
+plot(mpg ~ hp, mtcars, main = "Plots of raw data")
+plot(mpg ~ wt, mtcars)
+
+par(mfrow = c(1,3))
+visreg(mylm, "disp")
+visreg(mylm, "hp", main = "Plots of marginal effects")
+visreg(mylm, "wt")
+                     
+```
+
+
+```{webr}
+set.seed(4543)
+rf.fit <- randomForest(mpg ~ ., data=mtcars, ntree=1000,
+                       keep.forest=FALSE, importance=TRUE)
+rf.fit    
+
+```
+
+```{webr}
+varImpPlot(rf.fit)    
+
+```
+
+The **%MSE (Percent Mean Squared Error)** in random forests measures how much a specific feature improves the accuracy of predictions by reducing errors, with higher values indicating more important features. 
+
+**Node purity** indicates how well a feature splits the data within a tree, with higher purity meaning that the splits created by the feature result in more homogeneous groups (e.g., more accurate classifications).
+
+## Refining and using random forests
+
+1. There are a lot of options
+
+**Usage**
+
+randomForest(`x`, `y`=NULL,  `xtest`=NULL, `ytest`=NULL, `ntree`=500,
+             `mtry`=if (!is.null(y) && !is.factor(y))
+             max(floor(ncol(x)/3), 1) else floor(sqrt(ncol(x))),
+             `weights`=NULL,
+             `replace`=TRUE, `classwt`=NULL, `cutoff`, `strata`,
+             `sampsize` = if (replace) nrow(x) else ceiling(.632*nrow(x)),
+             `nodesize` = if (!is.null(y) && !is.factor(y)) 5 else 1,
+             `maxnodes` = NULL,
+             `importance`=FALSE, `localImp`=FALSE, `nPerm`=1,
+             `proximity`, `oob.prox`=proximity,
+             `norm.votes`=TRUE, `do.trace`=FALSE,
+             `keep.forest`=!is.null(y) && is.null(xtest), corr.bias=FALSE,
+             `keep.inbag`=FALSE, ...)
+       
+ Important considerations:
+ 
+ - how many trees do you need?
+ - is `set.seed()` important to you?
+ - should you scale your variables?
+ - should you create new "features" derived from existing variables?
+ - how can you deal with missing values in your data?
+ - should you scale your data?
+ 

@@ -24,12 +24,14 @@ hist(log(data$LivCU))
 
 ## Analysis ####
 # remind of the principle assumptions of linear models... (4 of them)
-lme0 <- lmer(log(LivCU) ~ Farm + Treatment + (1|SheepID),
+lme0 <- lmer(log(LivCU) ~ Farm + Treatment + 
+               (1|SheepID),
              data = data)
+plot(lme0)
+
 summary(lme0)
 anova(lme0)
 
-plot(lme0)
 
 hist(residuals(lme0))
 shapiro.test(residuals(lme0))
@@ -42,7 +44,9 @@ data2$CU2 <- data[136:270,"LivCU"]
 data2$diff <- data2$CU2-data2$CU1
 table(data2$diff < 0)
 
-lm0 <- lm(diff ~ Farm + Treatment, data = data2)
+lm0 <- aov(diff ~ Treatment, data = data2)
+TukeyHSD(lm0)
+
 summary(lm0)
 anova(lm0)
 hist(residuals((lm0)))
