@@ -10,13 +10,17 @@ Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasional
 
 ## The Future
 
-2024-08-28 Volunteer needed
+2024-09-05 (Meeting #160) Beefy tales to astound you (James M)
 
-2024-09-04 Volunteer needed (omg it is September)
+2024-09-12 (Meeting #161) SADIE spatial slugs (Claire P)
+
+2024-09-19 (Meeting #162) Founders meeting for Coder Dojo Telford Station Quarter in-person (Ed et al.)
 
 <br>
 
 ## Meeting topics
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-08-29 (Meeting #159) Positron versus RStudio! (Megan L)** :::  [zip](pages/2024-08-29-positron/slides_test.zip) ::: [Positron install link](https://github.com/posit-dev/positron/releases)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-08-21 (Meeting #158) Practical Random Forest analysis (Ed H)** :::  [slides](pages/2024-08-21-RF/RF.pptx) ::: [tutorial](pages/2024-08-21-RF/RF.html)
 
