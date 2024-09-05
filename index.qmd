@@ -4,25 +4,30 @@ title: "Schedule"
 
 ![](img/harug_2024_tp.png){width="125"} ![](img/hap-e-hex.png){width="125"}
 
-Our current meeting schedule Wednesdays at 4pm UK time via Teams, and occasionally in person. [Join our Slack channel and introduce yourself](https://join.slack.com/t/ha-eda-party/shared_invite/zt-w19od3dz-6bjo~dTC_GQeSUUv3B8XzQ) for more information and to participate (please join with your full real name, e.g. "Florence Nightingale".
+Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionally in person. [Join our Slack channel and introduce yourself](https://join.slack.com/t/ha-eda-party/shared_invite/zt-w19od3dz-6bjo~dTC_GQeSUUv3B8XzQ) for more information and to participate (please join with your full real name, e.g. "Florence Nightingale".
 
 ------------------------------------------------------------------------
 
 ## The Future
 
-2024-09-05 (Meeting #160) Beefy tales to astound you (James M)
-
 2024-09-12 (Meeting #161) SADIE spatial slugs (Claire P)
 
-2024-09-19 (Meeting #162) Founders meeting for Coder Dojo Telford Station Quarter in-person (Ed et al.)
+2024-09-19 (Meeting #162) Founders meeting for Coder Dojo Telford Station Quarter in-person (*4:30 start, Ed et al.)
+
+2024-09-26 (Meeting #163) TBA (volunteer welcome)
+
 
 <br>
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-08-29 (Meeting #159) Positron versus RStudio! (Megan L)** :::  [zip](pages/2024-08-29-positron/slides_test.zip) ::: [Positron install link](https://github.com/posit-dev/positron/releases)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-08-21 (Meeting #158) Practical Random Forest analysis (Ed H)** :::  [slides](pages/2024-08-21-RF/RF.pptx) ::: [tutorial](pages/2024-08-21-RF/RF.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/u63vbi7NI4Y) **2024-09-05 (Meeting #160) Beefy tales to astound you (James M)** 
+
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/u63vbi7NI4Y) **2024-08-29 (Meeting #159) Positron versus RStudio! (Megan L)** :::  [zip](pages/2024-08-29-positron/slides_test.zip) ::: [Positron install link](https://github.com/posit-dev/positron/releases)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ffqUvuV58vI) **2024-08-21 (Meeting #158) Practical Random Forest analysis (Ed H)** :::  [slides](pages/2024-08-21-RF/RF.pptx) ::: [tutorial](pages/2024-08-21-RF/RF.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/AQxkGruLAoc) **2024-08-14 (Meeting #157) On the assumption of "normality" (Ed H)** ::: [script](https://raw.githubusercontent.com/harper-data-science/website/main/docs/pages/2024-08-14-residuals/resid.R) ::: [data](https://raw.githubusercontent.com/harper-data-science/website/main/docs/pages/2024-08-14-residuals/resid.xlsx)
 
