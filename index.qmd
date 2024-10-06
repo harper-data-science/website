@@ -11,19 +11,25 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 ## The Future
 
 
-2024-10-03 (Meeting #165) TBA (volunteer welcome)
+2024-10-10 (Meeting #165) TBA (volunteer welcome)
 
-2024-10-10 (Meeting #166) TBA (volunteer welcome)
+2024-10-17 (Meeting #166) TBA (volunteer welcome)
+
+2024-10-24 (Meeting #167) TBA (volunteer welcome)
+
+2024-10-31 (Meeting #168) TBA Something seasonal? (volunteer welcome)
 
 <br>
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-09-26 (Meeting #164) Great tables with {gt} in R (Ed H) + feedback on our Coder Dojo at Station Quarter** ::: [code files]()
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KFKUXiNFZ50) **2024-10-03 (Meeting #164) Modelling enteric methane emissions in UK dairy herds – milking the farm data (Tom C)** ::: [slides](pages/2024-10-03-TomC-methane/enteric methane v03_1Oct24.pdf)
+
+![](img/harug_2024_tp.png){width="30" height="35"} **2024-09-26 (Meeting #163) Great tables with {gt} in R (Ed H) + feedback on our Coder Dojo at Station Quarter** ::: [code files](pages/2024-09-26-gt/gt.R)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} **2024-09-19 (Meeting #162) Founders meeting for Coder Dojo Telford Station Quarter in-person (4:30 start, Ed et al.)**
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/VkNMJGpNSRk) **2024-09-12 (Meeting #161) SADIE spatial slugs (Claire P)**
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/VkNMJGpNSRk) **2024-09-12 (Meeting #161) SADIE spatial slugs (Claire P)** ::: [code files](pages/2024-09-12-SADIE/Claire-SADIE.pptx)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Wu6OzwULDj4) **2024-09-05 (Meeting #160) Beefy tales to astound you (James M)**
 
