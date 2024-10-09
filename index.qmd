@@ -11,17 +11,18 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 ## The Future
 
 
-2024-10-10 (Meeting #165) TBA (volunteer welcome)
-
-2024-10-17 (Meeting #166) TBA (volunteer welcome)
+2024-10-17 Exploring the 'esquisse' package for data visulaisation (Megan L)
 
 2024-10-24 (Meeting #167) TBA (volunteer welcome)
 
 2024-10-31 (Meeting #168) TBA Something seasonal? (volunteer welcome)
 
+2024-11-07 (Meeting #169) TBA (volunteer welcome)
+
 <br>
 
 ## Meeting topics
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-10-03 (Meeting #165) Custom Optimization in R: A powerful trick for model fitting (Joseph M)** ::: 
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KFKUXiNFZ50) **2024-10-03 (Meeting #164) Modelling enteric methane emissions in UK dairy herds – milking the farm data (Tom C)** ::: [slides](pages/2024-10-03-TomC-methane/enteric methane v03_1Oct24.pdf)
 
