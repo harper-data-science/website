@@ -22,7 +22,7 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 <br>
 
 ## Meeting topics
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-10-03 (Meeting #165) Custom Optimization in R: A powerful trick for model fitting (Joseph M)**  
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-10-03 (Meeting #165) Custom Optimization in R: A powerful trick for model fitting (Joseph M)** ::: [zip folder](pages/2024-10-10-JM-optim/optimScript.zip)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KFKUXiNFZ50) **2024-10-03 (Meeting #164) Modelling enteric methane emissions in UK dairy herds – milking the farm data (Tom C)** ::: [slides](pages/2024-10-03-TomC-methane/enteric methane v03_1Oct24.pdf)
 
