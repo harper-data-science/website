@@ -10,9 +10,6 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-
-2024-10-17 Exploring the 'esquisse' package for data visulaisation (Megan L)
-
 2024-10-24 (Meeting #167) TBA (volunteer welcome)
 
 2024-10-31 (Meeting #168) TBA Something seasonal? (volunteer welcome)
@@ -22,9 +19,12 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 <br>
 
 ## Meeting topics
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2024-10-03 (Meeting #165) Custom Optimization in R: A powerful trick for model fitting (Joseph M)** ::: [zip folder](pages/2024-10-10-JM-optim/optimScript.zip)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KFKUXiNFZ50) **2024-10-03 (Meeting #164) Modelling enteric methane emissions in UK dairy herds – milking the farm data (Tom C)** ::: [slides](pages/2024-10-03-TomC-methane/enteric methane v03_1Oct24.pdf)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/stream.png){width="25"}]() **2024-10-17 (Meeting #166) Exploring the 'esquisse' package in R for data visualization (Megan L)** ::: [code files](pages/2024-10-17-esquisse.R)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/stream.png){width="25"}](https://liveharperac-my.sharepoint.com/personal/eharris_harper-adams_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Feharris%5Fharper%2Dadams%5Fac%5Fuk%2FDocuments%2FRecordings%2FHARUG%21%20Harper%20Adams%20R%20Users%20Group%20meetings%20Wed%204%2D5pm%2D20241010%5F160555%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebd9203ef%2D04a8%2D48a2%2D879d%2De4c8750d407e) **2024-10-09 (Meeting #165) Custom Optimization in R: A powerful trick for model fitting (Joseph M)** ::: [zip folder](pages/2024-10-10-JM-optim/optimScript.zip)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KFKUXiNFZ50) **2024-10-03 (Meeting #164) Modelling enteric methane emissions in UK dairy herds – milking the farm data (Tom C)** ::: [slides](pages/2024-10-03-TomC-methane/enteric%20methane%20v03_1Oct24.pdf)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} **2024-09-26 (Meeting #163) Great tables with {gt} in R (Ed H) + feedback on our Coder Dojo at Station Quarter** ::: [code files](pages/2024-09-26-gt/gt.R)
 
