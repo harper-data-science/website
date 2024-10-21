@@ -10,7 +10,7 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-2024-10-24 (Meeting #167) TBA (volunteer welcome)
+2024-10-24 (Meeting #167) Building your website on R with Distill package and Netlify (Claire P)
 
 2024-10-31 (Meeting #168) TBA Something seasonal? (volunteer welcome)
 
