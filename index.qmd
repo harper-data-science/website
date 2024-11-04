@@ -11,10 +11,7 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 ## The Future
 
 
-
-2024-10-31 No meeting
-
-2024-11-07 (Meeting #169) R Bootcamp - Session 1: An introduction and script workflow (Megan L)
+2024-11-07 (Meeting #169) R Bootcamp - Session 1: An introduction and script workflow (Megan L) ::: [SLides]("pages/2024-11-07-RB-01-01/bootcamp_2.0.html") ::: [Script]("pages/2024-11-07-RB-01-01/script-1.R") ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/1-setup.html)
 
 2024-11-14 (Meeting #170) R Bootcamp - Session 2: R language (Megan L)
 
