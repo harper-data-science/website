@@ -14,7 +14,7 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 2024-11-28 (Meeting #171) R Bootcamp - Session 4: Data objects (Megan L)
 
-2024 -12-5 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)
+2024-12-05 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)
 
 2024-12-12 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)
 
@@ -23,15 +23,15 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/stream.png){width="25"}]() **2024-11-14 (Meeting #169) R Bootcamp - Session 2: R language (Megan L)**  :::  [Slides]("pages/2024-11-04-RB-01-02/bootcamp_1_2.html") ::: [Script]("pages/2024-11-04-RB-01-02/script-2.R") ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](){width="25"}]() **2024-11-14 (Meeting #169) R Bootcamp - Session 2: R language (Megan L)**  :::  [Slides]("pages/2024-11-04-RB-01-02/bootcamp_1_2.html") ::: [Script]("pages/2024-11-04-RB-01-02/script-2.R") ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/stream.png){width="25"}](https://liveharperac-my.sharepoint.com/personal/eharris_harper-adams_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Feharris%5Fharper%2Dadams%5Fac%5Fuk%2FDocuments%2FRecordings%2FHARUG%21%20Harper%20Adams%20R%20Users%20Group%20meetings%20Wed%204%2D5pm%2D20241107%5F160555%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea062e676%2D58f6%2D4088%2D9a20%2Ddea570bdfc20) **2024-10-24 (Meeting #168) R Bootcamp - Session 1: An introduction to R and script workflow (Megan L)**  :::  [Slides]("pages/2024-11-07-RB-01-01/bootcamp_2.0.html") ::: [Script]("pages/2024-11-07-RB-01-01/script-1.R") ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/1-setup.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/lj5aaQQP-O4) **2024-11-07 (Meeting #168) R Bootcamp - Session 1: An introduction to R and script workflow (Megan L)**  :::  [Slides]("pages/2024-11-07-RB-01-01/bootcamp_2.0.html") ::: [Script]("pages/2024-11-07-RB-01-01/script-1.R") ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/1-setup.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/stream.png){width="25"}](https://liveharperac-my.sharepoint.com/personal/eharris_harper-adams_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Feharris%5Fharper%2Dadams%5Fac%5Fuk%2FDocuments%2FRecordings%2FHARUG%21%20Harper%20Adams%20R%20Users%20Group%20meetings%20Wed%204%2D5pm%2D20241024%5F160602%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7c2c817%2D5128%2D417f%2D94f4%2Dbb3ac41527e4) **2024-10-24 (Meeting #167) Building your website on R with Distill package and Netlify (Claire P)**  :::  [Slides]("pages\2024-10-24-distill-netlify-claire\Basic Explanation of experiment.pptx")
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ldVTLXdsRNs) **2024-10-24 (Meeting #167) Building your website on R with Distill package and Netlify (Claire P)**  :::  [Slides]("pages\2024-10-24-distill-netlify-claire\Basic Explanation of experiment.pptx")
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/stream.png){width="25"}](https://liveharperac-my.sharepoint.com/personal/eharris_harper-adams_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Feharris%5Fharper%2Dadams%5Fac%5Fuk%2FDocuments%2FRecordings%2FHARUG%21%20Harper%20Adams%20R%20Users%20Group%20meetings%20Wed%204%2D5pm%2D20241017%5F160526%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebf6fa86f%2D061b%2D466a%2D880a%2D659d184eb17e) **2024-10-17 (Meeting #166) Exploring the 'esquisse' package in R for data visualization (Megan L)** ::: [Code files](pages/2024-10-17-esquisse/esquisse.R) :::  [Slides](pages/2024-10-17-esquisse/Exploring_esquisse.pptx)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/GkGkUcwzpRM) **2024-10-17 (Meeting #166) Exploring the 'esquisse' package in R for data visualization (Megan L)** ::: [Code files](pages/2024-10-17-esquisse/esquisse.R) :::  [Slides](pages/2024-10-17-esquisse/Exploring_esquisse.pptx)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/stream.png){width="25"}](https://liveharperac-my.sharepoint.com/personal/eharris_harper-adams_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Feharris%5Fharper%2Dadams%5Fac%5Fuk%2FDocuments%2FRecordings%2FHARUG%21%20Harper%20Adams%20R%20Users%20Group%20meetings%20Wed%204%2D5pm%2D20241010%5F160555%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebd9203ef%2D04a8%2D48a2%2D879d%2De4c8750d407e) **2024-10-09 (Meeting #165) Custom Optimization in R: A powerful trick for model fitting (Joseph M)** ::: [zip folder](pages/2024-10-10-JM-optim/optimScript.zip)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Gxfiryr9PcA) **2024-10-10 (Meeting #165) Custom Optimization in R: A powerful trick for model fitting (Joseph M)** ::: [zip folder](pages/2024-10-10-JM-optim/optimScript.zip)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KFKUXiNFZ50) **2024-10-03 (Meeting #164) Modelling enteric methane emissions in UK dairy herds – milking the farm data (Tom C)** ::: [slides](pages/2024-10-03-TomC-methane/enteric%20methane%20v03_1Oct24.pdf)
 
