@@ -23,9 +23,9 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/eGKFS-2-ur4) **2024-11-14 (Meeting #169) R Bootcamp - Session 2: R language (Megan L)**  :::  [Slides]("pages/2024-11-04-RB-01-02/bootcamp_1_2.html") ::: [Script]("pages/2024-11-04-RB-01-02/script-2.R") ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/eGKFS-2-ur4) **2024-11-14 (Meeting #169) R Bootcamp - Session 2: R language (Megan L)**  :::  [Slides]("pages/2024-11-14-RB-01-02/R-Stats-Bootcamp-1-2.pdf") ::: [Script]("pages/2024-11-14-RB-01-02/script-2.R") ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/lj5aaQQP-O4) **2024-11-07 (Meeting #168) R Bootcamp - Session 1: An introduction to R and script workflow (Megan L)**  :::  [Slides]("pages/2024-11-07-RB-01-01/bootcamp_2.0.html") ::: [Script]("pages/2024-11-07-RB-01-01/script-1.R") ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/1-setup.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/lj5aaQQP-O4) **2024-11-07 (Meeting #168) R Bootcamp - Session 1: An introduction to R and script workflow (Megan L)**  :::  [Slides]("pages/2024-11-07-RB-01-01/R-Stats-Bootcamp-1-1.pdf") ::: [Script]("pages/2024-11-07-RB-01-01/script-1.R") ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/1-setup.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ldVTLXdsRNs) **2024-10-24 (Meeting #167) Building your website on R with Distill package and Netlify (Claire P)**  :::  [Slides]("pages\2024-10-24-distill-netlify-claire\Basic Explanation of experiment.pptx")
 
