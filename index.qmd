@@ -10,20 +10,21 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-2024-11-28 (Meeting #171) R Bootcamp - Session 4: Data objects (Megan L)
-
 2024-12-05 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)
 
 2024-12-12 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)
 
 **Christmas break**
 
-<br>
+2025-01-16 (Meeting #174) TBC
 
+<br>
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KmlT75eZDJE) **2024-11-21 (Meeting #170) R Bootcamp - Session 3: R functions (Megan L)**  :::  [Slides](pages/2024-11-21-RB-01-03/RStatsBootcampSlides.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/https://rstats-bootcamp.github.io/website/3-functions.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/oPBah-pqP6Y) **2024-11-28 (Meeting #171) R Bootcamp - Session 4: Data objects (Megan L)**  :::  [Slides](pages/2024-11-28-RB-01-04/R-Stats/Bootcamp-1-4-slides.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/4-data.html)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KmlT75eZDJE) **2024-11-21 (Meeting #170) R Bootcamp - Session 3: R functions (Megan L)**  :::  [Slides](pages/2024-11-21-RB-01-03/RStatsBootcampSlides.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/3-functions.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/eGKFS-2-ur4) **2024-11-14 (Meeting #169) R Bootcamp - Session 2: R language (Megan L)**  :::  [Slides](pages/2024-11-14-RB-01-02/R-Stats-Bootcamp-1-2.pdf) ::: [Script](pages/2024-11-14-RB-01-02/script-2.R) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
 
