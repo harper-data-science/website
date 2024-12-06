@@ -10,9 +10,9 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-2024-12-05 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)
 
-2024-12-12 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)
+2024-12-11 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)   
+**Meeting moved to Wednesday due to calendar clashes.**
 
 **Christmas break**
 
@@ -21,6 +21,8 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 <br>
 
 ## Meeting topics
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8dwn0EC52qU) **2024-12-05 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)**  :::  [Slides](pages/2024-12-05-RB-01-05/R-Stats/Bootcamp-1-5.pdf) ::: [Bootcamp link]()
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/oPBah-pqP6Y) **2024-11-28 (Meeting #171) R Bootcamp - Session 4: Data objects (Megan L)**  :::  [Slides](pages/2024-11-28-RB-01-04/R-Stats/Bootcamp-1-4-slides.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/4-data.html)
 
