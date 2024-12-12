@@ -32,7 +32,7 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 
 ## Meeting topics
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://https://youtu.be/2QQPZdDbki4) **2024-12-05 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)**  :::  [Slides](pages/2024-12-11-RB-01-06/R-Stats-Bootcamp-1-6.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/6-data-manipulation.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/2QQPZdDbki4) **2024-12-05 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)**  :::  [Slides](pages/2024-12-11-RB-01-06/R-Stats-Bootcamp-1-6.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/6-data-manipulation.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8dwn0EC52qU) **2024-12-05 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)**  :::  [Slides](pages/2024-12-05-RB-01-05/R-Stats/Bootcamp-1-5.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/5-data-frames.html)
 
