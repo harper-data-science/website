@@ -10,19 +10,31 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-
-2024-12-11 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)   
-**Meeting moved to Wednesday due to calendar clashes.**
-
 **Christmas break**
 
-2025-01-16 (Meeting #174) TBC
+2025-01-16 (Meeting #174) What do you want from HARUG sessions?
+
+2025-01-23 (Meeting #175) R Stats Bootcamp - Explore data
+
+2025-01-30 (Meeting #176) TBC
+
+2025-02-06 (Meeting #177) R Stats Bootcamp - Distributions
+
+2025-02-13 (Meeting #178) TBC
+
+2025-02-20 (Meeting #179) R Stats Bootcamp - Correlation
+
+2025-02-27 (Meeting #180) TBC
+
+
 
 <br>
 
-## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8dwn0EC52qU) **2024-12-05 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)**  :::  [Slides](pages/2024-12-05-RB-01-05/R-Stats/Bootcamp-1-5.pdf) ::: [Bootcamp link]()
+## Meeting topics
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://https://youtu.be/2QQPZdDbki4) **2024-12-05 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)**  :::  [Slides](pages/2024-12-11-RB-01-06/R-Stats-Bootcamp-1-6.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/6-data-manipulation.html)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8dwn0EC52qU) **2024-12-05 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)**  :::  [Slides](pages/2024-12-05-RB-01-05/R-Stats/Bootcamp-1-5.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/5-data-frames.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/oPBah-pqP6Y) **2024-11-28 (Meeting #171) R Bootcamp - Session 4: Data objects (Megan L)**  :::  [Slides](pages/2024-11-28-RB-01-04/R-Stats/Bootcamp-1-4-slides.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/4-data.html)
 
