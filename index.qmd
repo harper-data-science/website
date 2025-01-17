@@ -10,43 +10,63 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-**Christmas break**
+::::: columns
+::: {.column width="45%"}
+2025-01-23 (Meeting #176) - R Bootcamp Session 7 - Exploring data (Megan L)
 
-2025-01-16 (Meeting #174) What do you want from HARUG sessions?
+2025-01-30 (Meeting #177) - TBC (Volunteer welcome)
 
-2025-01-23 (Meeting #175) R Stats Bootcamp - Explore data
+2025-02-06 (Meeting #178) - R Bootcamp Session 8 - Distributions (Megan L)
 
-2025-01-30 (Meeting #176) TBC
+2025-02-13 (Meeting #179) - TBC (Volunteer welcome)
 
-2025-02-06 (Meeting #177) R Stats Bootcamp - Distributions
+2025-02-20 (Meeting #180) - R Bootcamp Session 9 - Correlation (Megan L)
 
-2025-02-13 (Meeting #178) TBC
+2025-02-27 (Meeting #181) - TBC (Volunteer welcome)
 
-2025-02-20 (Meeting #179) R Stats Bootcamp - Correlation
+2025-03-06 (Meeting #182) - R Bootcamp Session 10 - Regression (Megan L)
+:::
 
-2025-02-27 (Meeting #180) TBC
+::: {.column width="10%"}
 
+:::
 
+::: {.column width="45%"}
+2025-03-13 (Meeting #183) - TBC (Volunteer welcome)
+
+2025-03-20 - No meeting
+
+2025-03-27 (Meeting #184)- R Bootcamp Session 11 - T-test (Megan L)
+
+2025-04-03 (Meeting #185) - TBC (Volunteer welcome)
+
+2025-04-10 (Meeting #186) - R Bootcamp Session 12 - ANOVA (Megan L)
+
+2025-04-17 (Meeting #187) - TBC (Volunteer welcome)
+:::
+:::::
 
 <br>
 
-
 ## Meeting topics
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/2QQPZdDbki4) **2024-12-05 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)**  :::  [Slides](pages/2024-12-11-RB-01-06/R-Stats-Bootcamp-1-6.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/6-data-manipulation.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8dwn0EC52qU) **2024-12-05 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)**  :::  [Slides](pages/2024-12-05-RB-01-05/R-Stats/Bootcamp-1-5.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/5-data-frames.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/iY_AI9J5Fpg) **2025-01-16 (Meeting #174) What do you want from HARUG sessions? (Megan L)** ::: [Slides](pages/2025-01-16-Session-discussion/HARUG-meeting-discussion-2025-01-16.pdf)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/oPBah-pqP6Y) **2024-11-28 (Meeting #171) R Bootcamp - Session 4: Data objects (Megan L)**  :::  [Slides](pages/2024-11-28-RB-01-04/R-Stats/Bootcamp-1-4-slides.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/4-data.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/2QQPZdDbki4) **2024-12-05 (Meeting #173) R Bootcamp - Session 6: Data subsetting (Megan L)** ::: [Slides](pages/2024-12-11-RB-01-06/R-Stats-Bootcamp-1-6.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/6-data-manipulation.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KmlT75eZDJE) **2024-11-21 (Meeting #170) R Bootcamp - Session 3: R functions (Megan L)**  :::  [Slides](pages/2024-11-21-RB-01-03/RStatsBootcampSlides.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/3-functions.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8dwn0EC52qU) **2024-12-05 (Meeting #172) R Bootcamp - Session 5: Data frames (Megan L)** ::: [Slides](pages/2024-12-05-RB-01-05/R-Stats/Bootcamp-1-5.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/5-data-frames.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/eGKFS-2-ur4) **2024-11-14 (Meeting #169) R Bootcamp - Session 2: R language (Megan L)**  :::  [Slides](pages/2024-11-14-RB-01-02/R-Stats-Bootcamp-1-2.pdf) ::: [Script](pages/2024-11-14-RB-01-02/script-2.R) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/oPBah-pqP6Y) **2024-11-28 (Meeting #171) R Bootcamp - Session 4: Data objects (Megan L)** ::: [Slides](pages/2024-11-28-RB-01-04/R-Stats/Bootcamp-1-4-slides.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/4-data.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/lj5aaQQP-O4) **2024-11-07 (Meeting #168) R Bootcamp - Session 1: An introduction to R and script workflow (Megan L)**  :::  [Slides]("pages/2024-11-07-RB-01-01/R-Stats-Bootcamp-1-1.pdf) ::: [Script](pages/2024-11-07-RB-01-01/script-1.R) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/1-setup.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/KmlT75eZDJE) **2024-11-21 (Meeting #170) R Bootcamp - Session 3: R functions (Megan L)** ::: [Slides](pages/2024-11-21-RB-01-03/RStatsBootcampSlides.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/3-functions.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ldVTLXdsRNs) **2024-10-24 (Meeting #167) Building your website on R with Distill package and Netlify (Claire P)**  :::  [Slides](pages\2024-10-24-distill-netlify-claire\Basic-Explanation-of-experiment.pptx)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/eGKFS-2-ur4) **2024-11-14 (Meeting #169) R Bootcamp - Session 2: R language (Megan L)** ::: [Slides](pages/2024-11-14-RB-01-02/R-Stats-Bootcamp-1-2.pdf) ::: [Script](pages/2024-11-14-RB-01-02/script-2.R) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/2-r-lang.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/GkGkUcwzpRM) **2024-10-17 (Meeting #166) Exploring the 'esquisse' package in R for data visualization (Megan L)** ::: [Code files](pages/2024-10-17-esquisse/esquisse.R) :::  [Slides](pages/2024-10-17-esquisse/Exploring_esquisse.pptx)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/lj5aaQQP-O4) **2024-11-07 (Meeting #168) R Bootcamp - Session 1: An introduction to R and script workflow (Megan L)** ::: [Slides](%22pages/2024-11-07-RB-01-01/R-Stats-Bootcamp-1-1.pdf) ::: [Script](pages/2024-11-07-RB-01-01/script-1.R) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/1-setup.html)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ldVTLXdsRNs) **2024-10-24 (Meeting #167) Building your website on R with Distill package and Netlify (Claire P)** ::: [Slides](pages\2024-10-24-distill-netlify-claire\Basic-Explanation-of-experiment.pptx)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/GkGkUcwzpRM) **2024-10-17 (Meeting #166) Exploring the 'esquisse' package in R for data visualization (Megan L)** ::: [Code files](pages/2024-10-17-esquisse/esquisse.R) ::: [Slides](pages/2024-10-17-esquisse/Exploring_esquisse.pptx)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/Gxfiryr9PcA) **2024-10-10 (Meeting #165) Custom Optimization in R: A powerful trick for model fitting (Joseph M)** ::: [zip folder](pages/2024-10-10-JM-optim/optimScript.zip)
 

@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  back-to-top-navigation: true
   favicon: "img/HDS.png"
   title: "Harper Data Science"
   sidebar:
@@ -12,8 +13,10 @@ website:
     contents: 
       - section: "Information"
         contents:
-          - index.qmd
-          - about.qmd
+          - text: "Schedule"
+            href: index.qmd
+          - text: About
+            href: about.qmd
 #      - section: "HARUG!"
 #        contents:
 #         - d20221005.qmd
