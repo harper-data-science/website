@@ -14,7 +14,7 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 ::: {.column width="45%"}
 2025-01-23 (Meeting #176) - R Bootcamp Session 7 - Exploring data (Megan L)
 
-2025-01-30 (Meeting #177) - TBC (Volunteer welcome)
+2025-01-30 (Meeting #177) - Keeping cows clean: An approach to cleaning bovine data (Tom C)
 
 2025-02-06 (Meeting #178) - R Bootcamp Session 8 - Distributions (Megan L)
 
