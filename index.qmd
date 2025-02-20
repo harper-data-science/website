@@ -13,8 +13,6 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 ::::: columns
 ::: {.column width="45%"}
 
-2025-02-13 (Meeting #179) - TBC (Volunteer welcome)
-
 2025-02-20 (Meeting #180) - R Bootcamp Session 9 - Correlation (Megan L)
 
 2025-02-27 (Meeting #181) - TBC (Volunteer welcome)
