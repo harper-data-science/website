@@ -10,33 +10,24 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-::::: columns
-::: {.column width="45%"}
 
-2025-02-27 (Meeting #181) - TBC (Volunteer welcome)
+
+2025-02-27 (Meeting #181) - A quick review of Glmnet for penalizing regression coefficients and selecting important variables (Joseph Mhango)
 
 2025-03-06 (Meeting #182) - R Bootcamp Session 10 - Regression (Megan L)
 
 2025-03-13 (Meeting #183) - TBC (Volunteer welcome)
 
 2025-03-20 - No meeting
-:::
-
-::: {.column width="10%"}
-
-:::
-
-::: {.column width="45%"}
 
 2025-03-27 (Meeting #184)- R Bootcamp Session 11 - T-test (Megan L)
 
-2025-04-03 (Meeting #185) - TBC (Volunteer welcome)
+2025-04-03 (Meeting #185) - TBC (George Wager)
 
 2025-04-10 (Meeting #186) - R Bootcamp Session 12 - ANOVA (Megan L)
 
 2025-04-17 (Meeting #187) - TBC (Volunteer welcome)
-:::
-:::::
+
 
 <br>
 
