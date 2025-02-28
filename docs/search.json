@@ -2152,5 +2152,54 @@
     "title": "R Stats Bootcamp 03",
     "section": "Practice Exercises",
     "text": "Practice Exercises"
+  },
+  {
+    "objectID": "pages/2025-02-27-glmnet-JM/glmnet.html#problems",
+    "href": "pages/2025-02-27-glmnet-JM/glmnet.html#problems",
+    "title": "GLMNET",
+    "section": "Problems",
+    "text": "Problems\n\nYou have more variables than observations e.g. genomic data\nYou have multi-collinearity but don’t know which ones to remove\nYou want to discover possible linear models\nYou want to rank variables based on effect size, not arbitrary numbers"
+  },
+  {
+    "objectID": "pages/2025-02-27-glmnet-JM/glmnet.html#terms",
+    "href": "pages/2025-02-27-glmnet-JM/glmnet.html#terms",
+    "title": "GLMNET",
+    "section": "Terms…",
+    "text": "Terms…\n\nProbability: P(data∣parameters) - Used to predict from a model\nLikelihood: L(parameters∣data) - used to find the best model from data.\nLikelihood is the product of the probabilities of an independent set of events.\nIn Maximum Likelihood Estimation, we maximize the log-likelihood ℓ(θ)\nOptimization techniques are used to quickly find the MLE parameters\nOverfitting Concern: Complex models or limited data can lead to parameter estimates that fit the training data too well, sacrificing generalizability"
+  },
+  {
+    "objectID": "pages/2025-02-27-glmnet-JM/glmnet.html#penalized-maximum-likelihood",
+    "href": "pages/2025-02-27-glmnet-JM/glmnet.html#penalized-maximum-likelihood",
+    "title": "GLMNET",
+    "section": "Penalized Maximum Likelihood",
+    "text": "Penalized Maximum Likelihood\n\nAn extension of the standard maximum likelihood estimation (MLE) framework\nLikelihood Function: In MLE, we maximize the log-likelihood ℓ(θ) for parameters θ given data y\nAddressing overfitting: We add a penalty term P(θ) to the log-likelihood, which imposes a cost on extreme or overly complex parameter values. We can also scale up the penalty by multiplying it with a λ term\nSo our objective becomes tp maximize ℓ(θ)−λP(θ)\nθ is our parameter set. It is what we want to fit"
+  },
+  {
+    "objectID": "pages/2025-02-27-glmnet-JM/glmnet.html#the-penalty-term",
+    "href": "pages/2025-02-27-glmnet-JM/glmnet.html#the-penalty-term",
+    "title": "GLMNET",
+    "section": "The Penalty term",
+    "text": "The Penalty term\n𝐿₂ Penalty\nThe 𝐿₂ penalty adds a term to the model’s loss (or cost) function that is proportional to the sum of the squares of the model’s weights. In regression, this is called “ridge regularization”\nIn least squares regression, the Sum of Squared Errors (SSE) is defined as:\n\\[\n\\text{SSE} = \\sum_{i=1}^{n} \\left(y_i - \\hat{y}_i\\right)^2.\n\\]\nConceptually, when you add an (L2) penalty (ridge regularization), the loss function could become:\n\\[\nJ(\\mathbf{w}) = \\text{SSE} + \\lambda \\sum_{j=1}^{p} w_j^2,\n\\]\nwhere: - w are the weights of the model, lambda is the regularization parameter controlling the strength of the penalty.\nUsually we use the ML function instead of the traditional SSE\nBenefits:\n\nThe penalty term increases the loss for any models with large weights. This encourages the optimization algorithm to keep the weights small.\nThe final model after optimisation will have weights that are less sensitive to the noise in the training data, which typically leads to better generalization on unseen data.\n\nL1 Penalty\nLasso regression (Least Absolute Shrinkage and Selection Operator) is a technique that performs both variable selection and regularization, which enhances the prediction accuracy and interpretability of statistical models.\nObjective Function\nusing MSE as an example, Lasso regression adds an (L1) penalty term to the loss function:\n\\[\nJ(\\mathbf{w}) = \\text{MSE} + \\lambda \\sum_{j=1}^{p} |w_j|,\n\\]\nwhere: |w_j| is the (L1) norm of the coefficients.\nEffects of Lasso\n\nFeature Selection:\nThe (L1) penalty has the property of forcing some coefficients to be exactly zero when lambda is sufficiently large. This effectively selects a subset of the original features, leading to a simpler model.\nModel Complexity:\nA larger lambda enforces stronger regularization, leading to a model with fewer non-zero coefficients, while a smaller lambda keeps the model closer to standard linear regression.\n\nPractical Considerations\n\nStandardization:\nIt is common practice to standardize predictors before applying lasso regression so that the (L1) penalty is applied uniformly across all coefficients."
+  },
+  {
+    "objectID": "pages/2025-02-27-glmnet-JM/glmnet.html#why-do-we-care",
+    "href": "pages/2025-02-27-glmnet-JM/glmnet.html#why-do-we-care",
+    "title": "GLMNET",
+    "section": "Why do we care?",
+    "text": "Why do we care?\nRidge\n\nhelps us find the best set of regression coefficients without overfitting.\nEvery variable will have a coefficient, but the least important variables will have very low coefficients close to Zero\ncan be used to rank our variables\n\nLasso\n\naggressively shrinks unimportant coefficients to Zero and eliminates them from the model entirely\nIf you have loads of variables without theoretical basis for removing some, Lasso will demote them for you\nif you have multicollinearity, lasso will eliminate the redundant variables"
+  },
+  {
+    "objectID": "pages/2025-02-27-glmnet-JM/glmnet.html#what-if-both-lasso-and-ridge-are-attractive",
+    "href": "pages/2025-02-27-glmnet-JM/glmnet.html#what-if-both-lasso-and-ridge-are-attractive",
+    "title": "GLMNET",
+    "section": "What if both Lasso and Ridge are attractive?",
+    "text": "What if both Lasso and Ridge are attractive?\nElastic Net\n\nIt is essentially a hybrid approach that blends the properties of both lasso (L1) and ridge (L2) regularizations.\nIt incorporates both penalties into the loss function, allowing you to balance between feature selection (lasso) and coefficient shrinkage (ridge)\n\n\\[\nJ(\\mathbf{w}) = \\text{MSE} + \\lambda \\left( \\alpha \\sum_{j=1}^{p} |w_j| + \\frac{1 - \\alpha}{2} \\sum_{j=1}^{p} w_j^2 \\right)\n\\]\n\nIt’s essentially the ridge and lasso penalties added together, plus an alpha parameter that determines which of the two penalties is stronger\nYou end up with some variables eliminated, some shrunk towards zero."
+  },
+  {
+    "objectID": "pages/2025-02-27-glmnet-JM/glmnet.html#r-implementation",
+    "href": "pages/2025-02-27-glmnet-JM/glmnet.html#r-implementation",
+    "title": "GLMNET",
+    "section": "R implementation",
+    "text": "R implementation\n\nGlmnet is a package that fits generalized linear and similar models via penalized maximum likelihood.\nYou can essentially have an ElasticNet model and tune lambda and alpha and train your models. An alpha of 1 equals Lasso regression, Alpha of 0 equals Ridge regression, anything in the middle is a proportional mixture of the two\nPersonally, i use the CARET package to fine tune my hyperparameters\n\nData partitioning\nSetup the training parameter space and cross validation settings\nNow train the model\nPredict\nDraw the confmat\nModel\nThe coef_values are your regression coefficients. Some are reduced to 0 and eliminated from the model by Lasso. You can change alpha to 0 and retrain the model to try out ridge regression and see results."
   }
 ]

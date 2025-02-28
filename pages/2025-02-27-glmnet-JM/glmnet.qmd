@@ -126,6 +126,8 @@ $$
 -   Personally, i use the CARET package to fine tune my hyperparameters
 
 ```{r}
+#| eval: false
+#| include: false
 # Load necessary libraries
 library(caret)
 library(glmnet)
@@ -144,6 +146,8 @@ set.seed(123)
 Data partitioning
 
 ```{r}
+#| eval: false
+#| include: false
 # Partition the data into training (80%) and testing (20%) sets
 trainIndex <- createDataPartition(data$yvar, p = 0.8, list = FALSE)
 trainData <- data[trainIndex, ]
@@ -154,6 +158,8 @@ testData  <- data[-trainIndex, ]
 Setup the training parameter space and cross validation settings
 
 ```{r}
+#| eval: false
+#| include: false
 # Define cross-validation method (10-fold CV)
 trainControlObj <- trainControl(method = "cv", number = 10)
 
@@ -166,6 +172,8 @@ ridgeGrid <- expand.grid(alpha = 1,
 Now train the model
 
 ```{r}
+#| eval: false
+#| include: false
 # Train the ridge regression model using caret's train() function with the 'glmnet' method
 set.seed(123)
 ridgeModel <- train(yvar ~ ., 
@@ -182,6 +190,8 @@ print(ridgeModel)
 Predict
 
 ```{r}
+#| eval: false
+#| include: false
 
 # Make predictions on the test set
 predictions <- predict(ridgeModel, newdata = testData)
@@ -191,6 +201,8 @@ confusionMatrix(predictions,testData$yvar)
 Draw the confmat
 
 ```{r}
+#| eval: false
+#| include: false
 # Load necessary libraries
 library(caret)
 library(ggplot2)
@@ -219,12 +231,16 @@ ggplot(cm_df, aes(x = Prediction, y = Reference, fill = Freq)) +
 ```
 
 ```{r}
+#| eval: false
+#| include: false
 varImp(ridgeModel)
 ```
 
 Model
 
 ```{r}
+#| eval: false
+#| include: false
 # Extract the coefficients for the best lambda value selected during training
 best_lambda <- ridgeModel$bestTune$lambda
 coef_values <- coef(ridgeModel$finalModel, s = best_lambda)
