@@ -439,13 +439,20 @@ J(\mathbf{w}) = \text{MSE} + \lambda \left( \alpha \sum_{j=1}^{p} |w_j| + \frac{
 <li>You can essentially have an ElasticNet model and tune lambda and alpha and train your models. An alpha of 1 equals Lasso regression, Alpha of 0 equals Ridge regression, anything in the middle is a proportional mixture of the two</li>
 <li>Personally, i use the CARET package to fine tune my hyperparameters</li>
 </ul>
-<p>Data partitioning</p>
-<p>Setup the training parameter space and cross validation settings</p>
-<p>Now train the model</p>
-<p>Predict</p>
-<p>Draw the confmat</p>
-<p>Model</p>
-<p>The coef_values are your regression coefficients. Some are reduced to 0 and eliminated from the model by Lasso. You can change alpha to 0 and retrain the model to try out ridge regression and see results.</p>
+</section>
+<section id="steps" class="title-slide slide level1 center">
+<h1>Steps</h1>
+<ul>
+<li>Data partitioning</li>
+<li>Setup the training parameter space and cross validation settings</li>
+<li>Now train the model</li>
+<li>Predict</li>
+<li>Draw the confmat</li>
+<li>Model
+<ul>
+<li>The coef_values are your regression coefficients. Some are reduced to 0 and eliminated from the model by Lasso. You can change alpha to 0 and retrain the model to try out ridge regression and see results.</li>
+</ul></li>
+</ul>
 
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
@@ -663,82 +670,6 @@ J(\mathbf{w}) = \text{MSE} + \lambda \left( \alpha \sum_{j=1}^{p} |w_j| + \frac{
         ]
       });
     </script>
-    
-
-    <script>
-
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-
-      // slide changes (different for each slide format).
-
-      (function () {
-
-        // dispatch for htmlwidgets
-
-        function fireSlideEnter() {
-
-          const event = window.document.createEvent("Event");
-
-          event.initEvent("slideenter", true, true);
-
-          window.document.dispatchEvent(event);
-
-        }
-
-    
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-
-          fireSlideEnter();
-
-    
-
-          // dispatch for shiny
-
-          if (window.jQuery) {
-
-            if (previousSlide) {
-
-              window.jQuery(previousSlide).trigger("hidden");
-
-            }
-
-            if (currentSlide) {
-
-              window.jQuery(currentSlide).trigger("shown");
-
-            }
-
-          }
-
-        }
-
-    
-
-        // hookup for slidy
-
-        if (window.w3c_slidy) {
-
-          window.w3c_slidy.add_observer(function (slide_num) {
-
-            // slide_num starts at position 1
-
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-
-          });
-
-        }
-
-    
-
-      })();
-
-    </script>
-
-    
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
