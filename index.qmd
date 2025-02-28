@@ -10,10 +10,6 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-
-
-2025-02-27 (Meeting #181) - A quick review of Glmnet for penalizing regression coefficients and selecting important variables (Joseph Mhango)
-
 2025-03-06 (Meeting #182) - R Bootcamp Session 10 - Regression (Megan L)
 
 2025-03-13 (Meeting #183) - TBC (Volunteer welcome)
@@ -32,6 +28,8 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 <br>
 
 ## Meeting topics
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/e33iQNTpK0I) **2025-02-27 (Meeting #181) - A quick review of `glmnet` for penalizing regression coefficients and selecting important variables (Joseph Mhango)** ::: [Code](pages/2025-02-27-glmnet-JM/glmnet.qmd) 
+
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/nBlpAWnkcMg) **2025-02-20 (Meeting #180) - R Bootcamp Session 9 - Correlation (Megan L)** ::: [Slides](pages/2025-02-20-RB-02-09/R-Stats-Bootcamp-2-9.pdf) :::[Bootcamp link](https://rstats-bootcamp.github.io/website/9-correlation.html) 
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/1-QBUTVcsGA) **2025-02-06 (Meeting #178) - R Bootcamp Session 8 - Distributions (Megan L)** ::: [Slides](pages/2025-02-06-RB-02-08/R-Stats-Bootcamp-2-8.pdf) :::[Bootcamp link](https://rstats-bootcamp.github.io/website/8-sampling-dist.html)
