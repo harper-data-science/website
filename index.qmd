@@ -10,16 +10,25 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-2025-04-03 (Meeting #184) - A High-Resolution Analysis of Feeding Behaviours: Do Seconds Matter in Understanding Feed Intake Patterns of Beef Heifers? (George Wager)
+2025-04-10 (Meeting #184) - R Bootcamp Session 11 - T-test (Megan L)
 
-2025-04-10 (Meeting #185) - R Bootcamp Session 11 - T-test (Megan L)
+2025-04-17 - No Session - Easter Break
 
-2025-04-17 (Meeting #186) - R Bootcamp Session 12 - ANOVA (Megan L)
+2025-04-24 - No Session Easter Break
 
+2025-05-01 (Meeting #185) - R Bootcamp Session 12 - ANOVA (Megan L)
+
+2025-05-08 (Meeting #186) - TBC (Volunteer Welcome)
+
+2025-05-15 (Meeting #187) - TBC (Volunteer Welcome)
+
+2025-05-22 (Meeting #188) - TBC (Volunteer Welcome)
 
 <br>
 
 ## Meeting topics
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/xCrl6R7JpEU) **2025-04-03 (Meeting #183) A High-Resolution Analysis of Feeding Behaviors: Do Seconds Matter in Understanding Feed Intake Patterns of Beef Heifers? (George Wager)** 
+
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8j-BLslPQvw) **2025-03-13 (Meeting #182) - R Bootcamp Session 10 - Regression (Megan L)** ::: [Slides](pages/2025-03-13/R-Stats-Bootcamp-2-10.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/10-regression.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/e33iQNTpK0I) **2025-02-27 (Meeting #181) - A quick review of `glmnet` for penalizing regression coefficients and selecting important variables (Joseph Mhango)** ::: [Slides](pages/2025-02-27-glmnet-JM/slides_GLMNET.pdf) ::: [Code](pages/2025-02-27-glmnet-JM/script.R)
