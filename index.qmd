@@ -10,8 +10,6 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-2025-04-10 (Meeting #184) - R Bootcamp Session 11 - T-test (Megan L)
-
 2025-04-17 - No Session - Easter Break
 
 2025-04-24 - No Session Easter Break
@@ -24,20 +22,25 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 2025-05-22 (Meeting #188) - TBC (Volunteer Welcome)
 
-<br>
+
+> Got an idea of a session? Want to volunteer? Let us know [here](https://form.jotform.com/242942247406053) or [email Megan](mailto:mjlewis@harper-adams.ac.uk?subject=HARUG%20session%20idea)
+
 
 ## Meeting topics
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/xCrl6R7JpEU) **2025-04-03 (Meeting #183) A High-Resolution Analysis of Feeding Behaviors: Do Seconds Matter in Understanding Feed Intake Patterns of Beef Heifers? (George Wager)** 
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8j-BLslPQvw) **2025-03-13 (Meeting #182) - R Bootcamp Session 10 - Regression (Megan L)** ::: [Slides](pages/2025-03-13/R-Stats-Bootcamp-2-10.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/10-regression.html)
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/QFnIReBBy1U) **2025-04-10 (Meeting #184) - R Bootcamp Session 11 - T-test (Megan L)** ::: [Slides](pages/2025-04-10-RB-02-11/R_Stats_Bootcamp_11.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/11-t-test.html)
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/xCrl6R7JpEU) **2025-04-03 (Meeting #183) A High-Resolution Analysis of Feeding Behaviors: Do Seconds Matter in Understanding Feed Intake Patterns of Beef Heifers? (George Wager)**
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/8j-BLslPQvw) **2025-03-13 (Meeting #182) - R Bootcamp Session 10 - Regression (Megan L)** ::: [Slides](pages/2025-03-13-RB-02-10/R-Stats-Bootcamp-2-10.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/10-regression.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/e33iQNTpK0I) **2025-02-27 (Meeting #181) - A quick review of `glmnet` for penalizing regression coefficients and selecting important variables (Joseph Mhango)** ::: [Slides](pages/2025-02-27-glmnet-JM/slides_GLMNET.pdf) ::: [Code](pages/2025-02-27-glmnet-JM/script.R)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/nBlpAWnkcMg) **2025-02-20 (Meeting #180) - R Bootcamp Session 9 - Correlation (Megan L)** ::: [Slides](pages/2025-02-20-RB-02-09/R-Stats-Bootcamp-2-9.pdf) :::[Bootcamp link](https://rstats-bootcamp.github.io/website/9-correlation.html) 
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/nBlpAWnkcMg) **2025-02-20 (Meeting #180) - R Bootcamp Session 9 - Correlation (Megan L)** ::: [Slides](pages/2025-02-20-RB-02-09/R-Stats-Bootcamp-2-9.pdf) :::[Bootcamp link](https://rstats-bootcamp.github.io/website/9-correlation.html)
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/1-QBUTVcsGA) **2025-02-06 (Meeting #178) - R Bootcamp Session 8 - Distributions (Megan L)** ::: [Slides](pages/2025-02-06-RB-02-08/R-Stats-Bootcamp-2-8.pdf) :::[Bootcamp link](https://rstats-bootcamp.github.io/website/8-sampling-dist.html)
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/5x-s4c0jSNs) **2025-01-30 (Meeting #177) - Keeping cows clean: An approach to cleaning bovine data (Tom C)** 
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/5x-s4c0jSNs) **2025-01-30 (Meeting #177) - Keeping cows clean: An approach to cleaning bovine data (Tom C)**
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ha2VsUTpzeY) **2025-01-23 (Meeting #176) - R Bootcamp Session 7 - Exploring data (Megan L)** ::: [Slides](pages/2025-01-23-R_Stats_Bootcamp_2_7.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/7-question-explore.html)
 
