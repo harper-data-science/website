@@ -10,23 +10,21 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-2025-04-17 - No Session - Easter Break
-
-2025-04-24 - No Session Easter Break
-
-2025-05-01 (Meeting #185) - R Bootcamp Session 12 - ANOVA (Megan L)
-
-2025-05-08 (Meeting #186) - TBC (Volunteer Welcome)
+2025-05-08 (Meeting #186) - Getting organised with R Projects: From Lost Scripts to Reproducible Projects (Megan L)
 
 2025-05-15 (Meeting #187) - TBC (Volunteer Welcome)
 
 2025-05-22 (Meeting #188) - TBC (Volunteer Welcome)
+
+2025-05-29 (Meeting #189) - TBC (Volunteer Welcome)
 
 
 > Got an idea of a session? Want to volunteer? Let us know [here](https://form.jotform.com/242942247406053) or [email Megan](mailto:mjlewis@harper-adams.ac.uk?subject=HARUG%20session%20idea)
 
 
 ## Meeting topics
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/OqG2VeEkJDg) **2025-05-01 (Meeting #185) - R Bootcamp Session 12 - ANOVA (Megan L)** ::: [Slides](pages/2025-05-01-RB-02-12/R_Stats_Bootcamp_12.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/12-1-way-anova.html) 
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/QFnIReBBy1U) **2025-04-10 (Meeting #184) - R Bootcamp Session 11 - T-test (Megan L)** ::: [Slides](pages/2025-04-10-RB-02-11/R_Stats_Bootcamp_11.pdf) ::: [Bootcamp link](https://rstats-bootcamp.github.io/website/11-t-test.html)
 
