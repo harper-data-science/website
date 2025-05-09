@@ -12,9 +12,9 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 2025-05-15 (Meeting #187) - R Markdown Walked so Quarto Could Fly: What Quarto Can Do That R Markdown Can't (*And when it matters*) (Megan L)
 
-2025-05-22 (Meeting #188) - TBC (Joseph M)
+2025-05-22 (Meeting #188) - Decoding Common Errors and Fixing Code Issues (Joseph M)
 
-2025-05-29 (Meeting #189) - TBC (Megan L)
+2025-05-29 (Meeting #189) - Tidying Data in the Tidyverse (Megan L)
 
 2025-06-05 (Meeting #190) - TBC (Joseph M)
 
