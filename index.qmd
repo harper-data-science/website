@@ -10,7 +10,6 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-2025-05-15 (Meeting #187) - R Markdown Walked so Quarto Could Fly: What Quarto Can Do That R Markdown Can't (*And when it matters*) (Megan L)
 
 2025-05-22 (Meeting #188) - Decoding Common Errors and Fixing Code Issues (Joseph M)
 
@@ -27,6 +26,8 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 
 ## Meeting topics
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}]() **2025-05-15 (Meeting #187) - R Markdown Walked so Quarto Could Fly: What Quarto Can Do That R Markdown Can't (*And when it matters*) (Megan L)** ::: [Slides]() 
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/xfqX9yqGwRY) **2025-05-08 (Meeting #186) - Getting organised with R Projects: From Lost Scripts to Reproducible Projects (Megan L)** ::: [Slides](pages/2025-05-08-R-Projects/Getting_Organised_with_R_Projects.pdf) ::: [R Project Posit Documentation](https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects)
 
