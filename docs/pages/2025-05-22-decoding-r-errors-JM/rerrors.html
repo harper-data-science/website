@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>R Errors – Dark Mode Edition</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Reveal core & DARK theme -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css" id="theme">
+
+
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/monokai.min.css">
+
+<style>
+
+pre   { font-size: 0.75em; line-height: 1.3; }
+code  { font-size: 0.8em; white-space: pre-wrap; }
+.reveal pre code { max-height: 60vh; overflow-y: auto; }
+.reveal .scroll  { max-height: 65vh; overflow-y: auto; }
+svg text         { fill: #fff; font-family: inherit; font-size: 14px; }
+</style>
+</head>
+
+<body>
+<div class="reveal"><div class="slides">
+
+<!-- ───── TITLE ───── -->
+<section>
+  <h1>Common R Errors<br>&amp; Model-Fitting Pitfalls</h1>
+  <p><small>K.J. Mhango | HARUG © 2025</small></p>
+</section>
+
+<!-- AGENDA -->
+<section>
+  <h2>Agenda</h2>
+  <ol>
+    <li class="fragment">Top-10 everyday R errors (from the net)</li>
+    <li class="fragment">OLS intuition: why invertibility matters</li>
+    <li class="fragment">Errors in <code>lm</code>, <code>aov</code>, <code>lmer</code>, <code>lme</code></li>
+    <li class="fragment">Rank deficiency &amp; dummy-variable trap</li>
+    <li class="fragment">Multicollinearity &amp; numerical instability</li>
+    <li class="fragment">Over-parameterisation &amp; separation</li>
+    <li class="fragment">Debugging toolbox (<code>traceback</code>, <code>browser</code>, <code>rlang</code>)</li>
+  </ol>
+</section>
+
+<!-- ═════════ 1 TOP-10 ERRORS ═════════ -->
+<section><h2>1 Top-10 Everyday R Errors</h2>
+<p><small>(Blog source at the end)</small></p></section>
+
+
+<section>
+  <h3>#1 Unmatched brackets / quotes</h3>
+
+<pre><code class="language-r">mean(c(1, 7, 13          # ← missing ')'
+</code></pre>
+
+<pre><code>Error: unexpected end of input
+</code></pre>
+
+<pre class="fragment"><code class="language-r">mean(c(1, 7, 13))        # ✓ fixed
+</code></pre>
+</section>
+
+<section>
+  <h3>#2 Package / function not loaded</h3>
+
+<pre><code class="language-r">ggplot(mtcars)            # not yet loaded
+</code></pre>
+
+<pre><code>Error in ggplot(mtcars) : could not find function "ggplot"
+</code></pre>
+
+<pre class="fragment"><code class="language-r">install.packages("ggplot2"); library(ggplot2)
+ggplot(mtcars) + geom_point(aes(mpg, wt))
+</code></pre>
+</section>
+
+<section>
+  <h3>#3 Typos in object names</h3>
+
+<pre><code class="language-r">sumary(cars)              # oops
+</code></pre>
+
+<pre><code>Error in sumary(cars) : could not find function "sumary"
+</code></pre>
+
+<pre class="fragment"><code class="language-r">summary(cars)             # ✓
+</code></pre>
+</section>
+
+<section>
+  <h3>#4 Missing / misspelled arguments</h3>
+
+<pre><code class="language-r">seq(1, 10, lngth = 2)
+</code></pre>
+
+<pre><code>Error in seq.default(1, 10, lngth = 2) : 
+  unused argument (lngth = 2)
+</code></pre>
+
+<pre class="fragment"><code class="language-r">seq(1, 10, length = 2)    # ✓
+</code></pre>
+</section>
+
+<section>
+  <h3>#5 Wrong data type (factor ↔ numeric)</h3>
+
+<pre><code class="language-r">x <- factor(1:3)
+mean(x)
+</code></pre>
+
+<pre><code>Warning in mean.default(x) : argument is not numeric or logical: returning NA
+[1] NA
+</code></pre>
+
+<pre class="fragment"><code class="language-r">mean(as.numeric(as.character(x)))   # ✓
+</code></pre>
+</section>
+
+<section>
+  <h3>#6 Forgot <code>+</code> in ggplot2</h3>
+
+<pre><code class="language-r">ggplot(mtcars, aes(mpg, wt))
+geom_point()
+</code></pre>
+
+<pre><code>Error: object 'geom_point' not found
+</code></pre>
+
+<pre class="fragment"><code class="language-r">ggplot(mtcars, aes(mpg, wt)) +
+  geom_point()
+</code></pre>
+</section>
+
+<section>
+  <h3>#7 Confusing <code>=</code> with <code>==</code></h3>
+
+<pre><code class="language-r">if(x = 5) "hi"
+</code></pre>
+
+<pre><code>Error: unexpected '=' in "if(x ="
+</code></pre>
+
+<pre class="fragment"><code class="language-r">if(x == 5) "hi"            # ✓
+</code></pre>
+</section>
+
+<section>
+  <h3>#8 “Undefined columns selected”</h3>
+
+<pre><code class="language-r">mtcars[, "mpgX"]
+</code></pre>
+
+<pre><code>Error in `[.data.frame`(mtcars, , "mpgX") : 
+  undefined columns selected
+</code></pre>
+
+<pre class="fragment"><code class="language-r">mtcars[, "mpg"]            # ✓
+</code></pre>
+</section>
+
+<section>
+  <h3>#9 File not found / bad path</h3>
+
+<pre><code class="language-r">read.csv("data/myfile.csv")
+</code></pre>
+
+<pre><code>Error in file(file, "rt") : cannot open the connection
+In addition: Warning message:
+In file(file, "rt") :
+  cannot open file 'data/myfile.csv': No such file or directory
+</code></pre>
+
+<pre class="fragment"><code class="language-r">read.csv(file.choose())    # ✓
+</code></pre>
+</section>
+
+<section>
+  <h3>#10 Misusing <code>$</code> on atomic vectors</h3>
+
+<pre><code class="language-r">v <- 1:10
+v$foo
+</code></pre>
+
+<pre><code>Error in v$foo : $ operator is invalid for atomic vectors
+</code></pre>
+
+<pre class="fragment"><code class="language-r">list(foo = v)$foo          # ✓
+</code></pre>
+</section>
+
+<!-- ═════════ 2 OLS INTUITION ═════════ -->
+<section><h2>2 OLS Intuition<br><small>Why invertibility matters</small></h2></section>
+
+<section>
+  <h3>Visual road-map of β̂ = (X′X)⁻¹X′y</h3>
+  
+  <svg width="760" height="380" viewBox="0 0 760 380">
+    <rect x="40"  y="80" width="140" height="140" fill="#333" stroke="#fff"/>
+    <text x="110" y="160" text-anchor="middle">X (n×p)</text>
+    <text x="200" y="150" font-size="32">′</text>
+    <text x="230" y="160" font-size="32">×</text>
+    <rect x="270" y="80" width="140" height="140" fill="#333" stroke="#fff"/>
+    <text x="340" y="160" text-anchor="middle">X</text>
+    <text x="430" y="160" font-size="32">=</text>
+    <rect x="480" y="80" width="140" height="140" fill="#004b6e" stroke="#fff"/>
+    <text x="550" y="154" text-anchor="middle">X′X<br>(p×p)</text>
+    <text x="630" y="150" font-size="32">⁻¹</text>
+    <line x1="150" y1="230" x2="150" y2="260" stroke="#888" stroke-dasharray="4"/>
+    <line x1="340" y1="230" x2="340" y2="260" stroke="#888" stroke-dasharray="4"/>
+    <line x1="550" y1="230" x2="550" y2="260" stroke="#888" stroke-dasharray="4"/>
+    <rect x="40"  y="260" width="140" height="60" fill="#333" stroke="#fff"/>
+    <text x="110" y="297" text-anchor="middle">X′y</text>
+    <text x="230" y="290" font-size="32">→</text>
+    <rect x="270" y="260" width="140" height="60" fill="#004b6e" stroke="#fff"/>
+    <text x="340" y="297" text-anchor="middle">(X′X)⁻¹</text>
+    <text x="430" y="290" font-size="32">×</text>
+    <rect x="480" y="260" width="140" height="60" fill="#333" stroke="#fff"/>
+    <text x="550" y="297" text-anchor="middle">X′y</text>
+    <text x="630" y="290" font-size="32">=</text>
+    <rect x="660" y="260" width="60" height="60" fill="#ffc107" stroke="#fff"/>
+    <text x="690" y="297" text-anchor="middle">β̂</text>
+  </svg>
+</section>
+
+<section>
+  <h3>Invertibility 🔑</h3>
+  <ul>
+    <li>Singular means some columns are  linear combinations of others</li>
+    <li>If <code>X′X</code> is singular (rank &lt; p) → cannot invert → no unique β̂.</li>
+    <li>Causes: perfect collinearity, dummy-variable trap, <em>n &lt; p</em>, etc.</li>
+    <li>R’s <code>lm()</code> cleverly drops redundant columns, but still in left to right order.</li>
+  </ul>
+</section>
+
+<!-- ═════════ 3 MODEL-FIT ERRORS  ═════════ -->
+<section><h2>3 Errors in <code>lm</code>, <code>aov</code>, <code>lmer</code>, <code>lme</code></h2>
+<p><small>Simulated examples &amp; fixes</small></p></section>
+
+
+<section>
+  <h2><code>lm()</code> Error 1 – Singular Fit</h2>
+  <p><strong>Message</strong>: “coefficients not defined because of singularities”</p>
+<pre><code class="language-r">df <- data.frame(
+  y  = rnorm(10),
+  x1 = 1:10,
+  x2 = 51:60,      # collinear with x1
+  x3=31:40
+)
+lm(y ~ x1 + x2+x3, data = df)</code></pre>
+  <p><strong>Fix</strong>: drop redundant predictor</p>
+<pre><code class="language-r">lm(y ~ x1, data = df)</code></pre>
+</section>
+
+<section>
+  <h2><code>lm()</code>  Lengths Differ</h2>
+  <p><strong>Message</strong>: “variable lengths differ”</p>
+<pre><code class="language-r">x <- 1:10
+y <- rnorm(9)
+lm(y ~ x)          # unequal lengths
+
+Error in model.frame.default(formula = y ~ x, drop.unused.levels = TRUE) : 
+  variable lengths differ (found for 'x')
+</code></pre>
+  <p><strong>Fix</strong>: align vector lengths.</p>
+</section>
+
+
+<section>
+  <h2><code>aov()</code> Grouping Factor Has One Level</h2>
+<pre><code class="language-r">df <- subset(PlantGrowth, group == "ctrl")
+aov(weight ~ group, data = df)   # fails
+
+Error in `contrasts<-`(`*tmp*`, value = contr.funs[1 + isOF[nn]]) : 
+  contrasts can be applied only to factors with 2 or more levels
+</code></pre>
+  <p><strong>Fix</strong>: ensure ≥ 2 levels.</p>
+</section>
+
+<section>
+  <h2><code>lmer()</code> Error 1 – One-Level Random Effect</h2>
+  <p><strong>Message</strong>: “number of levels of a grouping factor is 1”</p>
+<pre><code class="language-r">library(lme4)
+df <- data.frame(
+  y = rnorm(10),
+  x = rnorm(10),
+  group = rep("A", 10)
+)
+lmer(y ~ x + (1 | group), data = df)
+
+Error: grouping factors must have > 1 sampled level
+</code></pre>
+  <p><strong>Fix</strong>: add more group levels.</p>
+</section>
+
+<section>
+  <h2><code>lmer()</code> Error 2 – Convergence / NaNs</h2>
+<pre><code class="language-r">df <- sleepstudy
+df$Days <- df$Days * 1000   # poor scaling
+lmer(Reaction ~ Days + (Days | Subject), data = df)
+
+ In checkConv(attr(opt, "derivs"), opt$par, ctrl = control$checkConv,  :
+  Model failed to converge with max|grad| = 3.50551 (tol = 0.002, component 1)
+In checkConv(attr(opt, "derivs"), opt$par, ctrl = control$checkConv,  :
+  Model is nearly unidentifiable: very large eigenvalue
+ - Rescale variables?;Model is nearly unidentifiable: large eigenvalue ratio
+</code></pre>
+  <p><strong>Fix</strong>:</p>
+  <p> scale/center predictors</p>
+  <p>check correlation between random intercept and random slope</p>
+</section>
+
+
+
+<!-- ═════════ 4 RANK DEFICIENCY ═════════ -->
+<section><h2>4 Rank Deficiency &amp; Dummy-Variable Trap</h2></section>
+
+<section>
+  <h3>Perfect collinearity demo</h3>
+<pre><code class="language-r">set.seed(1)
+d <- data.frame(
+  y = rnorm(40),
+  x1 = rnorm(40)
+)
+d$x2 <- d$x1        # duplicate
+lm(y ~ x1 + x2, d)  # x2 dropped (NA coef)
+</code></pre>
+</section>
+
+<section>
+  <h3>Dummy-variable trap</h3>
+<pre><code class="language-r">iris$Species <- factor(iris$Species)
+X.bad <- cbind(1, model.matrix(~ Species + 0, iris))  # intercept + all dummies
+qr(X.bad)$rank  # 3 &lt; 4 ⇒ singular
+</code></pre>
+  <p>Fix by dropping one level (<code>~ Species</code>) or omitting intercept (<code>~ Species + 0</code>).</p>
+</section>
+
+<!-- ═════════ 5 MULTICOLLINEARITY ═════════ -->
+<section><h2>5 Multicollinearity &amp; Numerical Instability</h2></section>
+
+<section>
+  <h3>Longley example</h3>
+<pre><code class="language-r">data(longley)
+m <- lm(Employed ~ ., longley)
+kappa(m)        # ≫ 10^4 : ill-conditioned
+</code></pre>
+  <p>High condition # → unstable estimates.</p>
+</section>
+
+<section>
+  <h3>Floating-point quirks</h3>
+<pre><code class="language-r">(1e16 + 1) - 1e16       # 0
+sqrt(2)^2 - 2           # 4.4e-16
+</code></pre>
+  <ul>
+    <li>Rescale predictors; center &amp; scale.</li>
+    <li>Use ridge / lasso for severe collinearity.</li>
+  </ul>
+</section>
+
+<!-- ═════════ 6 OVER-PARAM ═════════ -->
+<section><h2>6 Over-Parameterisation &amp; Separation</h2></section>
+
+<section>
+<pre><code class="language-r">n <- 5
+df <- as.data.frame(matrix(rnorm(n*7), n))
+names(df) <- c("y", paste0("x",1:6))
+lm(y ~ ., df)  # several NA betas (rank ≤ n)
+</code></pre>
+  <p>Need ≥ observations than parameters.</p>
+</section>
+
+<!-- ═════════ 7 DEBUG TOOLBOX ═════════ -->
+<section><h2>7 Debugging Toolbox</h2></section>
+
+<section>
+  <h3>After an error – <code>traceback()</code></h3>
+<pre><code class="language-r">f <- function(x) {
+  m<-x
+  g(x)
+  }
+
+g <- function(x) {
+  mm=x
+  m2=mm
+  x + 1}
+f("a")              # error
+traceback()         # g → f
+
+ traceback() 
+2: g(x) at #3
+1: f("a")
+</code></pre>
+</section>
+
+<section>
+  <h3>Interactive – <code>browser()</code> / <code>debug()</code></h3>
+<pre><code class="language-r">calc <- function(a,b){
+  browser()         # pause here
+  a/b
+}
+calc(1,0)
+</code></pre>
+  <ul>
+    <li><kbd>n</kbd> next, <kbd>c</kbd> continue, <kbd>Q</kbd> quit.</li>
+  </ul>
+</section>
+
+<section>
+  <h3>Tidyverse trace – <code>rlang</code></h3>
+<pre><code class="language-r">library(dplyr)
+mtcars %>% mutate(z = log(mpgX))  # typo
+rlang::last_error()
+rlang::last_trace()
+</code></pre>
+</section>
+
+<!-- WRAP UP -->
+<section>
+  <h2>Key Take-aways</h2>
+  <ul>
+    <li>Check basics first (Top-10 errors) before deep dives.</li>
+    <li>Invertibility of <code>X′X</code> underpins OLS – watch rank!</li>
+    <li>Debug disciplined: reproduce → traceback → browser.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Resources</h2>
+  <ul>
+    <li>“Top 10 R Errors” – <a href="https://statsandr.com/blog/top-10-errors-in-r/">statsandr.com</a></li>
+    <li><code>?lm</code>, <code>?lmer</code>, <code>?lme</code> docs &amp; vignettes</li>
+    <li><em>R Inferno</em> – P. Burns</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Thanks!</h2>
+  <p>Questions?</p>
+</section>
+
+</div></div><!-- /slides /reveal -->
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/highlight.js"></script>
+<script>
+Reveal.initialize({
+  hash: true,
+  slideNumber: true,
+  plugins: [ RevealHighlight ]
+});
+</script>
+</body>
+</html>

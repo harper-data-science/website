@@ -28,7 +28,7 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## Meeting topics
 
-![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ITo80dIzgp8) **2025-05-22 (Meeting #188) - Decoding Common Errors and Fixing Code Issues (Joseph M)** ::: [](pages/2025-05-22-decoding-r-errors-JM/) 
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ITo80dIzgp8) **2025-05-22 (Meeting #188) - Decoding Common Errors and Fixing Code Issues (Joseph M)** ::: [Slides](pages/2025-05-22-decoding-r-errors-JM/rerrors.html) 
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/2EcbKoyy96o) **2025-05-15 (Meeting #187) - R Markdown Walked so Quarto Could Fly: What Quarto Can Do That R Markdown Can't (*And when it matters*) (Megan L)** ::: [Slides](pages/2025-05-15-quarto-vs-rmarkdown/Markdown_versus_Quarto.pdf) 
 
