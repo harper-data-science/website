@@ -10,21 +10,22 @@ Our current meeting schedule Thursdays at 4pm UK time via Teams, and occasionall
 
 ## The Future
 
-2025-06-05 (Meeting #189) - An introduction to the Tidyverse (Megan L)
+2025-06-19 (Meeting #190) - Piecewise Structural Equation models: A simple introduction (Megan L)
 
-2025-06-12 - NO SESSION
-
-2025-06-19 (Meeting #190) - TBC (Volunteer welcome!)
-
-2025-06-26 - No SESSION
+2025-06-26 - NO SESSION
 
 2025-07-03 (Meeting #191) - TBC (Volunteer welcome!)
 
+2025-07-10 - NO SESSION
+
+2025-07-17 (Meeting #192) - TBC (Volunteer welcome!)
 
 > Got an idea of a session? Want to volunteer? Let us know [here](https://form.jotform.com/242942247406053) or [email Megan](mailto:mjlewis@harper-adams.ac.uk?subject=HARUG%20session%20idea)
 
 
 ## Meeting topics
+
+![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/yZamKD19SFA) **2025-06-05 (Meeting #189) - An introduction to the Tidyverse (Megan L)** ::: [Slides](pages/2025-06-05-tidying-data-with-tidyverse/Tidying_Data_in_the_Tidyverse.pdf) 
 
 ![](img/harug_2024_tp.png){width="30" height="35"} [![](img/youtube.png){width="25"}](https://youtu.be/ITo80dIzgp8) **2025-05-22 (Meeting #188) - Decoding Common Errors and Fixing Code Issues (Joseph M)** ::: [Slides](pages/2025-05-22-decoding-r-errors-JM/rerrors.html) 
 
